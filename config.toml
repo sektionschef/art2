@@ -1,4 +1,4 @@
-baseurl      = "github.com/sektionschef/art2"
+baseurl      = "https://sektionschef.github.io/art2/"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
