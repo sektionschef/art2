@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Hello Friend NG</title>
+        <link>localhost/posts/</link>
+        <description>Recent content in Posts on Hello Friend NG</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Wed, 05 Jan 2022 22:09:07 +0100</lastBuildDate>
+        <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My First Post</title>
+            <link>localhost/posts/my-first-post/</link>
+            <pubDate>Wed, 05 Jan 2022 22:09:07 +0100</pubDate>
+            
+            <guid>localhost/posts/my-first-post/</guid>
+            <description>asdf asfasf sfaf adsfaf</description>
+            <content type="html"><![CDATA[<h1 id="asdf">asdf</h1>
+<p>asfasf sfaf adsfaf</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
