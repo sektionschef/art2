@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost/</loc>
+    <loc>https://digitalitility.com/</loc>
     <lastmod>2022-01-05T22:09:07+01:00</lastmod>
   </url><url>
-    <loc>localhost/posts/my-first-post/</loc>
+    <loc>https://digitalitility.com/posts/my-first-post/</loc>
     <lastmod>2022-01-05T22:09:07+01:00</lastmod>
   </url><url>
-    <loc>localhost/posts/</loc>
+    <loc>https://digitalitility.com/posts/</loc>
     <lastmod>2022-01-05T22:09:07+01:00</lastmod>
   </url><url>
-    <loc>localhost/tags/</loc>
+    <loc>https://digitalitility.com/tags/</loc>
     <lastmod>2022-01-05T22:09:07+01:00</lastmod>
   </url><url>
-    <loc>localhost/tags/untagged/</loc>
+    <loc>https://digitalitility.com/tags/untagged/</loc>
     <lastmod>2022-01-05T22:09:07+01:00</lastmod>
   </url><url>
-    <loc>localhost/posts/animation_sh/</loc>
+    <loc>https://digitalitility.com/posts/animation_sh/</loc>
     <lastmod>2012-01-29T12:27:30+01:00</lastmod>
   </url><url>
-    <loc>localhost/posts/data_painting/</loc>
+    <loc>https://digitalitility.com/posts/data_painting/</loc>
   </url><url>
-    <loc>localhost/posts/d%C3%BCbitale_revolution/</loc>
+    <loc>https://digitalitility.com/posts/d%C3%BCbitale_revolution/</loc>
   </url><url>
-    <loc>localhost/posts/hello_world_hello_futuregarden/</loc>
+    <loc>https://digitalitility.com/posts/hello_world_hello_futuregarden/</loc>
   </url><url>
-    <loc>localhost/posts/like_converter/</loc>
+    <loc>https://digitalitility.com/posts/like_converter/</loc>
   </url><url>
-    <loc>localhost/posts/paintings/</loc>
+    <loc>https://digitalitility.com/posts/paintings/</loc>
   </url><url>
-    <loc>localhost/posts/projection_painting_prototype/</loc>
+    <loc>https://digitalitility.com/posts/projection_painting_prototype/</loc>
   </url><url>
-    <loc>localhost/posts/twetterh%C3%A4uschen/</loc>
+    <loc>https://digitalitility.com/posts/twetterh%C3%A4uschen/</loc>
   </url><url>
-    <loc>localhost/blog/</loc>
+    <loc>https://digitalitility.com/blog/</loc>
   </url><url>
-    <loc>localhost/series/</loc>
+    <loc>https://digitalitility.com/series/</loc>
   </url>
 </urlset>
