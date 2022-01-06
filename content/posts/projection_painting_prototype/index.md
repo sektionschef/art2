@@ -12,17 +12,17 @@ tags:
 
 The structure of the canvas, mixing colors right on the canvas, layer after layer and letting the coincidence help is what makes traditional painting so powerful. However, as a nerdophile person I often miss the _undo_ button and the color wheel of the digital world.
 
-![Projection_Painting_Prototype_01](../images/projection_painting_prototype//P1070736.jpg)
+{{< figure src=P1070736.jpg alt="Projection_Painting_Prototype_01">}}
 
 Luckily, I came across the [processing](http://processing.org/) movement turning code into art and vice versa. The perfect base to combine vivid richness of painted structure with the interactive and dynamic power of code. In fact, I had the idea of creating a painting hanging in a local club and each time someone enters or leaves the room the color palette of the painting changes.
 
-![scribble_projection_painting](../images/projection_painting_prototype//scribble-1024x768.jpg)
+{{< figure src=scribble.jpg alt="scribble_projection_painting">}}
 
 So I bought a [Philips PPX2450 PicoPix](http://www.amazon.de/Philips-PPX2450-Taschenprojektor-Notebooks-Kontrast/dp/B006U1FAFI) beamer, grabbed my [Arduino uno](http://arduino.cc/de/Main/ArduinoBoardUno), a [hall effect sensor](http://www.hobbytronics.co.uk/arduino-tutorial11-hall-effect), some acrylic colors and a 120x80cm canvas. Two months later I am looking at a fully functional prototype with both worlds combined. I've built my first processing application, overcome [keystoning](http://en.wikipedia.org/wiki/Keystone_effect) and mapped my virtual picture to my real one.
 
 The teamplay of code and canvas enables me to visualize data or interactions in physical space.
 
-Video: [![Video Projection Painting Prototype](http://img.youtube.com/vi/D3uiVWXU7KE/0.jpg)](http://www.youtube.com/watch?v=D3uiVWXU7KE "Projection Painting Prototype")
+{{< youtube D3uiVWXU7KE >}}
 
 The following chapters descirbe how I did it in detail and therefore are pretty boring. Anyway, I found so much help in the online communities that this is the least I can do to help others out. The script itself is available at github: <https://github.com/sektionschef/proiezione>
 
@@ -34,17 +34,12 @@ First of all I made a paper pencil sketch for the image. Then, I transfered the 
 
 I've seen in a first attempt that exotic color combinations (beamer colors and acrylic colors) are not working that great. Due to the limited power of the Pico beamer I wasn't able to turn a bright yellow into a green nor a red into violet. Most imporantly, the lightness of the surface of the projection is essential: the projection can't overcome darker tones. For the image itself I painted [Sean Scully](http://de.wikipedia.org/wiki/Sean_Scully)-like color fields on a 120x80cm canvas. I mapped the exact proportions of the .svg sketch as coordinates to the canvas.
 
-![](../images/projection_painting_prototype//first_sketch-150x150.jpg)
-
-![](../images/projection_painting_prototype//Screenshot-from-2014-06-19-125012-150x150.png)
-
-![](../images/projection_painting_prototype//P1070674-150x150.jpg)
-
-![](../images/projection_painting_prototype//P10706791-150x150.jpg)
-
-![](../images/projection_painting_prototype//P1070684-150x150.jpg)
-
-![](../images/projection_painting_prototype//P1070688-150x150.jpg)
+{{< figure src=first_sketch.jpg alt="first_sketch">}}
+{{< figure src=Screenshot-from-2014-06-19-125012.png alt="Screenshot-from-2014-06-19-125012">}}
+{{< figure src=P1070674.jpg alt="d">}}
+{{< figure src=P10706791.jpg alt="d">}}
+{{< figure src=P1070684.jpg alt="d">}}
+{{< figure src=P1070688.jpg alt="d">}}
 
 ## Processing
 
