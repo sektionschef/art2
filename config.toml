@@ -1,4 +1,4 @@
-baseurl      = "https://sektionschef.github.io/art2"
+baseurl      = "https://sektionschef.github.io/art2/"
 title        = "Digitalitility"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -39,7 +39,7 @@ paginate     = 10
 
     [languages.en.params.logo]
       logoText = "Digitalitility"
-      logoHomeLink = "https://sektionschef.github.io/art2"
+      logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
@@ -50,3 +50,8 @@ paginate     = 10
     identifier = "blog"
     name       = "Blog"
     url        = "posts"
+  
+  [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -22,9 +22,11 @@ The video itself is my personal art project. It features some visual, experiment
 
 The following animations should show a certain difficulty of perceiving depth in the images. The next images continue this idea and visualize the transformation from the three dimensional reality to the flat, two dimensional image of that reality. The animations featuring the rectangles of black tape invert this process by actually projecting a flat rectangle back in the real space. The rectangle is solely visible from the perspective of the camera.
 
-<img src="https://images.albertsons-media.com/is/image/ABS/184450056?$ecom-pdp-desktop$&defaultImage=Not_Available&defaultImage=Not_Available" alt="Screenshot of the Onion homepage">
 
-kind
+{{< figure src=equip.jpg title="Steve Francia" >}}
+
+<img src="https://images.albertsons-media.com/is/image/ABS/184450056" alt="Screenshot of the Onion">
+
 
 ![](/static/animation_sh/equip-150x150.jpg)
 

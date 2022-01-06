@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>untagged on Digitalitility</title>
-    <link>https://sektionschef.github.io/art2/tags/untagged/</link>
+    <link>localhost/tags/untagged/</link>
     <description>Recent content in untagged on Digitalitility</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 05 Jan 2022 22:09:07 +0100</lastBuildDate><atom:link href="https://sektionschef.github.io/art2/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jan 2022 22:09:07 +0100</lastBuildDate><atom:link href="localhost/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://sektionschef.github.io/art2/posts/my-first-post/</link>
+      <link>localhost/posts/my-first-post/</link>
       <pubDate>Wed, 05 Jan 2022 22:09:07 +0100</pubDate>
       
-      <guid>https://sektionschef.github.io/art2/posts/my-first-post/</guid>
+      <guid>localhost/posts/my-first-post/</guid>
       <description>asdf asfasf sfaf adsfaf unverblümt
 really?</description>
     </item>
     
     <item>
       <title>Animation in the command line - ./animation.sh</title>
-      <link>https://sektionschef.github.io/art2/posts/animation_sh/</link>
+      <link>localhost/posts/animation_sh/</link>
       <pubDate>Sun, 29 Jan 2012 12:27:30 +0100</pubDate>
       
-      <guid>https://sektionschef.github.io/art2/posts/animation_sh/</guid>
+      <guid>localhost/posts/animation_sh/</guid>
       <description>Introduction After finding out how much one can do with ffmpeg&amp;hellip; I thought it would be the perfect tool for creating my abstract stop-motion animation I dreamed of for years. What I wanted to realize was simple: combining scenes of a series of high resolution photographs, including images of paintings and digitally edited material with various lengths, framerates exactly timed to a soundtrack.
 Ffmpeg is a powerful tool to convert audio and video files (among other things).</description>
     </item>
