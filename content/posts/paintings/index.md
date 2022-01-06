@@ -8,16 +8,12 @@ tags:
   - untagged
 ---
 
-![Nagano - Acrylic on canvas, 160x100cm](../images/paintings/nagano_ub.jpg "Nagano - Acrylic on canvas, 160x100cm")
-
-![Wühlmaus](../images/paintings/P1020296.jpg "Wühlmaus")
-
-![Skeleton](../images/paintings/P1020294.jpg "Skeleton")
-
-![Staro](../images/paintings/P1020293.jpg "Staro")
-
-![Magazino](../images/paintings/P1020291.jpg "Magazino")
-
-![Dochboden](../images/paintings/P1020289.jpg "Dochboden")
-
-![Schuachschochtl 1](../images/paintings/P1020285.jpg "Schuachschochtl 1") ![Schuachschochtl 2](../images/paintings/P1020282.jpg "Schuachschochtl 2") ![Schuachschochtl 3](../images/paintings/P1020287.jpg "Schuachschochtl 3")
+{{< figure src=nagano_ub.jpg title="Nagano - Acrylic on canvas, 160x100cm">}}
+{{< figure src=P1020296.jpg title="Wühlmaus">}}
+{{< figure src=P1020294.jpg title="Skeleton">}}
+{{< figure src=P1020293.jpg title="Staro">}}
+{{< figure src=P1020291.jpg title="Magazino">}}
+{{< figure src=P1020289.jpg title="Dochboden">}}
+{{< figure src=P1020285.jpg title="Schuachschochtl 1">}}
+{{< figure src=P1020282.jpg title="Schuachschochtl 2">}}
+{{< figure src=P1020287.jpg title="Schuachschochtl 3">}}
