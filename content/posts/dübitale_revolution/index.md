@@ -8,17 +8,14 @@ tags:
   - untagged
 ---
 
-![duebitalanzeige](../images/dübitale_revolution/P1060868.jpg)
+{{< figure src=P1060868.jpg alt="duebitalanzeige">}}
 
 Bayrische Großvisionäre haben das Tor zu einer neuen Dimension aufgestoßen. Die "Dübitalanzeige" besteht aus einem Holzbrett, in das durch präzise Bohrungen einzelne Dübel von Hand variabel angeordnet werden können. Je nach Dübelsetzung kann so, eine gewisse geistige Flexibilität vorausgesetzt, eine kurze Botschaft encodiert werden, ohne ein einziges Watt zu verbrauchen.
 
-![Rückseite der Dübitalanzeige](../images/dübitale_revolution/P1060863-150x150.jpg)
-
-![das Düxel](../images/dübitale_revolution/P1060871-150x150.jpg)
-
-![Close Up](../images/dübitale_revolution/P1060868-150x150.jpg)
-
-!["Donkschen" geschrieben auf der Dübitalanzeige](../images/dübitale_revolution/P1060866-150x150.jpg)
+{{< figure src=P1060863.jpg alt="Rückseite der Dübitalanzeige">}}
+{{< figure src=P1060871.jpg alt="das Düxel">}}
+{{< figure src=P1060868.jpg alt="Close Up">}}
+{{< figure src=P1060866.jpg alt="Donkschen geschrieben auf der Dübitalanzeige">}}
 
 Die "Dübitalanzeige" ist der erste große Schritt Richtung dübitaler Ära. Ob das Pixel tatsächlich dem Düxel Platz machen werden muss, wird sich erst in den nächsten Jahren herauskristallisieren.
 

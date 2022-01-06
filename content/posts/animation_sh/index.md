@@ -23,9 +23,9 @@ The video itself is my personal art project. It features some visual, experiment
 
 The following animations should show a certain difficulty of perceiving depth in the images. The next images continue this idea and visualize the transformation from the three dimensional reality to the flat, two dimensional image of that reality. The animations featuring the rectangles of black tape invert this process by actually projecting a flat rectangle back in the real space. The rectangle is solely visible from the perspective of the camera.
 
-{{< figure src=equip.jpg alt="taped rectangle" width="100%">}}
-{{< figure src=equip02.jpg alt="taped rectangle" width="100%">}}
-{{< figure src=equip03.jpg alt="taped rectangle" width="100%">}}
+{{< figure src=equip.jpg alt="taped rectangle">}}
+{{< figure src=equip02.jpg alt="taped rectangle">}}
+{{< figure src=equip03.jpg alt="taped rectangle">}}
 
 Similarly, the images feature how space, a white wall with corners, are reduced to different shades of white. The change of perspective creates different minimalist images. In the paintings the topics are applied practically. It is moreover interesting to see, how these evolve. The wood frame in the end acts as a summary by showing the same object in different states: during the different colours of daylight, with a moving light source and the wood frame moving itself.
 
