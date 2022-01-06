@@ -1,10 +1,48 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Digitalitility</title><link>https://digitalitility.com/posts/</link><description>Recent content in Posts on Digitalitility</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Thu, 01 Jan 2015 12:27:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Paintings</title><link>https://digitalitility.com/posts/paintings/</link><pubDate>Thu, 01 Jan 2015 12:27:30 +0100</pubDate><guid>https://digitalitility.com/posts/paintings/</guid><description/><content type="html"><![CDATA[<p><img src="../images/paintings/nagano_ub.jpg" alt="Nagano - Acrylic on canvas, 160x100cm" title="Nagano - Acrylic on canvas, 160x100cm"></p>
-<p><img src="../images/paintings/P1020296.jpg" alt="Wühlmaus" title="Wühlmaus"></p>
-<p><img src="../images/paintings/P1020294.jpg" alt="Skeleton" title="Skeleton"></p>
-<p><img src="../images/paintings/P1020293.jpg" alt="Staro" title="Staro"></p>
-<p><img src="../images/paintings/P1020291.jpg" alt="Magazino" title="Magazino"></p>
-<p><img src="../images/paintings/P1020289.jpg" alt="Dochboden" title="Dochboden"></p>
-<p><img src="../images/paintings/P1020285.jpg" alt="Schuachschochtl 1" title="Schuachschochtl 1"> <img src="../images/paintings/P1020282.jpg" alt="Schuachschochtl 2" title="Schuachschochtl 2"> <img src="../images/paintings/P1020287.jpg" alt="Schuachschochtl 3" title="Schuachschochtl 3"></p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Digitalitility</title><link>https://digitalitility.com/posts/</link><description>Recent content in Posts on Digitalitility</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Thu, 01 Jan 2015 12:27:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Paintings</title><link>https://digitalitility.com/posts/paintings/</link><pubDate>Thu, 01 Jan 2015 12:27:30 +0100</pubDate><guid>https://digitalitility.com/posts/paintings/</guid><description> Nagano - Acrylic on canvas, 160x100cm Wühlmaus Skeleton Staro Magazino Dochboden Schuachschochtl 1 Schuachschochtl 2 Schuachschochtl 3</description><content type="html"><![CDATA[<p><figure><img src="nagano_ub.jpg"/><figcaption>
+            <h4>Nagano - Acrylic on canvas, 160x100cm</h4>
+        </figcaption>
+</figure>
+
+<figure><img src="P1020296.jpg"/><figcaption>
+            <h4>Wühlmaus</h4>
+        </figcaption>
+</figure>
+
+<figure><img src="P1020294.jpg"/><figcaption>
+            <h4>Skeleton</h4>
+        </figcaption>
+</figure>
+
+<figure><img src="P1020293.jpg"/><figcaption>
+            <h4>Staro</h4>
+        </figcaption>
+</figure>
+
+<figure><img src="P1020291.jpg"/><figcaption>
+            <h4>Magazino</h4>
+        </figcaption>
+</figure>
+
+<figure><img src="P1020289.jpg"/><figcaption>
+            <h4>Dochboden</h4>
+        </figcaption>
+</figure>
+
+<figure><img src="P1020285.jpg"/><figcaption>
+            <h4>Schuachschochtl 1</h4>
+        </figcaption>
+</figure>
+
+<figure><img src="P1020282.jpg"/><figcaption>
+            <h4>Schuachschochtl 2</h4>
+        </figcaption>
+</figure>
+
+<figure><img src="P1020287.jpg"/><figcaption>
+            <h4>Schuachschochtl 3</h4>
+        </figcaption>
+</figure>
+</p>
 ]]></content></item><item><title>Hello world, hello futuregarden</title><link>https://digitalitility.com/posts/hello_world_hello_futuregarden/</link><pubDate>Tue, 25 Nov 2014 12:27:30 +0100</pubDate><guid>https://digitalitility.com/posts/hello_world_hello_futuregarden/</guid><description>What an honor: my projection painting prototype was publicly featured in futuregarden for 2 weeks. The original canvas was repainted with 5 different colors.
 At the entrance of the futuregarden a beamer, a laptop running my processing script (here at github), an arduino uno and a hall sensor were hooked up. The beamer pointing at the canvas projected five additional colors to create five new colors.
 Each time the door of the futuregarden was opened and somebody entered or left.</description><content type="html"><![CDATA[<p>What an honor: my <a href="http://digit.alitility.com/visualitility/projection-painting-prototype/" title="Projection Painting Prototype">projection painting prototype</a> was publicly featured in <a href="https://www.facebook.com/futuregarden">futuregarden</a> for 2 weeks. The original canvas was repainted with 5 different colors.</p>
