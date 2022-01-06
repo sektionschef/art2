@@ -4,6 +4,12 @@ languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
 
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+  # Set a background for the homepage
+  # backgroundImage = "assets/images/background.jpg"
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -24,10 +30,35 @@ paginate     = 10
   keywords = "homepage, blog"
   images = [""]
 
+enableThemeToggle = true
+
+[author]
+  name = "Stefan Schwaha"
+
+[params.footer]
+  trademark = true
+  author = true
+  copyright = true
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/sektionschef"
+
+[[params.social]]
+  name = "twitter"
+  url  = "https://twitter.com/sektionschef"
+
+[[params.social]]
+  name = "linkedin"
+  url  = "https://www.linkedin.com/in/stefanschwaha/"
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
     series   = "series"
+
+[params.logo]
+  logoMark     = ">"
 
 [languages]
   [languages.en]
@@ -51,7 +82,12 @@ paginate     = 10
     name       = "Portfolio"
     url        = "posts"
   
-  [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup]
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[params.portrait]
+   path     = "stefan schwaha 201906.jpg"
+   alt      = "Stefan Schwaha Portrait"
+   maxWidth = "80px"
