@@ -43,7 +43,7 @@
 <meta itemprop="name" content="Data Painting - The Past in Realtime">
 <meta itemprop="description" content="After the infamous projection prototype, my first work is finished: the past in realtime. It displays our team&rsquo;s diverging efforts for each minute of the day on a painted canvas. Based on the data of 51.000 time entries of ambuzzador&rsquo;s past, the painting explains the distribution of our working time for six categories: project management, meetings, conceptual design, consulting, editorial services and content creation. For each minute, six color tones are projected on variably sized, painted areas."><meta itemprop="datePublished" content="2014-09-28T12:27:30+01:00" />
 <meta itemprop="dateModified" content="2014-09-28T12:27:30+01:00" />
-<meta itemprop="wordCount" content="399"><meta itemprop="image" content="https://digitalitility.com"/>
+<meta itemprop="wordCount" content="398"><meta itemprop="image" content="https://digitalitility.com"/>
 <meta itemprop="keywords" content="untagged," />
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://digitalitility.com"/>
@@ -149,18 +149,37 @@
       
 
       <div class="post-content">
-        <p><img src="../images/data_painting/Untitled_kl1.gif" alt="past in realtime gif"></p>
+        <figure><img src="Untitled_kl1.gif"
+         alt="past in realtime gif"/>
+</figure>
+
 <p>After the infamous <a href="http://digit.alitility.com/visualitility/projection-painting-prototype/" title="Projection Painting Prototype">projection prototype</a>, my first work is finished: the past in realtime. It displays our team&rsquo;s diverging efforts for each minute of the day on a painted canvas. Based on the data of 51.000 time entries of <a href="http://ambuzzador.com/">ambuzzador</a>&rsquo;s past, the painting explains the distribution of our working time for six categories: project management, meetings, conceptual design, consulting, editorial services and content creation. For each minute, six color tones are projected on variably sized, painted areas. For instance, the amount of the screen the blue color fills is the proportion of the work spent on meetings at that time. In short: A pie chart without a pie.</p>
-<p>Video: <a href="https://www.youtube.com/watch?v=CLqPOSmoUIo"><img src="https://img.youtube.com/vi/CLqPOSmoUIo/0.jpg" alt="Projection Paining im Futuregarden"></a></p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/CLqPOSmoUIo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
 <h2 id="how-it-was-done">How it was done</h2>
 <p>I took the timesheets, which hold the exact date and time when a particular task was started and ended - about 51.000 eintries since 2011. When expanding the time entries for every minute ranging from the minute started and the minute ended the data grew to about 21 billion entries.</p>
 <p>For the real-world part of this project, I painted a canvas with 133 abstract polygons with some inspiration of good old <a href="http://en.wikipedia.org/wiki/Kazimir_Malevich">Kazimir Malevich</a>. The areas' outlines were transformed to a virtual clone in svg format. And then wrote an <a href="http://www.r-project.org/">R</a> script to calculate the area of each polygon and to normalize them.</p>
 <p>Finally, the areas of the canvas had to be chosen so that the sum of their areas best matches the proportion for each task category in each minute. This combinatorial optimization riddle is known as the <a href="http://en.wikipedia.org/wiki/Knapsack_problem">Knapsack problem</a> in literature and obviously there is no other solution than to test every single combination, brute force. In order to compensate the lack of supercomputers at home, I randomly created seven groups from all the polygons. This way the combinations were reduced to 2 million per minute and per category. It took 32 hours for my computer to come up with the optimal solution for presenting the ambuzzador&rsquo;s past in realtime. The maximal deviance between data and canvas is about 2% with a standard error of 0.087%.</p>
 <p>The projection painting was done <a href="http://digit.alitility.com/visualitility/projection-painting-prototype/" title="Projection Painting Prototype">again</a> in <a href="http://processing.org/">Processing</a> using keystone library. The whole project took about 3 months. The source code is publicly available on github: <a href="https://github.com/sektionschef/10yearsbuzz">https://github.com/sektionschef/10yearsbuzz</a></p>
-<p><img src="../images/data_painting/P1070764-1024x768.jpg" alt="past in realtime start"></p>
-<p><img src="../images/data_painting/P1070776-1024x768.jpg" alt="past in realtime transform to svg"></p>
-<p><img src="../images/data_painting/P1070792_ub-1024x768.jpg" alt="past in realtime finished"></p>
-<h2 id="untitled_klimagesdata_paintinguntitled_kl1gif"><img src="../images/data_painting/Untitled_kl1.gif" alt="Untitled_kl"></h2>
+<figure><img src="P1070764.jpg"
+         alt="past in realtime start"/>
+</figure>
+
+<figure><img src="P1070776.jpg"
+         alt="past in realtime transform to svg"/>
+</figure>
+
+<figure><img src="P1070792_ub.jpg"
+         alt="past in realtime finished"/>
+</figure>
+
+<figure><img src="Untitled_kl1.gif"
+         alt="Untitled_kl"/>
+</figure>
+
 <h2 id="with-special-thanks-to">with special thanks to</h2>
 <ul>
 <li><a href="https://gist.github.com/ivanpike/5236688">https://gist.github.com/ivanpike/5236688</a> - multiple surfaces for keystone library in processing</li>
@@ -193,7 +212,7 @@
           <line x1="16" y1="17" x2="8" y2="17"></line>
           <polyline points="10 9 9 9 8 9"></polyline>
         </svg>
-        399 Words
+        398 Words
       </p>
 
       <p>
