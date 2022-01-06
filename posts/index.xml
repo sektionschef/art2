@@ -304,10 +304,22 @@ Die &amp;ldquo;Dübitalanzeige&amp;rdquo; ist der erste große Schritt Richtung 
 </ul>
 ]]></content></item><item><title>Twetterhäuschen</title><link>https://digitalitility.com/posts/twetterhaeuschen/</link><pubDate>Wed, 20 Nov 2013 12:27:30 +0100</pubDate><guid>https://digitalitility.com/posts/twetterhaeuschen/</guid><description>The Twetterhäuschen is the world&amp;rsquo;s first Wetterhäuschen for visualizing the sentiment of a specific topic on twitter. It was built on a raspberry pi, a servo controlled by an arduino uno, using node.js in combination with socket.io. You can find the code on github to build your own: https://github.com/sektionschef/twetterhaeuschen
 Implementation The Twetterhäuschen has its web form (index.html) to fill a brand or topic of interest The keyword is passed on to the server (app.</description><content type="html"><![CDATA[<p>The Twetterhäuschen is the world&rsquo;s first Wetterhäuschen for visualizing the sentiment of a specific topic on <a href="http://twitter.com/">twitter</a>. It was built on a <a href="http://www.raspberrypi.org/">raspberry pi</a>, a servo controlled by an <a href="http://arduino.cc/">arduino uno</a>, using <a href="http://nodejs.org/">node.js</a> in combination with <a href="http://socket.io/">socket.io</a>. You can find the code on github to build your own: <a href="https://github.com/sektionschef/twetterhaeuschen">https://github.com/sektionschef/twetterhaeuschen</a></p>
-<p><img src="../images/twetterh%C3%A4uschen/Twetterhaeuschen_01-150x150.jpg" alt=""></p>
-<p><img src="../images/twetterh%C3%A4uschen/Twetterhaeuschen_02-150x150.jpg" alt=""></p>
-<p><img src="../images/twetterh%C3%A4uschen/Twetterhaeuschen_03-150x150.jpg" alt=""></p>
-<p><img src="../images/twetterh%C3%A4uschen/Twetterhaeuschen-Frontend-150x150.png" alt=""></p>
+<p><figure><img src="Twetterhaeuschen_01.jpg"
+         alt="Twetterhaeuschen_01"/>
+</figure>
+
+<figure><img src="Twetterhaeuschen_02.jpg"
+         alt="Twetterhaeuschen_02"/>
+</figure>
+
+<figure><img src="Twetterhaeuschen_03.jpg"
+         alt="Twetterhaeuschen_03"/>
+</figure>
+
+<figure><img src="Twetterhaeuschen-Frontend.png"
+         alt="Twetterhaeuschen Frontend"/>
+</figure>
+</p>
 <h2 id="implementation">Implementation</h2>
 <ol>
 <li>The Twetterhäuschen has its web form (index.html) to fill a brand or topic of interest</li>
@@ -317,7 +329,11 @@ Implementation The Twetterhäuschen has its web form (index.html) to fill a bran
 <li>Whereas Sepp represents the dark force, Susi acts as a substitute for ecstacy and elation.</li>
 </ol>
 <p>Here is an explanation in German:</p>
-<p><a href="https://www.youtube.com/watch?v=jSNGg0Prsf4">https://www.youtube.com/watch?v=jSNGg0Prsf4</a> <a href="http://www.youtube.com/watch?v=jSNGg0Prsf4"><img src="http://img.youtube.com/vi/jSNGg0Prsf4/0.jpg" alt="Prototype"></a></p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/jSNGg0Prsf4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
 ]]></content></item><item><title>Animation in the command line - ./animation.sh</title><link>https://digitalitility.com/posts/animation_sh/</link><pubDate>Sun, 29 Jan 2012 12:27:30 +0100</pubDate><guid>https://digitalitility.com/posts/animation_sh/</guid><description>Why After finding out how much one can do with ffmpeg&amp;hellip; I thought it would be the perfect tool for creating my abstract stop-motion animation I dreamed of for years. What I wanted to realize was simple: combining scenes of a series of high resolution photographs, including images of paintings and digitally edited material with various lengths, framerates exactly timed to a soundtrack.
 Ffmpeg is a powerful tool to convert audio and video files (among other things).</description><content type="html"><![CDATA[
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
