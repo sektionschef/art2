@@ -1,4 +1,12 @@
-# Like Converter | Apr 29, 2014
+---
+title: "Like Converter"
+date: 2014-04-29T12:27:30+01:00
+draft: false
+toc: false
+images:
+tags:
+  - untagged
+---
 
 The Like Converter transforms likes earned for a Facebook posting into delicious candy. It is a reward system for social media managers and a source of motivation for your desk.
 

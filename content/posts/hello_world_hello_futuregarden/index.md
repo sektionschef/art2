@@ -1,4 +1,13 @@
-# Hello world, hello futuregarden | Nov 25, 2014
+---
+title: "Hello world, hello futuregarden"
+date: 2014-11-25T12:27:30+01:00
+draft: false
+toc: false
+images:
+tags:
+  - untagged
+---
+
 
 What an honor: my [projection painting prototype](http://digit.alitility.com/visualitility/projection-painting-prototype/ "Projection Painting Prototype") was publicly featured in [futuregarden](https://www.facebook.com/futuregarden) for 2 weeks. The original canvas was repainted with 5 different colors.
 

@@ -1,4 +1,12 @@
-# Paintings
+---
+title: "Paintings"
+date: 2015-01-01T12:27:30+01:00
+draft: false
+toc: false
+images:
+tags:
+  - untagged
+---
 
 ![Nagano - Acrylic on canvas, 160x100cm](../images/paintings/nagano_ub.jpg "Nagano - Acrylic on canvas, 160x100cm")
 

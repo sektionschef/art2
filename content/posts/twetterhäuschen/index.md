@@ -1,4 +1,12 @@
-# Twetterhäuschen | Nov 20, 2013
+---
+title: "Twetterhäuschen"
+date: 2013-11-20T12:27:30+01:00
+draft: false
+toc: false
+images:
+tags:
+  - untagged
+---
 
 The Twetterhäuschen is the world's first Wetterhäuschen for visualizing the sentiment of a specific topic on [twitter](http://twitter.com/). It was built on a [raspberry pi](http://www.raspberrypi.org/), a servo controlled by an [arduino uno](http://arduino.cc/), using [node.js](http://nodejs.org/) in combination with [socket.io](http://socket.io/). You can find the code on github to build your own: <https://github.com/sektionschef/twetterhaeuschen>
 

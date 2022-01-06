@@ -1,4 +1,13 @@
-# Data Painting - The Past in Realtime | Sep 28, 2014
+---
+title: "Data Painting - The Past in Realtime"
+date: 2014-09-28T12:27:30+01:00
+draft: false
+toc: false
+images:
+tags:
+  - untagged
+---
+
 
 ![past in realtime gif](../images/data_painting/Untitled_kl1.gif)
 

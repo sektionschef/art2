@@ -1,4 +1,12 @@
-# Die Dübitale Revolution | 2014/03/30
+---
+title: "Die Dübitale Revolution"
+date: 2014-03-30T12:27:30+01:00
+draft: false
+toc: false
+images:
+tags:
+  - untagged
+---
 
 ![duebitalanzeige](../images/dübitale_revolution/P1060868.jpg)
 

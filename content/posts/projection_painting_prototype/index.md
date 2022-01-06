@@ -1,6 +1,14 @@
-# Projection Painting Prototype | Jul 17, 2014
+---
+title: "Projection Painting Prototype"
+date: 2014-07-17T12:27:30+01:00
+draft: false
+toc: false
+images:
+tags:
+  - untagged
+---
 
-## Executive Summary
+# Executive Summary
 
 The structure of the canvas, mixing colors right on the canvas, layer after layer and letting the coincidence help is what makes traditional painting so powerful. However, as a nerdophile person I often miss the _undo_ button and the color wheel of the digital world.
 
