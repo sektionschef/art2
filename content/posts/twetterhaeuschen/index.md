@@ -8,15 +8,14 @@ tags:
   - untagged
 ---
 
+
 The Twetterhäuschen is the world's first Wetterhäuschen for visualizing the sentiment of a specific topic on [twitter](http://twitter.com/). It was built on a [raspberry pi](http://www.raspberrypi.org/), a servo controlled by an [arduino uno](http://arduino.cc/), using [node.js](http://nodejs.org/) in combination with [socket.io](http://socket.io/). You can find the code on github to build your own: <https://github.com/sektionschef/twetterhaeuschen>
 
-![](../images/twetterhäuschen/Twetterhaeuschen_01-150x150.jpg)
+{{< figure src=Twetterhaeuschen_01.jpg alt="Twetterhaeuschen_01">}}
+{{< figure src=Twetterhaeuschen_02.jpg alt="Twetterhaeuschen_02">}}
+{{< figure src=Twetterhaeuschen_03.jpg alt="Twetterhaeuschen_03">}}
+{{< figure src=Twetterhaeuschen-Frontend.png alt="Twetterhaeuschen Frontend">}}
 
-![](../images/twetterhäuschen/Twetterhaeuschen_02-150x150.jpg)
-
-![](../images/twetterhäuschen/Twetterhaeuschen_03-150x150.jpg)
-
-![](../images/twetterhäuschen/Twetterhaeuschen-Frontend-150x150.png)
 
 ## Implementation
 
@@ -28,4 +27,4 @@ The Twetterhäuschen is the world's first Wetterhäuschen for visualizing the se
 
 Here is an explanation in German:
 
-<https://www.youtube.com/watch?v=jSNGg0Prsf4> [![Prototype](http://img.youtube.com/vi/jSNGg0Prsf4/0.jpg)](http://www.youtube.com/watch?v=jSNGg0Prsf4)
+{{< youtube jSNGg0Prsf4 >}}
