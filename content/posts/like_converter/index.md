@@ -10,14 +10,11 @@ tags:
 
 The Like Converter transforms likes earned for a Facebook posting into delicious candy. It is a reward system for social media managers and a source of motivation for your desk.
 
-Video: [![Like Converter](http://img.youtube.com/vi/qcssBxjWfE8/0.jpg)](http://www.youtube.com/watch?v=qcssBxjWfE8 "Like Converter")
+{{< youtube qcssBxjWfE8 >}}
 
-The thing itself is built (like the [Twetterhaeuschen](http://digit.alitility.com/tutori-alitility/twetterhauschen/ "Twetterhäuschen")) on a [raspberry pi](http://www.raspberrypi.org/ "raspberry pi"), an [arduino](http://www.arduino.cc/) uno using [node.js](http://nodejs.org/) and [firmata](http://arduino.cc/en/reference/firmata). The source code is on github: <https://github.com/sektionschef/like_converter>
+The thing itself is built (like the [Twetterhaeuschen] ({{< ref "posts/twetterhaeuschen" >}} )) on a [raspberry pi](http://www.raspberrypi.org/ "raspberry pi"), an [arduino](http://www.arduino.cc/) uno using [node.js](http://nodejs.org/) and [firmata](http://arduino.cc/en/reference/firmata). The source code is on github: <https://github.com/sektionschef/like_converter>
 
-![](../images/like_converter//P1060877-150x150.jpg)
-
-![The Like Converter sign](../images/like_converter//P1060880-150x150.jpg)
-
-![](../images/like_converter//P1060883-150x150.jpg)
-
-![](../images/like_converter//P1060893-150x150.jpg)
+{{< figure src=P1060877.jpg alt="Like converter">}}
+{{< figure src=P1060880.jpg alt="The Like Converter sign">}}
+{{< figure src=P1060883.jpg alt="Like converter 2">}}
+{{< figure src=P1060893.jpg alt="Like converter 3">}}
