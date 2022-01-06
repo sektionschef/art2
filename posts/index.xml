@@ -1,7 +1,185 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Digitalitility</title><link>https://digitalitility.com/posts/</link><description>Recent content in Posts on Digitalitility</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Wed, 05 Jan 2022 22:09:07 +0100</lastBuildDate><atom:link href="https://digitalitility.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://digitalitility.com/posts/my-first-post/</link><pubDate>Wed, 05 Jan 2022 22:09:07 +0100</pubDate><guid>https://digitalitility.com/posts/my-first-post/</guid><description>asdf asfasf sfaf adsfaf unverblümt
-really?</description><content type="html"><![CDATA[<h1 id="asdf">asdf</h1>
-<p>asfasf sfaf adsfaf unverblümt</p>
-<p>really?</p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Digitalitility</title><link>https://digitalitility.com/posts/</link><description>Recent content in Posts on Digitalitility</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Thu, 01 Jan 2015 12:27:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Paintings</title><link>https://digitalitility.com/posts/paintings/</link><pubDate>Thu, 01 Jan 2015 12:27:30 +0100</pubDate><guid>https://digitalitility.com/posts/paintings/</guid><description/><content type="html"><![CDATA[<p><img src="../images/paintings/nagano_ub.jpg" alt="Nagano - Acrylic on canvas, 160x100cm" title="Nagano - Acrylic on canvas, 160x100cm"></p>
+<p><img src="../images/paintings/P1020296.jpg" alt="Wühlmaus" title="Wühlmaus"></p>
+<p><img src="../images/paintings/P1020294.jpg" alt="Skeleton" title="Skeleton"></p>
+<p><img src="../images/paintings/P1020293.jpg" alt="Staro" title="Staro"></p>
+<p><img src="../images/paintings/P1020291.jpg" alt="Magazino" title="Magazino"></p>
+<p><img src="../images/paintings/P1020289.jpg" alt="Dochboden" title="Dochboden"></p>
+<p><img src="../images/paintings/P1020285.jpg" alt="Schuachschochtl 1" title="Schuachschochtl 1"> <img src="../images/paintings/P1020282.jpg" alt="Schuachschochtl 2" title="Schuachschochtl 2"> <img src="../images/paintings/P1020287.jpg" alt="Schuachschochtl 3" title="Schuachschochtl 3"></p>
+]]></content></item><item><title>Hello world, hello futuregarden</title><link>https://digitalitility.com/posts/hello_world_hello_futuregarden/</link><pubDate>Tue, 25 Nov 2014 12:27:30 +0100</pubDate><guid>https://digitalitility.com/posts/hello_world_hello_futuregarden/</guid><description>What an honor: my projection painting prototype was publicly featured in futuregarden for 2 weeks. The original canvas was repainted with 5 different colors.
+Video:
+At the entrance of the futuregarden a beamer, a laptop running my processing script (here at github), an arduino uno and a hall sensor were hooked up. The beamer pointing at the canvas projected five additional colors to create five new colors.
+Each time the door of the futuregarden was opened and somebody entered or left.</description><content type="html"><![CDATA[<p>What an honor: my <a href="http://digit.alitility.com/visualitility/projection-painting-prototype/" title="Projection Painting Prototype">projection painting prototype</a> was publicly featured in <a href="https://www.facebook.com/futuregarden">futuregarden</a> for 2 weeks. The original canvas was repainted with 5 different colors.</p>
+<p>Video: <a href="https://www.youtube.com/watch?v=6cnZBFc5yuE"><img src="https://img.youtube.com/vi/6cnZBFc5yuE/0.jpg" alt="Projection Paining im Futuregarden"></a></p>
+<p><img src="../images/hello_world_hello_futuregarden/futuregarden_inaction02.jpg" alt="Futuregarden inaction02"></p>
+<p>At the entrance of the futuregarden a beamer, a laptop running my <a href="https://processing.org/">processing</a> script (<a href="https://github.com/sektionschef/proiezione">here at github</a>), an <a href="http://www.arduino.cc/">arduino</a> uno and a hall sensor were hooked up. The beamer pointing at the canvas projected five additional colors to create five new colors.</p>
+<p><img src="../images/hello_world_hello_futuregarden/futuregarden_beamer-150x150.jpg" alt=""></p>
+<p><img src="../images/hello_world_hello_futuregarden/futuregarden_hallsensor-150x150.jpg" alt=""></p>
+<p><img src="../images/hello_world_hello_futuregarden/futuregarden_inaction01-150x150.jpg" alt=""></p>
+<p><img src="../images/hello_world_hello_futuregarden/futuregarden_inaction03-150x150.jpg" alt=""></p>
+<p><img src="../images/hello_world_hello_futuregarden/futuregarden_lightson-150x150.jpg" alt=""></p>
+<p><img src="../images/hello_world_hello_futuregarden/futuregarden_nobeamer-150x150.jpg" alt=""></p>
+<p><img src="../images/hello_world_hello_futuregarden/futuregarden_inaction02-150x150.jpg" alt=""></p>
+<p>Each time the door of the futuregarden was opened and somebody entered or left., five new colors were thrown on the canvas. These five-color palettes were created using the &ldquo;crowd-color&rdquo; platform <a href="http://www.colourlovers.com/">colorlovers</a>. In addtion, to my own color palettes, I featured some others I liked:</p>
+<ul>
+<li><a href="http://www.colourlovers.com/palette/3388285/juno?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3388/3388285_juno.png" alt="juno"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3393359/roger_miller?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3393/3393359_roger_miller.png" alt="roger_miller"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3399500/who_rang?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3399/3399500_who_rang.png" alt="who_rang"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3367669/She_Tells_Herself?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3367/3367669_She_Tells_Herself.png" alt="She_Tells_Herself"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3399454/barbie_soldier"><img src="http://www.colourlovers.com/images/badges/p/3399/3399454_barbie_soldier.png" alt="barbie_soldier"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3399464/im_a_rocket"><img src="http://www.colourlovers.com/images/badges/p/3399/3399464_im_a_rocket.png" alt="im_a_rocket"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3399484/verrazano"><img src="http://www.colourlovers.com/images/badges/p/3399/3399484_verrazano.png" alt="verrazano"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3419291/may?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3419/3419291_may.png" alt="may"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3419301/brunnen?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3419/3419301_brunnen.png" alt="brunnen"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3419311/old_profs_beard?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3419/3419311_old_profs_beard.png" alt="old_profs_beard"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3419289/Summer_Thoughts?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3419/3419289_Summer_Thoughts.png" alt="Summer_Thoughts"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3531033/random_192?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3531/3531033_random_192.png" alt="random_192"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3531024/EstanteDaImagina%C3%A7%C3%A3o"><img src="http://www.colourlovers.com/images/badges/p/3531/3531024_EstanteDaImaginao.png" alt="EstanteDaImaginação"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3531020/Mauve"><img src="http://www.colourlovers.com/images/badges/p/3531/3531020_Mauve.png" alt="Mauve"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3531018/No_Clever_Title"><img src="http://www.colourlovers.com/images/badges/p/3531/3531018_No_Clever_Title.png" alt="No_Clever_Title"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3531016/cloth"><img src="http://www.colourlovers.com/images/badges/p/3531/3531016_cloth.png" alt="cloth"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3531012/Snacks_On_Sunday?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3531/3531012_Snacks_On_Sunday.png" alt="Snacks_On_Sunday"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3531008/Rewind_Start_Over?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3531/3531008_Rewind_Start_Over.png" alt="Rewind_Start_Over"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3530997/Black_Gold?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3530/3530997_Black_Gold.png" alt="Black_Gold"></a></li>
+<li><a href="http://www.colourlovers.com/palette/3530990/I_Go_In_And_Out?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3530/3530990_I_Go_In_And_Out.png" alt="I_Go_In_And_Out"></a></li>
+</ul>
+<p>The result was the perfect atmosphere to enjoy a beer.</p>
+]]></content></item><item><title>Data Painting - The Past in Realtime</title><link>https://digitalitility.com/posts/data_painting/</link><pubDate>Sun, 28 Sep 2014 12:27:30 +0100</pubDate><guid>https://digitalitility.com/posts/data_painting/</guid><description>After the infamous projection prototype, my first work is finished: the past in realtime. It displays our team&amp;rsquo;s diverging efforts for each minute of the day on a painted canvas. Based on the data of 51.000 time entries of ambuzzador&amp;rsquo;s past, the painting explains the distribution of our working time for six categories: project management, meetings, conceptual design, consulting, editorial services and content creation. For each minute, six color tones are projected on variably sized, painted areas.</description><content type="html"><![CDATA[<p><img src="../images/data_painting/Untitled_kl1.gif" alt="past in realtime gif"></p>
+<p>After the infamous <a href="http://digit.alitility.com/visualitility/projection-painting-prototype/" title="Projection Painting Prototype">projection prototype</a>, my first work is finished: the past in realtime. It displays our team&rsquo;s diverging efforts for each minute of the day on a painted canvas. Based on the data of 51.000 time entries of <a href="http://ambuzzador.com/">ambuzzador</a>&rsquo;s past, the painting explains the distribution of our working time for six categories: project management, meetings, conceptual design, consulting, editorial services and content creation. For each minute, six color tones are projected on variably sized, painted areas. For instance, the amount of the screen the blue color fills is the proportion of the work spent on meetings at that time. In short: A pie chart without a pie.</p>
+<p>Video: <a href="https://www.youtube.com/watch?v=CLqPOSmoUIo"><img src="https://img.youtube.com/vi/CLqPOSmoUIo/0.jpg" alt="Projection Paining im Futuregarden"></a></p>
+<h2 id="how-it-was-done">How it was done</h2>
+<p>I took the timesheets, which hold the exact date and time when a particular task was started and ended - about 51.000 eintries since 2011. When expanding the time entries for every minute ranging from the minute started and the minute ended the data grew to about 21 billion entries.</p>
+<p>For the real-world part of this project, I painted a canvas with 133 abstract polygons with some inspiration of good old <a href="http://en.wikipedia.org/wiki/Kazimir_Malevich">Kazimir Malevich</a>. The areas' outlines were transformed to a virtual clone in svg format. And then wrote an <a href="http://www.r-project.org/">R</a> script to calculate the area of each polygon and to normalize them.</p>
+<p>Finally, the areas of the canvas had to be chosen so that the sum of their areas best matches the proportion for each task category in each minute. This combinatorial optimization riddle is known as the <a href="http://en.wikipedia.org/wiki/Knapsack_problem">Knapsack problem</a> in literature and obviously there is no other solution than to test every single combination, brute force. In order to compensate the lack of supercomputers at home, I randomly created seven groups from all the polygons. This way the combinations were reduced to 2 million per minute and per category. It took 32 hours for my computer to come up with the optimal solution for presenting the ambuzzador&rsquo;s past in realtime. The maximal deviance between data and canvas is about 2% with a standard error of 0.087%.</p>
+<p>The projection painting was done <a href="http://digit.alitility.com/visualitility/projection-painting-prototype/" title="Projection Painting Prototype">again</a> in <a href="http://processing.org/">Processing</a> using keystone library. The whole project took about 3 months. The source code is publicly available on github: <a href="https://github.com/sektionschef/10yearsbuzz">https://github.com/sektionschef/10yearsbuzz</a></p>
+<p><img src="../images/data_painting/P1070764-1024x768.jpg" alt="past in realtime start"></p>
+<p><img src="../images/data_painting/P1070776-1024x768.jpg" alt="past in realtime transform to svg"></p>
+<p><img src="../images/data_painting/P1070792_ub-1024x768.jpg" alt="past in realtime finished"></p>
+<h2 id="untitled_klimagesdata_paintinguntitled_kl1gif"><img src="../images/data_painting/Untitled_kl1.gif" alt="Untitled_kl"></h2>
+<h2 id="with-special-thanks-to">with special thanks to</h2>
+<ul>
+<li><a href="https://gist.github.com/ivanpike/5236688">https://gist.github.com/ivanpike/5236688</a> - multiple surfaces for keystone library in processing</li>
+<li><a href="http://de.wikihow.com/Die-Fl%C3%A4che-eines-Vielecks-berechnen">http://de.wikihow.com/Die-Fl%C3%A4che-eines-Vielecks-berechnen</a> - calculating areas of polygons</li>
+<li><a href="http://stackoverflow.com/questions/21868326/r-scraping-web-with-xpathsapply">http://stackoverflow.com/questions/21868326/r-scraping-web-with-xpathsapply</a> - getting xml/svg in R</li>
+<li><a href="http://forum.processing.org/two/">http://forum.processing.org/two/</a> - all the open source communities</li>
+</ul>
+]]></content></item><item><title>Projection Painting Prototype</title><link>https://digitalitility.com/posts/projection_painting_prototype/</link><pubDate>Thu, 17 Jul 2014 12:27:30 +0100</pubDate><guid>https://digitalitility.com/posts/projection_painting_prototype/</guid><description>Executive Summary The structure of the canvas, mixing colors right on the canvas, layer after layer and letting the coincidence help is what makes traditional painting so powerful. However, as a nerdophile person I often miss the undo button and the color wheel of the digital world.
+Luckily, I came across the processing movement turning code into art and vice versa. The perfect base to combine vivid richness of painted structure with the interactive and dynamic power of code.</description><content type="html"><![CDATA[<h1 id="executive-summary">Executive Summary</h1>
+<p>The structure of the canvas, mixing colors right on the canvas, layer after layer and letting the coincidence help is what makes traditional painting so powerful. However, as a nerdophile person I often miss the <em>undo</em> button and the color wheel of the digital world.</p>
+<p><img src="../images/projection_painting_prototype//P1070736.jpg" alt="Projection_Painting_Prototype_01"></p>
+<p>Luckily, I came across the <a href="http://processing.org/">processing</a> movement turning code into art and vice versa. The perfect base to combine vivid richness of painted structure with the interactive and dynamic power of code. In fact, I had the idea of creating a painting hanging in a local club and each time someone enters or leaves the room the color palette of the painting changes.</p>
+<p><img src="../images/projection_painting_prototype//scribble-1024x768.jpg" alt="scribble_projection_painting"></p>
+<p>So I bought a <a href="http://www.amazon.de/Philips-PPX2450-Taschenprojektor-Notebooks-Kontrast/dp/B006U1FAFI">Philips PPX2450 PicoPix</a> beamer, grabbed my <a href="http://arduino.cc/de/Main/ArduinoBoardUno">Arduino uno</a>, a <a href="http://www.hobbytronics.co.uk/arduino-tutorial11-hall-effect">hall effect sensor</a>, some acrylic colors and a 120x80cm canvas. Two months later I am looking at a fully functional prototype with both worlds combined. I&rsquo;ve built my first processing application, overcome <a href="http://en.wikipedia.org/wiki/Keystone_effect">keystoning</a> and mapped my virtual picture to my real one.</p>
+<p>The teamplay of code and canvas enables me to visualize data or interactions in physical space.</p>
+<p>Video: <a href="http://www.youtube.com/watch?v=D3uiVWXU7KE" title="Projection Painting Prototype"><img src="http://img.youtube.com/vi/D3uiVWXU7KE/0.jpg" alt="Video Projection Painting Prototype"></a></p>
+<p>The following chapters descirbe how I did it in detail and therefore are pretty boring. Anyway, I found so much help in the online communities that this is the least I can do to help others out. The script itself is available at github: <a href="https://github.com/sektionschef/proiezione">https://github.com/sektionschef/proiezione</a></p>
+<h2 id="realisation">Realisation</h2>
+<h3 id="sketches-and-painting">Sketches and Painting</h3>
+<p>First of all I made a paper pencil sketch for the image. Then, I transfered the real sketch to a virtual svg using inkscape (keeping the same aspect ratio, 120:80). I drew the grid and then filled it up with rectangles in five different colors. The svg helped me to decide the relative color differences. For this purpose (and also later on in processing) I switched to the <a href="http://en.wikipedia.org/wiki/HSL_and_HSV">HSV</a> color model.</p>
+<p>I&rsquo;ve seen in a first attempt that exotic color combinations (beamer colors and acrylic colors) are not working that great. Due to the limited power of the Pico beamer I wasn&rsquo;t able to turn a bright yellow into a green nor a red into violet. Most imporantly, the lightness of the surface of the projection is essential: the projection can&rsquo;t overcome darker tones. For the image itself I painted <a href="http://de.wikipedia.org/wiki/Sean_Scully">Sean Scully</a>-like color fields on a 120x80cm canvas. I mapped the exact proportions of the .svg sketch as coordinates to the canvas.</p>
+<p><img src="../images/projection_painting_prototype//first_sketch-150x150.jpg" alt=""></p>
+<p><img src="../images/projection_painting_prototype//Screenshot-from-2014-06-19-125012-150x150.png" alt=""></p>
+<p><img src="../images/projection_painting_prototype//P1070674-150x150.jpg" alt=""></p>
+<p><img src="../images/projection_painting_prototype//P10706791-150x150.jpg" alt=""></p>
+<p><img src="../images/projection_painting_prototype//P1070684-150x150.jpg" alt=""></p>
+<p><img src="../images/projection_painting_prototype//P1070688-150x150.jpg" alt=""></p>
+<h2 id="processing">Processing</h2>
+<p><a href="https://www.processing.org/download/">Processing</a> is open source and the community created lots of tutorials and howtos. I use processing in <a href="http://www.vim.org/download.php">gvim</a> with the <a href="https://github.com/sophacles/vim-processing">gvim-processing plugin</a>. That&rsquo;s when I found out about the elegance of <a href="http://www.vim.org/scripts/script.php?script_id=2332">pathogen</a> by the way, highly recommend it. One should not forget to make the symbolic link in <em>/usr/bin</em> to the processing-java file in the downloaded processing directory. That took me quite some time to figure out.</p>
+<p><code>sudo ln -s ~/processing-2.2.1/processing-java /usr/bin/processing-java</code></p>
+<h3 id="arduino-with-hall-sensor">Arduino with Hall Sensor</h3>
+<p>Like in the <a href="http://digit.alitility.com/tutori-alitility/twetterhauschen/" title="Twetterhäuschen">Twetterhaeuschen</a> and the <a href="http://digit.alitility.com/multidimensionalitility/like-converter/" title="Like Converter">Like Converter</a> firmata comes to the rescue and deals with all the complicated stuff when dealing with arduino. You can download the <em>arduino</em> library in the GUI of the IDE. In Ubuntu or Linux in general the arduino library needs to be renamed from &ldquo;Arduino.jar&rdquo; to &ldquo;arduino.jar&rdquo; - some case sensitive problem. You find it in the sketchbook folder libraries/arduino/library. Then the arduino board can be controlled directly in processing - here is all the info: <a href="http://playground.arduino.cc/Interfacing/processing">http://playground.arduino.cc/Interfacing/processing</a></p>
+<h3 id="keystoning">Keystoning</h3>
+<p>A really tricky part in the whole story is perspective. The coordinates of the color fields of svg and canvas are the same but since the beamer is not located right in front of the canvas the distortion of perspective needs to be corrected. That&rsquo;s mainly what projection mapping is all about, creating visual effects by light and perspective. I tried several solutions, <a href="http://hv-a.com/lpmt/">lpmt</a> and a handy <a href="http://forum.processing.org/one/topic/announcing-surfacemapper-a-projection-mapping-library.html">proejction mapping tool</a> for processing which was not supported by processing 2.0. Luckily, there was another thing which is in fact quite simple and stable. It gives you the possibility to manipulate the canvas in a three dimensional space - called <a href="http://keystonep5.sourceforge.net/">keystoning</a>. It is readily available in the plugin repository of the processing IDE.</p>
+<h3 id="the-script">The script</h3>
+<p>I decided to keep the color palettes in a separate csv file. I had the feeling that I will soon be doing something more extravagant with the color change. With an old-fashioned formula I linked the five colors to all the 22 fields of the painting.</p>
+<p>In processing the individual elements of the svg can be loaded as <a href="http://processing.org/reference/PShape.html">PShape object</a>. They can be addressed with their ID in order to change their appearance. For instance, I needed to scale down the svg. The actual image is drawn on an offscreen surface which can be altered by the mouse after pressing C, thanks to the <a href="http://keystonep5.sourceforge.net/">keystoning library</a>.</p>
+<p>The Hall sensor does its job as the <a href="http://arduino.cc/en/Tutorial/ButtonStateChange">edge detection</a>. The circuit is quite easy to accomplish, that one helps: <a href="http://www.hobbytronics.co.uk/arduino-tutorial11-hall-effect">http://www.hobbytronics.co.uk/arduino-tutorial11-hall-effect</a> .</p>
+<h3 id="the-projection-setup-with-raspberry-pi-under-construction">The Projection Setup with Raspberry Pi (under construction)</h3>
+<p>I was not able to implement the projection using the Raspberry Pi. Obviously, the Raspberry Pi has a problem with P3D as used in keystoning library. First, it complains it can&rsquo;t load:</p>
+<p><code>failed to open vchiq</code></p>
+<p>Remedy against this:</p>
+<p><code>sudo chmod 777 /dev/vchiq</code></p>
+<p>but then the window is not able to load, here are some references:</p>
+<ul>
+<li><a href="https://www.google.at/search?q=ion+cannot+be+cast+to+com.jogamp.nativewindow.awt&amp;oq=ion+cannot+be+cast+to+com.jogamp.nativewindow.awt&amp;aqs=chrome..69i64.19387j0j9&amp;client=ubuntu-browser&amp;sourceid=chrome&amp;es_sm=94&amp;ie=UTF-8">source 1</a></li>
+<li><a href="http://forum.processing.org/two/discussion/4329/problem-building-processing-from-source-for-raspberry-pi-newt-p3dopengl#Item_2">source 2</a></li>
+</ul>
+<p>Anyway, here is what I tried until I got the error:</p>
+<ol>
+<li>Connect via ssh</li>
+<li>start the Xserver with</li>
+</ol>
+<p><code>startx &amp;</code></p>
+<ol>
+<li>select where the graphical output should go</li>
+</ol>
+<p><code>export DISPLAY=&quot;:0.0&quot;</code></p>
+<ol>
+<li>launch the sketch via command line (<a href="http://stackoverflow.com/questions/14787093/how-to-run-processing-applications-from-the-terminal">source</a>):</li>
+</ol>
+<p><code>./processing-java --sketch=/home/stefan/sketchbook/proiezione --output=/tmp/processing/test --force --present</code></p>
+<p>Create a VNC server for the existing Xserver (instead of tightvnc who creates a new one)</p>
+<p><code>x11vnc -forever -display :0 -ultrafilexfer</code></p>
+<p>Connect with xtightvncviewer (since vinagre is not working - without any reason). You should be ablet put this all in one command via ssh, if everything works:</p>
+<p><code>ssh tim &quot;DISPLAY=:0 nohup firefox&quot;</code></p>
+<p>(source: <a href="http://askubuntu.com/questions/47642/how-to-start-a-gui-software-on-a-remote-linux-pc-via-ssh">http://askubuntu.com/questions/47642/how-to-start-a-gui-software-on-a-remote-linux-pc-via-ssh</a>)</p>
+<h2 id="plan-b-lubuntu-instead-of-raspberry-pi">Plan B Lubuntu instead of Raspberry Pi</h2>
+<p>In <a href="http://lubuntu.net/">Lubuntu</a> fullscreen works, in contrast to Ubuntu&rsquo;s Unity. I installed Lubuntu on an SD card. This way I can boot to Lubuntu once the SD card is inserted.</p>
+<p>Don&rsquo;t forget to add yourself to the dialout group:</p>
+<p><code>sudo adduser stefan /dev/ttyACM0</code></p>
+<p>Finally, the presentation mode of processing needs some tuning in the form of:</p>
+<ol>
+<li>by closing processing! (important)</li>
+<li>opening .processing/preferences</li>
+<li>edit run.present.bgcolor=#000000 and</li>
+<li>edit run.present.stop.color=#000000</li>
+</ol>
+<p>That&rsquo;s basically it.</p>
+<h2 id="additional-literature">Additional literature</h2>
+<ul>
+<li><a href="http://www.amazon.de/Aesthetics-Interaction-Digital-Art-English-ebook/dp/B00FGIFN80/">Aesthetics of Interaction in Digital Art by Katja Kwastek</a></li>
+<li><a href="http://www.amazon.de/Interaction-Color-Josef-Albers/dp/0300179359/">Interaction Of Color by Josef Albers</a></li>
+<li><a href="http://mitpress.mit.edu/books/processing%20">Ben Fry and Casey Reas on Processing</a></li>
+</ul>
+]]></content></item><item><title>Like Converter</title><link>https://digitalitility.com/posts/like_converter/</link><pubDate>Tue, 29 Apr 2014 12:27:30 +0100</pubDate><guid>https://digitalitility.com/posts/like_converter/</guid><description>The Like Converter transforms likes earned for a Facebook posting into delicious candy. It is a reward system for social media managers and a source of motivation for your desk.
+Video:
+The thing itself is built (like the Twetterhaeuschen) on a raspberry pi, an arduino uno using node.js and firmata. The source code is on github: https://github.com/sektionschef/like_converter</description><content type="html"><![CDATA[<p>The Like Converter transforms likes earned for a Facebook posting into delicious candy. It is a reward system for social media managers and a source of motivation for your desk.</p>
+<p>Video: <a href="http://www.youtube.com/watch?v=qcssBxjWfE8" title="Like Converter"><img src="http://img.youtube.com/vi/qcssBxjWfE8/0.jpg" alt="Like Converter"></a></p>
+<p>The thing itself is built (like the <a href="http://digit.alitility.com/tutori-alitility/twetterhauschen/" title="Twetterhäuschen">Twetterhaeuschen</a>) on a <a href="http://www.raspberrypi.org/" title="raspberry pi">raspberry pi</a>, an <a href="http://www.arduino.cc/">arduino</a> uno using <a href="http://nodejs.org/">node.js</a> and <a href="http://arduino.cc/en/reference/firmata">firmata</a>. The source code is on github: <a href="https://github.com/sektionschef/like_converter">https://github.com/sektionschef/like_converter</a></p>
+<p><img src="../images/like_converter//P1060877-150x150.jpg" alt=""></p>
+<p><img src="../images/like_converter//P1060880-150x150.jpg" alt="The Like Converter sign"></p>
+<p><img src="../images/like_converter//P1060883-150x150.jpg" alt=""></p>
+<p><img src="../images/like_converter//P1060893-150x150.jpg" alt=""></p>
+]]></content></item><item><title>Die Dübitale Revolution</title><link>https://digitalitility.com/posts/d%C3%BCbitale_revolution/</link><pubDate>Sun, 30 Mar 2014 12:27:30 +0100</pubDate><guid>https://digitalitility.com/posts/d%C3%BCbitale_revolution/</guid><description>Bayrische Großvisionäre haben das Tor zu einer neuen Dimension aufgestoßen. Die &amp;ldquo;Dübitalanzeige&amp;rdquo; besteht aus einem Holzbrett, in das durch präzise Bohrungen einzelne Dübel von Hand variabel angeordnet werden können. Je nach Dübelsetzung kann so, eine gewisse geistige Flexibilität vorausgesetzt, eine kurze Botschaft encodiert werden, ohne ein einziges Watt zu verbrauchen.
+Die &amp;ldquo;Dübitalanzeige&amp;rdquo; ist der erste große Schritt Richtung dübitaler Ära. Ob das Pixel tatsächlich dem Düxel Platz machen werden muss, wird sich erst in den nächsten Jahren herauskristallisieren.</description><content type="html"><![CDATA[<p><img src="../images/d%C3%BCbitale_revolution/P1060868.jpg" alt="duebitalanzeige"></p>
+<p>Bayrische Großvisionäre haben das Tor zu einer neuen Dimension aufgestoßen. Die &ldquo;Dübitalanzeige&rdquo; besteht aus einem Holzbrett, in das durch präzise Bohrungen einzelne Dübel von Hand variabel angeordnet werden können. Je nach Dübelsetzung kann so, eine gewisse geistige Flexibilität vorausgesetzt, eine kurze Botschaft encodiert werden, ohne ein einziges Watt zu verbrauchen.</p>
+<p><img src="../images/d%C3%BCbitale_revolution/P1060863-150x150.jpg" alt="Rückseite der Dübitalanzeige"></p>
+<p><img src="../images/d%C3%BCbitale_revolution/P1060871-150x150.jpg" alt="das Düxel"></p>
+<p><img src="../images/d%C3%BCbitale_revolution/P1060868-150x150.jpg" alt="Close Up"></p>
+<p><img src="../images/d%C3%BCbitale_revolution/P1060866-150x150.jpg" alt="&ldquo;Donkschen&rdquo; geschrieben auf der Dübitalanzeige"></p>
+<p>Die &ldquo;Dübitalanzeige&rdquo; ist der erste große Schritt Richtung dübitaler Ära. Ob das Pixel tatsächlich dem Düxel Platz machen werden muss, wird sich erst in den nächsten Jahren herauskristallisieren.</p>
+<p>Die Eckdaten:</p>
+<ul>
+<li>Auflösung: 5x30 Düxel</li>
+<li>Stromverbrauch: 0 kW</li>
+<li>Bildschirmdiagonale: 30''</li>
+<li>Dübcheck &amp; Roe&rsquo;sche Constraint: 100 Dübel</li>
+</ul>
+]]></content></item><item><title>Twetterhäuschen</title><link>https://digitalitility.com/posts/twetterh%C3%A4uschen/</link><pubDate>Wed, 20 Nov 2013 12:27:30 +0100</pubDate><guid>https://digitalitility.com/posts/twetterh%C3%A4uschen/</guid><description>The Twetterhäuschen is the world&amp;rsquo;s first Wetterhäuschen for visualizing the sentiment of a specific topic on twitter. It was built on a raspberry pi, a servo controlled by an arduino uno, using node.js in combination with socket.io. You can find the code on github to build your own: https://github.com/sektionschef/twetterhaeuschen
+Implementation The Twetterhäuschen has its web form (index.html) to fill a brand or topic of interest The keyword is passed on to the server (app.</description><content type="html"><![CDATA[<p>The Twetterhäuschen is the world&rsquo;s first Wetterhäuschen for visualizing the sentiment of a specific topic on <a href="http://twitter.com/">twitter</a>. It was built on a <a href="http://www.raspberrypi.org/">raspberry pi</a>, a servo controlled by an <a href="http://arduino.cc/">arduino uno</a>, using <a href="http://nodejs.org/">node.js</a> in combination with <a href="http://socket.io/">socket.io</a>. You can find the code on github to build your own: <a href="https://github.com/sektionschef/twetterhaeuschen">https://github.com/sektionschef/twetterhaeuschen</a></p>
+<p><img src="../images/twetterh%C3%A4uschen/Twetterhaeuschen_01-150x150.jpg" alt=""></p>
+<p><img src="../images/twetterh%C3%A4uschen/Twetterhaeuschen_02-150x150.jpg" alt=""></p>
+<p><img src="../images/twetterh%C3%A4uschen/Twetterhaeuschen_03-150x150.jpg" alt=""></p>
+<p><img src="../images/twetterh%C3%A4uschen/Twetterhaeuschen-Frontend-150x150.png" alt=""></p>
+<h2 id="implementation">Implementation</h2>
+<ol>
+<li>The Twetterhäuschen has its web form (index.html) to fill a brand or topic of interest</li>
+<li>The keyword is passed on to the server (app.js) which takes care of the API calls using the <a href="https://github.com/ciaranj/node-oauth">oauth</a> module. The search is completed with some words to derive a basic level of sentiment, e.g. &ldquo;love&rdquo; or &ldquo;hate&rdquo;</li>
+<li>Taking the reach (number of followers) into account, the ratio between good and bad is calculated</li>
+<li>The arduino sets the servo between the angle of 60 and 130 in order to move the two characters Sepp and Susi out of the Twetterhäuschen.</li>
+<li>Whereas Sepp represents the dark force, Susi acts as a substitute for ecstacy and elation.</li>
+</ol>
+<p>Here is an explanation in German:</p>
+<p><a href="https://www.youtube.com/watch?v=jSNGg0Prsf4">https://www.youtube.com/watch?v=jSNGg0Prsf4</a> <a href="http://www.youtube.com/watch?v=jSNGg0Prsf4"><img src="http://img.youtube.com/vi/jSNGg0Prsf4/0.jpg" alt="Prototype"></a></p>
 ]]></content></item><item><title>Animation in the command line - ./animation.sh</title><link>https://digitalitility.com/posts/animation_sh/</link><pubDate>Sun, 29 Jan 2012 12:27:30 +0100</pubDate><guid>https://digitalitility.com/posts/animation_sh/</guid><description>Introduction After finding out how much one can do with ffmpeg&amp;hellip; I thought it would be the perfect tool for creating my abstract stop-motion animation I dreamed of for years. What I wanted to realize was simple: combining scenes of a series of high resolution photographs, including images of paintings and digitally edited material with various lengths, framerates exactly timed to a soundtrack.
 Ffmpeg is a powerful tool to convert audio and video files (among other things).</description><content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>After finding out how much one can do with <a href="http://www.ffmpeg.org/" title="http://www.ffmpeg.org/">ffmpeg</a>&hellip; I thought it would be the perfect tool for creating my abstract stop-motion animation I dreamed of for years. What I wanted to realize was simple: combining scenes of a series of high resolution photographs, including images of paintings and digitally edited material with various lengths, framerates exactly timed to a soundtrack.</p>
@@ -721,192 +899,4 @@ echo +++++++++++ <span style="color:#e6db74">&#34;Add sound&#34;</span> ++++++++
 <span style="color:#75715e"># should be a formality, the shortest input ends the the file</span>
 
 exit
-</code></pre></div>]]></content></item><item><title/><link>https://digitalitility.com/posts/data_painting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://digitalitility.com/posts/data_painting/</guid><description>Data Painting - The Past in Realtime | Sep 28, 2014 After the infamous projection prototype, my first work is finished: the past in realtime. It displays our team&amp;rsquo;s diverging efforts for each minute of the day on a painted canvas. Based on the data of 51.000 time entries of ambuzzador&amp;rsquo;s past, the painting explains the distribution of our working time for six categories: project management, meetings, conceptual design, consulting, editorial services and content creation.</description><content type="html"><![CDATA[<h1 id="data-painting---the-past-in-realtime--sep-28-2014">Data Painting - The Past in Realtime | Sep 28, 2014</h1>
-<p><img src="../images/data_painting/Untitled_kl1.gif" alt="past in realtime gif"></p>
-<p>After the infamous <a href="http://digit.alitility.com/visualitility/projection-painting-prototype/" title="Projection Painting Prototype">projection prototype</a>, my first work is finished: the past in realtime. It displays our team&rsquo;s diverging efforts for each minute of the day on a painted canvas. Based on the data of 51.000 time entries of <a href="http://ambuzzador.com/">ambuzzador</a>&rsquo;s past, the painting explains the distribution of our working time for six categories: project management, meetings, conceptual design, consulting, editorial services and content creation. For each minute, six color tones are projected on variably sized, painted areas. For instance, the amount of the screen the blue color fills is the proportion of the work spent on meetings at that time. In short: A pie chart without a pie.</p>
-<p>Video: <a href="https://www.youtube.com/watch?v=CLqPOSmoUIo"><img src="https://img.youtube.com/vi/CLqPOSmoUIo/0.jpg" alt="Projection Paining im Futuregarden"></a></p>
-<h2 id="how-it-was-done">How it was done</h2>
-<p>I took the timesheets, which hold the exact date and time when a particular task was started and ended - about 51.000 eintries since 2011. When expanding the time entries for every minute ranging from the minute started and the minute ended the data grew to about 21 billion entries.</p>
-<p>For the real-world part of this project, I painted a canvas with 133 abstract polygons with some inspiration of good old <a href="http://en.wikipedia.org/wiki/Kazimir_Malevich">Kazimir Malevich</a>. The areas' outlines were transformed to a virtual clone in svg format. And then wrote an <a href="http://www.r-project.org/">R</a> script to calculate the area of each polygon and to normalize them.</p>
-<p>Finally, the areas of the canvas had to be chosen so that the sum of their areas best matches the proportion for each task category in each minute. This combinatorial optimization riddle is known as the <a href="http://en.wikipedia.org/wiki/Knapsack_problem">Knapsack problem</a> in literature and obviously there is no other solution than to test every single combination, brute force. In order to compensate the lack of supercomputers at home, I randomly created seven groups from all the polygons. This way the combinations were reduced to 2 million per minute and per category. It took 32 hours for my computer to come up with the optimal solution for presenting the ambuzzador&rsquo;s past in realtime. The maximal deviance between data and canvas is about 2% with a standard error of 0.087%.</p>
-<p>The projection painting was done <a href="http://digit.alitility.com/visualitility/projection-painting-prototype/" title="Projection Painting Prototype">again</a> in <a href="http://processing.org/">Processing</a> using keystone library. The whole project took about 3 months. The source code is publicly available on github: <a href="https://github.com/sektionschef/10yearsbuzz">https://github.com/sektionschef/10yearsbuzz</a></p>
-<p><img src="../images/data_painting/P1070764-1024x768.jpg" alt="past in realtime start"></p>
-<p><img src="../images/data_painting/P1070776-1024x768.jpg" alt="past in realtime transform to svg"></p>
-<p><img src="../images/data_painting/P1070792_ub-1024x768.jpg" alt="past in realtime finished"></p>
-<h2 id="untitled_klimagesdata_paintinguntitled_kl1gif"><img src="../images/data_painting/Untitled_kl1.gif" alt="Untitled_kl"></h2>
-<h2 id="with-special-thanks-to">with special thanks to</h2>
-<ul>
-<li><a href="https://gist.github.com/ivanpike/5236688">https://gist.github.com/ivanpike/5236688</a> - multiple surfaces for keystone library in processing</li>
-<li><a href="http://de.wikihow.com/Die-Fl%C3%A4che-eines-Vielecks-berechnen">http://de.wikihow.com/Die-Fl%C3%A4che-eines-Vielecks-berechnen</a> - calculating areas of polygons</li>
-<li><a href="http://stackoverflow.com/questions/21868326/r-scraping-web-with-xpathsapply">http://stackoverflow.com/questions/21868326/r-scraping-web-with-xpathsapply</a> - getting xml/svg in R</li>
-<li><a href="http://forum.processing.org/two/">http://forum.processing.org/two/</a> - all the open source communities</li>
-</ul>
-]]></content></item><item><title/><link>https://digitalitility.com/posts/d%C3%BCbitale_revolution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://digitalitility.com/posts/d%C3%BCbitale_revolution/</guid><description>Die Dübitale Revolution | 2014/03/30 Bayrische Großvisionäre haben das Tor zu einer neuen Dimension aufgestoßen. Die &amp;ldquo;Dübitalanzeige&amp;rdquo; besteht aus einem Holzbrett, in das durch präzise Bohrungen einzelne Dübel von Hand variabel angeordnet werden können. Je nach Dübelsetzung kann so, eine gewisse geistige Flexibilität vorausgesetzt, eine kurze Botschaft encodiert werden, ohne ein einziges Watt zu verbrauchen.
-Die &amp;ldquo;Dübitalanzeige&amp;rdquo; ist der erste große Schritt Richtung dübitaler Ära. Ob das Pixel tatsächlich dem Düxel Platz machen werden muss, wird sich erst in den nächsten Jahren herauskristallisieren.</description><content type="html"><![CDATA[<h1 id="die-dübitale-revolution--20140330">Die Dübitale Revolution | 2014/03/30</h1>
-<p><img src="../images/d%C3%BCbitale_revolution/P1060868.jpg" alt="duebitalanzeige"></p>
-<p>Bayrische Großvisionäre haben das Tor zu einer neuen Dimension aufgestoßen. Die &ldquo;Dübitalanzeige&rdquo; besteht aus einem Holzbrett, in das durch präzise Bohrungen einzelne Dübel von Hand variabel angeordnet werden können. Je nach Dübelsetzung kann so, eine gewisse geistige Flexibilität vorausgesetzt, eine kurze Botschaft encodiert werden, ohne ein einziges Watt zu verbrauchen.</p>
-<p><img src="../images/d%C3%BCbitale_revolution/P1060863-150x150.jpg" alt="Rückseite der Dübitalanzeige"></p>
-<p><img src="../images/d%C3%BCbitale_revolution/P1060871-150x150.jpg" alt="das Düxel"></p>
-<p><img src="../images/d%C3%BCbitale_revolution/P1060868-150x150.jpg" alt="Close Up"></p>
-<p><img src="../images/d%C3%BCbitale_revolution/P1060866-150x150.jpg" alt="&ldquo;Donkschen&rdquo; geschrieben auf der Dübitalanzeige"></p>
-<p>Die &ldquo;Dübitalanzeige&rdquo; ist der erste große Schritt Richtung dübitaler Ära. Ob das Pixel tatsächlich dem Düxel Platz machen werden muss, wird sich erst in den nächsten Jahren herauskristallisieren.</p>
-<p>Die Eckdaten:</p>
-<ul>
-<li>Auflösung: 5x30 Düxel</li>
-<li>Stromverbrauch: 0 kW</li>
-<li>Bildschirmdiagonale: 30''</li>
-<li>Dübcheck &amp; Roe&rsquo;sche Constraint: 100 Dübel</li>
-</ul>
-]]></content></item><item><title/><link>https://digitalitility.com/posts/hello_world_hello_futuregarden/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://digitalitility.com/posts/hello_world_hello_futuregarden/</guid><description>Hello world, hello futuregarden | Nov 25, 2014 What an honor: my projection painting prototype was publicly featured in futuregarden for 2 weeks. The original canvas was repainted with 5 different colors.
-Video:
-At the entrance of the futuregarden a beamer, a laptop running my processing script (here at github), an arduino uno and a hall sensor were hooked up. The beamer pointing at the canvas projected five additional colors to create five new colors.</description><content type="html"><![CDATA[<h1 id="hello-world-hello-futuregarden--nov-25-2014">Hello world, hello futuregarden | Nov 25, 2014</h1>
-<p>What an honor: my <a href="http://digit.alitility.com/visualitility/projection-painting-prototype/" title="Projection Painting Prototype">projection painting prototype</a> was publicly featured in <a href="https://www.facebook.com/futuregarden">futuregarden</a> for 2 weeks. The original canvas was repainted with 5 different colors.</p>
-<p>Video: <a href="https://www.youtube.com/watch?v=6cnZBFc5yuE"><img src="https://img.youtube.com/vi/6cnZBFc5yuE/0.jpg" alt="Projection Paining im Futuregarden"></a></p>
-<p><img src="../images/hello_world_hello_futuregarden/futuregarden_inaction02.jpg" alt="Futuregarden inaction02"></p>
-<p>At the entrance of the futuregarden a beamer, a laptop running my <a href="https://processing.org/">processing</a> script (<a href="https://github.com/sektionschef/proiezione">here at github</a>), an <a href="http://www.arduino.cc/">arduino</a> uno and a hall sensor were hooked up. The beamer pointing at the canvas projected five additional colors to create five new colors.</p>
-<p><img src="../images/hello_world_hello_futuregarden/futuregarden_beamer-150x150.jpg" alt=""></p>
-<p><img src="../images/hello_world_hello_futuregarden/futuregarden_hallsensor-150x150.jpg" alt=""></p>
-<p><img src="../images/hello_world_hello_futuregarden/futuregarden_inaction01-150x150.jpg" alt=""></p>
-<p><img src="../images/hello_world_hello_futuregarden/futuregarden_inaction03-150x150.jpg" alt=""></p>
-<p><img src="../images/hello_world_hello_futuregarden/futuregarden_lightson-150x150.jpg" alt=""></p>
-<p><img src="../images/hello_world_hello_futuregarden/futuregarden_nobeamer-150x150.jpg" alt=""></p>
-<p><img src="../images/hello_world_hello_futuregarden/futuregarden_inaction02-150x150.jpg" alt=""></p>
-<p>Each time the door of the futuregarden was opened and somebody entered or left., five new colors were thrown on the canvas. These five-color palettes were created using the &ldquo;crowd-color&rdquo; platform <a href="http://www.colourlovers.com/">colorlovers</a>. In addtion, to my own color palettes, I featured some others I liked:</p>
-<ul>
-<li><a href="http://www.colourlovers.com/palette/3388285/juno?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3388/3388285_juno.png" alt="juno"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3393359/roger_miller?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3393/3393359_roger_miller.png" alt="roger_miller"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3399500/who_rang?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3399/3399500_who_rang.png" alt="who_rang"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3367669/She_Tells_Herself?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3367/3367669_She_Tells_Herself.png" alt="She_Tells_Herself"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3399454/barbie_soldier"><img src="http://www.colourlovers.com/images/badges/p/3399/3399454_barbie_soldier.png" alt="barbie_soldier"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3399464/im_a_rocket"><img src="http://www.colourlovers.com/images/badges/p/3399/3399464_im_a_rocket.png" alt="im_a_rocket"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3399484/verrazano"><img src="http://www.colourlovers.com/images/badges/p/3399/3399484_verrazano.png" alt="verrazano"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3419291/may?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3419/3419291_may.png" alt="may"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3419301/brunnen?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3419/3419301_brunnen.png" alt="brunnen"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3419311/old_profs_beard?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3419/3419311_old_profs_beard.png" alt="old_profs_beard"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3419289/Summer_Thoughts?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3419/3419289_Summer_Thoughts.png" alt="Summer_Thoughts"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3531033/random_192?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3531/3531033_random_192.png" alt="random_192"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3531024/EstanteDaImagina%C3%A7%C3%A3o"><img src="http://www.colourlovers.com/images/badges/p/3531/3531024_EstanteDaImaginao.png" alt="EstanteDaImaginação"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3531020/Mauve"><img src="http://www.colourlovers.com/images/badges/p/3531/3531020_Mauve.png" alt="Mauve"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3531018/No_Clever_Title"><img src="http://www.colourlovers.com/images/badges/p/3531/3531018_No_Clever_Title.png" alt="No_Clever_Title"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3531016/cloth"><img src="http://www.colourlovers.com/images/badges/p/3531/3531016_cloth.png" alt="cloth"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3531012/Snacks_On_Sunday?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3531/3531012_Snacks_On_Sunday.png" alt="Snacks_On_Sunday"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3531008/Rewind_Start_Over?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3531/3531008_Rewind_Start_Over.png" alt="Rewind_Start_Over"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3530997/Black_Gold?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3530/3530997_Black_Gold.png" alt="Black_Gold"></a></li>
-<li><a href="http://www.colourlovers.com/palette/3530990/I_Go_In_And_Out?widths=1"><img src="http://www.colourlovers.com/images/badges/pw/3530/3530990_I_Go_In_And_Out.png" alt="I_Go_In_And_Out"></a></li>
-</ul>
-<p>The result was the perfect atmosphere to enjoy a beer.</p>
-]]></content></item><item><title/><link>https://digitalitility.com/posts/like_converter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://digitalitility.com/posts/like_converter/</guid><description>Like Converter | Apr 29, 2014 The Like Converter transforms likes earned for a Facebook posting into delicious candy. It is a reward system for social media managers and a source of motivation for your desk.
-Video:
-The thing itself is built (like the Twetterhaeuschen) on a raspberry pi, an arduino uno using node.js and firmata. The source code is on github: https://github.com/sektionschef/like_converter</description><content type="html"><![CDATA[<h1 id="like-converter--apr-29-2014">Like Converter | Apr 29, 2014</h1>
-<p>The Like Converter transforms likes earned for a Facebook posting into delicious candy. It is a reward system for social media managers and a source of motivation for your desk.</p>
-<p>Video: <a href="http://www.youtube.com/watch?v=qcssBxjWfE8" title="Like Converter"><img src="http://img.youtube.com/vi/qcssBxjWfE8/0.jpg" alt="Like Converter"></a></p>
-<p>The thing itself is built (like the <a href="http://digit.alitility.com/tutori-alitility/twetterhauschen/" title="Twetterhäuschen">Twetterhaeuschen</a>) on a <a href="http://www.raspberrypi.org/" title="raspberry pi">raspberry pi</a>, an <a href="http://www.arduino.cc/">arduino</a> uno using <a href="http://nodejs.org/">node.js</a> and <a href="http://arduino.cc/en/reference/firmata">firmata</a>. The source code is on github: <a href="https://github.com/sektionschef/like_converter">https://github.com/sektionschef/like_converter</a></p>
-<p><img src="../images/like_converter//P1060877-150x150.jpg" alt=""></p>
-<p><img src="../images/like_converter//P1060880-150x150.jpg" alt="The Like Converter sign"></p>
-<p><img src="../images/like_converter//P1060883-150x150.jpg" alt=""></p>
-<p><img src="../images/like_converter//P1060893-150x150.jpg" alt=""></p>
-]]></content></item><item><title/><link>https://digitalitility.com/posts/paintings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://digitalitility.com/posts/paintings/</guid><description>Paintings</description><content type="html"><![CDATA[<h1 id="paintings">Paintings</h1>
-<p><img src="../images/paintings/nagano_ub.jpg" alt="Nagano - Acrylic on canvas, 160x100cm" title="Nagano - Acrylic on canvas, 160x100cm"></p>
-<p><img src="../images/paintings/P1020296.jpg" alt="Wühlmaus" title="Wühlmaus"></p>
-<p><img src="../images/paintings/P1020294.jpg" alt="Skeleton" title="Skeleton"></p>
-<p><img src="../images/paintings/P1020293.jpg" alt="Staro" title="Staro"></p>
-<p><img src="../images/paintings/P1020291.jpg" alt="Magazino" title="Magazino"></p>
-<p><img src="../images/paintings/P1020289.jpg" alt="Dochboden" title="Dochboden"></p>
-<p><img src="../images/paintings/P1020285.jpg" alt="Schuachschochtl 1" title="Schuachschochtl 1"> <img src="../images/paintings/P1020282.jpg" alt="Schuachschochtl 2" title="Schuachschochtl 2"> <img src="../images/paintings/P1020287.jpg" alt="Schuachschochtl 3" title="Schuachschochtl 3"></p>
-]]></content></item><item><title/><link>https://digitalitility.com/posts/projection_painting_prototype/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://digitalitility.com/posts/projection_painting_prototype/</guid><description>Projection Painting Prototype | Jul 17, 2014 Executive Summary The structure of the canvas, mixing colors right on the canvas, layer after layer and letting the coincidence help is what makes traditional painting so powerful. However, as a nerdophile person I often miss the undo button and the color wheel of the digital world.
-Luckily, I came across the processing movement turning code into art and vice versa. The perfect base to combine vivid richness of painted structure with the interactive and dynamic power of code.</description><content type="html"><![CDATA[<h1 id="projection-painting-prototype--jul-17-2014">Projection Painting Prototype | Jul 17, 2014</h1>
-<h2 id="executive-summary">Executive Summary</h2>
-<p>The structure of the canvas, mixing colors right on the canvas, layer after layer and letting the coincidence help is what makes traditional painting so powerful. However, as a nerdophile person I often miss the <em>undo</em> button and the color wheel of the digital world.</p>
-<p><img src="../images/projection_painting_prototype//P1070736.jpg" alt="Projection_Painting_Prototype_01"></p>
-<p>Luckily, I came across the <a href="http://processing.org/">processing</a> movement turning code into art and vice versa. The perfect base to combine vivid richness of painted structure with the interactive and dynamic power of code. In fact, I had the idea of creating a painting hanging in a local club and each time someone enters or leaves the room the color palette of the painting changes.</p>
-<p><img src="../images/projection_painting_prototype//scribble-1024x768.jpg" alt="scribble_projection_painting"></p>
-<p>So I bought a <a href="http://www.amazon.de/Philips-PPX2450-Taschenprojektor-Notebooks-Kontrast/dp/B006U1FAFI">Philips PPX2450 PicoPix</a> beamer, grabbed my <a href="http://arduino.cc/de/Main/ArduinoBoardUno">Arduino uno</a>, a <a href="http://www.hobbytronics.co.uk/arduino-tutorial11-hall-effect">hall effect sensor</a>, some acrylic colors and a 120x80cm canvas. Two months later I am looking at a fully functional prototype with both worlds combined. I&rsquo;ve built my first processing application, overcome <a href="http://en.wikipedia.org/wiki/Keystone_effect">keystoning</a> and mapped my virtual picture to my real one.</p>
-<p>The teamplay of code and canvas enables me to visualize data or interactions in physical space.</p>
-<p>Video: <a href="http://www.youtube.com/watch?v=D3uiVWXU7KE" title="Projection Painting Prototype"><img src="http://img.youtube.com/vi/D3uiVWXU7KE/0.jpg" alt="Video Projection Painting Prototype"></a></p>
-<p>The following chapters descirbe how I did it in detail and therefore are pretty boring. Anyway, I found so much help in the online communities that this is the least I can do to help others out. The script itself is available at github: <a href="https://github.com/sektionschef/proiezione">https://github.com/sektionschef/proiezione</a></p>
-<h2 id="realisation">Realisation</h2>
-<h3 id="sketches-and-painting">Sketches and Painting</h3>
-<p>First of all I made a paper pencil sketch for the image. Then, I transfered the real sketch to a virtual svg using inkscape (keeping the same aspect ratio, 120:80). I drew the grid and then filled it up with rectangles in five different colors. The svg helped me to decide the relative color differences. For this purpose (and also later on in processing) I switched to the <a href="http://en.wikipedia.org/wiki/HSL_and_HSV">HSV</a> color model.</p>
-<p>I&rsquo;ve seen in a first attempt that exotic color combinations (beamer colors and acrylic colors) are not working that great. Due to the limited power of the Pico beamer I wasn&rsquo;t able to turn a bright yellow into a green nor a red into violet. Most imporantly, the lightness of the surface of the projection is essential: the projection can&rsquo;t overcome darker tones. For the image itself I painted <a href="http://de.wikipedia.org/wiki/Sean_Scully">Sean Scully</a>-like color fields on a 120x80cm canvas. I mapped the exact proportions of the .svg sketch as coordinates to the canvas.</p>
-<p><img src="../images/projection_painting_prototype//first_sketch-150x150.jpg" alt=""></p>
-<p><img src="../images/projection_painting_prototype//Screenshot-from-2014-06-19-125012-150x150.png" alt=""></p>
-<p><img src="../images/projection_painting_prototype//P1070674-150x150.jpg" alt=""></p>
-<p><img src="../images/projection_painting_prototype//P10706791-150x150.jpg" alt=""></p>
-<p><img src="../images/projection_painting_prototype//P1070684-150x150.jpg" alt=""></p>
-<p><img src="../images/projection_painting_prototype//P1070688-150x150.jpg" alt=""></p>
-<h2 id="processing">Processing</h2>
-<p><a href="https://www.processing.org/download/">Processing</a> is open source and the community created lots of tutorials and howtos. I use processing in <a href="http://www.vim.org/download.php">gvim</a> with the <a href="https://github.com/sophacles/vim-processing">gvim-processing plugin</a>. That&rsquo;s when I found out about the elegance of <a href="http://www.vim.org/scripts/script.php?script_id=2332">pathogen</a> by the way, highly recommend it. One should not forget to make the symbolic link in <em>/usr/bin</em> to the processing-java file in the downloaded processing directory. That took me quite some time to figure out.</p>
-<p><code>sudo ln -s ~/processing-2.2.1/processing-java /usr/bin/processing-java</code></p>
-<h3 id="arduino-with-hall-sensor">Arduino with Hall Sensor</h3>
-<p>Like in the <a href="http://digit.alitility.com/tutori-alitility/twetterhauschen/" title="Twetterhäuschen">Twetterhaeuschen</a> and the <a href="http://digit.alitility.com/multidimensionalitility/like-converter/" title="Like Converter">Like Converter</a> firmata comes to the rescue and deals with all the complicated stuff when dealing with arduino. You can download the <em>arduino</em> library in the GUI of the IDE. In Ubuntu or Linux in general the arduino library needs to be renamed from &ldquo;Arduino.jar&rdquo; to &ldquo;arduino.jar&rdquo; - some case sensitive problem. You find it in the sketchbook folder libraries/arduino/library. Then the arduino board can be controlled directly in processing - here is all the info: <a href="http://playground.arduino.cc/Interfacing/processing">http://playground.arduino.cc/Interfacing/processing</a></p>
-<h3 id="keystoning">Keystoning</h3>
-<p>A really tricky part in the whole story is perspective. The coordinates of the color fields of svg and canvas are the same but since the beamer is not located right in front of the canvas the distortion of perspective needs to be corrected. That&rsquo;s mainly what projection mapping is all about, creating visual effects by light and perspective. I tried several solutions, <a href="http://hv-a.com/lpmt/">lpmt</a> and a handy <a href="http://forum.processing.org/one/topic/announcing-surfacemapper-a-projection-mapping-library.html">proejction mapping tool</a> for processing which was not supported by processing 2.0. Luckily, there was another thing which is in fact quite simple and stable. It gives you the possibility to manipulate the canvas in a three dimensional space - called <a href="http://keystonep5.sourceforge.net/">keystoning</a>. It is readily available in the plugin repository of the processing IDE.</p>
-<h3 id="the-script">The script</h3>
-<p>I decided to keep the color palettes in a separate csv file. I had the feeling that I will soon be doing something more extravagant with the color change. With an old-fashioned formula I linked the five colors to all the 22 fields of the painting.</p>
-<p>In processing the individual elements of the svg can be loaded as <a href="http://processing.org/reference/PShape.html">PShape object</a>. They can be addressed with their ID in order to change their appearance. For instance, I needed to scale down the svg. The actual image is drawn on an offscreen surface which can be altered by the mouse after pressing C, thanks to the <a href="http://keystonep5.sourceforge.net/">keystoning library</a>.</p>
-<p>The Hall sensor does its job as the <a href="http://arduino.cc/en/Tutorial/ButtonStateChange">edge detection</a>. The circuit is quite easy to accomplish, that one helps: <a href="http://www.hobbytronics.co.uk/arduino-tutorial11-hall-effect">http://www.hobbytronics.co.uk/arduino-tutorial11-hall-effect</a> .</p>
-<h3 id="the-projection-setup-with-raspberry-pi-under-construction">The Projection Setup with Raspberry Pi (under construction)</h3>
-<p>I was not able to implement the projection using the Raspberry Pi. Obviously, the Raspberry Pi has a problem with P3D as used in keystoning library. First, it complains it can&rsquo;t load:</p>
-<p><code>failed to open vchiq</code></p>
-<p>Remedy against this:</p>
-<p><code>sudo chmod 777 /dev/vchiq</code></p>
-<p>but then the window is not able to load, here are some references:</p>
-<ul>
-<li><a href="https://www.google.at/search?q=ion+cannot+be+cast+to+com.jogamp.nativewindow.awt&amp;oq=ion+cannot+be+cast+to+com.jogamp.nativewindow.awt&amp;aqs=chrome..69i64.19387j0j9&amp;client=ubuntu-browser&amp;sourceid=chrome&amp;es_sm=94&amp;ie=UTF-8">source 1</a></li>
-<li><a href="http://forum.processing.org/two/discussion/4329/problem-building-processing-from-source-for-raspberry-pi-newt-p3dopengl#Item_2">source 2</a></li>
-</ul>
-<p>Anyway, here is what I tried until I got the error:</p>
-<ol>
-<li>Connect via ssh</li>
-<li>start the Xserver with</li>
-</ol>
-<p><code>startx &amp;</code></p>
-<ol>
-<li>select where the graphical output should go</li>
-</ol>
-<p><code>export DISPLAY=&quot;:0.0&quot;</code></p>
-<ol>
-<li>launch the sketch via command line (<a href="http://stackoverflow.com/questions/14787093/how-to-run-processing-applications-from-the-terminal">source</a>):</li>
-</ol>
-<p><code>./processing-java --sketch=/home/stefan/sketchbook/proiezione --output=/tmp/processing/test --force --present</code></p>
-<p>Create a VNC server for the existing Xserver (instead of tightvnc who creates a new one)</p>
-<p><code>x11vnc -forever -display :0 -ultrafilexfer</code></p>
-<p>Connect with xtightvncviewer (since vinagre is not working - without any reason). You should be ablet put this all in one command via ssh, if everything works:</p>
-<p><code>ssh tim &quot;DISPLAY=:0 nohup firefox&quot;</code></p>
-<p>(source: <a href="http://askubuntu.com/questions/47642/how-to-start-a-gui-software-on-a-remote-linux-pc-via-ssh">http://askubuntu.com/questions/47642/how-to-start-a-gui-software-on-a-remote-linux-pc-via-ssh</a>)</p>
-<h2 id="plan-b-lubuntu-instead-of-raspberry-pi">Plan B Lubuntu instead of Raspberry Pi</h2>
-<p>In <a href="http://lubuntu.net/">Lubuntu</a> fullscreen works, in contrast to Ubuntu&rsquo;s Unity. I installed Lubuntu on an SD card. This way I can boot to Lubuntu once the SD card is inserted.</p>
-<p>Don&rsquo;t forget to add yourself to the dialout group:</p>
-<p><code>sudo adduser stefan /dev/ttyACM0</code></p>
-<p>Finally, the presentation mode of processing needs some tuning in the form of:</p>
-<ol>
-<li>by closing processing! (important)</li>
-<li>opening .processing/preferences</li>
-<li>edit run.present.bgcolor=#000000 and</li>
-<li>edit run.present.stop.color=#000000</li>
-</ol>
-<p>That&rsquo;s basically it.</p>
-<h2 id="additional-literature">Additional literature</h2>
-<ul>
-<li><a href="http://www.amazon.de/Aesthetics-Interaction-Digital-Art-English-ebook/dp/B00FGIFN80/">Aesthetics of Interaction in Digital Art by Katja Kwastek</a></li>
-<li><a href="http://www.amazon.de/Interaction-Color-Josef-Albers/dp/0300179359/">Interaction Of Color by Josef Albers</a></li>
-<li><a href="http://mitpress.mit.edu/books/processing%20">Ben Fry and Casey Reas on Processing</a></li>
-</ul>
-]]></content></item><item><title/><link>https://digitalitility.com/posts/twetterh%C3%A4uschen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://digitalitility.com/posts/twetterh%C3%A4uschen/</guid><description>Twetterhäuschen | Nov 20, 2013 The Twetterhäuschen is the world&amp;rsquo;s first Wetterhäuschen for visualizing the sentiment of a specific topic on twitter. It was built on a raspberry pi, a servo controlled by an arduino uno, using node.js in combination with socket.io. You can find the code on github to build your own: https://github.com/sektionschef/twetterhaeuschen
-Implementation The Twetterhäuschen has its web form (index.html) to fill a brand or topic of interest The keyword is passed on to the server (app.</description><content type="html"><![CDATA[<h1 id="twetterhäuschen--nov-20-2013">Twetterhäuschen | Nov 20, 2013</h1>
-<p>The Twetterhäuschen is the world&rsquo;s first Wetterhäuschen for visualizing the sentiment of a specific topic on <a href="http://twitter.com/">twitter</a>. It was built on a <a href="http://www.raspberrypi.org/">raspberry pi</a>, a servo controlled by an <a href="http://arduino.cc/">arduino uno</a>, using <a href="http://nodejs.org/">node.js</a> in combination with <a href="http://socket.io/">socket.io</a>. You can find the code on github to build your own: <a href="https://github.com/sektionschef/twetterhaeuschen">https://github.com/sektionschef/twetterhaeuschen</a></p>
-<p><img src="../images/twetterh%C3%A4uschen/Twetterhaeuschen_01-150x150.jpg" alt=""></p>
-<p><img src="../images/twetterh%C3%A4uschen/Twetterhaeuschen_02-150x150.jpg" alt=""></p>
-<p><img src="../images/twetterh%C3%A4uschen/Twetterhaeuschen_03-150x150.jpg" alt=""></p>
-<p><img src="../images/twetterh%C3%A4uschen/Twetterhaeuschen-Frontend-150x150.png" alt=""></p>
-<h2 id="implementation">Implementation</h2>
-<ol>
-<li>The Twetterhäuschen has its web form (index.html) to fill a brand or topic of interest</li>
-<li>The keyword is passed on to the server (app.js) which takes care of the API calls using the <a href="https://github.com/ciaranj/node-oauth">oauth</a> module. The search is completed with some words to derive a basic level of sentiment, e.g. &ldquo;love&rdquo; or &ldquo;hate&rdquo;</li>
-<li>Taking the reach (number of followers) into account, the ratio between good and bad is calculated</li>
-<li>The arduino sets the servo between the angle of 60 and 130 in order to move the two characters Sepp and Susi out of the Twetterhäuschen.</li>
-<li>Whereas Sepp represents the dark force, Susi acts as a substitute for ecstacy and elation.</li>
-</ol>
-<p>Here is an explanation in German:</p>
-<p><a href="https://www.youtube.com/watch?v=jSNGg0Prsf4">https://www.youtube.com/watch?v=jSNGg0Prsf4</a> <a href="http://www.youtube.com/watch?v=jSNGg0Prsf4"><img src="http://img.youtube.com/vi/jSNGg0Prsf4/0.jpg" alt="Prototype"></a></p>
-]]></content></item></channel></rss>
+</code></pre></div>]]></content></item></channel></rss>
