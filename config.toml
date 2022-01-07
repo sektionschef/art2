@@ -4,6 +4,8 @@ languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
 
+googleAnalytics = "G-PDX3FWK8T1"
+
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
@@ -17,7 +19,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Art by Stefan Schwaha"
+  homeSubtitle = "of Stefan Schwaha"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -26,7 +28,7 @@ paginate     = 10
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "art portfolio of Stefan Schwaha"
   keywords = "homepage, blog"
   images = [""]
 
@@ -62,8 +64,8 @@ enableThemeToggle = true
 
 [languages]
   [languages.en]
-    title = "Digitalitility"
-    subtitle = "Art by Stefan Schwaha"
+    title = "Art projects"
+    subtitle = "of Stefan Schwaha"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"

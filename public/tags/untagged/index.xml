@@ -1,28 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>untagged on Digitalitility</title>
+    <title>untagged on Art projects</title>
     <link>https://digitalitility.com/tags/untagged/</link>
-    <description>Recent content in untagged on Digitalitility</description>
+    <description>Recent content in untagged on Art projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 01 Jan 2015 12:27:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Sep 2020 12:27:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COVID-19 on abstract painting</title>
+      <link>https://digitalitility.com/posts/2020/09/covid-19-on-abstract-painting/</link>
+      <pubDate>Mon, 14 Sep 2020 12:27:30 +0100</pubDate>
+      
+      <guid>https://digitalitility.com/posts/2020/09/covid-19-on-abstract-painting/</guid>
+      <description>Read the whole story here: https://medium.com/@sektionschef/abstract-painting-visualizes-regional-covid-19-infections-in-real-time-b43b6c2a9e70</description>
+    </item>
+    
     <item>
       <title>Paintings</title>
-      <link>https://digitalitility.com/posts/paintings/</link>
+      <link>https://digitalitility.com/posts/2015/01/paintings/</link>
       <pubDate>Thu, 01 Jan 2015 12:27:30 +0100</pubDate>
       
-      <guid>https://digitalitility.com/posts/paintings/</guid>
+      <guid>https://digitalitility.com/posts/2015/01/paintings/</guid>
       <description> Nagano - Acrylic on canvas, 160x100cm    Wühlmaus    Skeleton    Staro    Magazino    Dochboden    Schuachschochtl 1    Schuachschochtl 2    Schuachschochtl 3   </description>
     </item>
     
     <item>
       <title>Hello world, hello futuregarden</title>
-      <link>https://digitalitility.com/posts/hello_world_hello_futuregarden/</link>
+      <link>https://digitalitility.com/posts/2014/11/hello-world-hello-futuregarden/</link>
       <pubDate>Tue, 25 Nov 2014 12:27:30 +0100</pubDate>
       
-      <guid>https://digitalitility.com/posts/hello_world_hello_futuregarden/</guid>
+      <guid>https://digitalitility.com/posts/2014/11/hello-world-hello-futuregarden/</guid>
       <description>What an honor: my projection painting prototype was publicly featured in futuregarden for 2 weeks. The original canvas was repainted with 5 different colors.
   At the entrance of the futuregarden a beamer, a laptop running my processing script (here at github), an arduino uno and a hall sensor were hooked up. The beamer pointing at the canvas projected five additional colors to create five new colors.
        Each time the door of the futuregarden was opened and somebody entered or left.</description>
@@ -30,60 +39,60 @@
     
     <item>
       <title>Data Painting - The Past in Realtime</title>
-      <link>https://digitalitility.com/posts/data_painting/</link>
+      <link>https://digitalitility.com/posts/2014/09/data-painting-the-past-in-realtime/</link>
       <pubDate>Sun, 28 Sep 2014 12:27:30 +0100</pubDate>
       
-      <guid>https://digitalitility.com/posts/data_painting/</guid>
+      <guid>https://digitalitility.com/posts/2014/09/data-painting-the-past-in-realtime/</guid>
       <description>After the infamous projection prototype, my first work is finished: the past in realtime. It displays our team&amp;rsquo;s diverging efforts for each minute of the day on a painted canvas. Based on the data of 51.000 time entries of ambuzzador&amp;rsquo;s past, the painting explains the distribution of our working time for six categories: project management, meetings, conceptual design, consulting, editorial services and content creation. For each minute, six color tones are projected on variably sized, painted areas.</description>
     </item>
     
     <item>
       <title>Projection Painting Prototype</title>
-      <link>https://digitalitility.com/posts/projection_painting_prototype/</link>
+      <link>https://digitalitility.com/posts/2014/07/projection-painting-prototype/</link>
       <pubDate>Thu, 17 Jul 2014 12:27:30 +0100</pubDate>
       
-      <guid>https://digitalitility.com/posts/projection_painting_prototype/</guid>
+      <guid>https://digitalitility.com/posts/2014/07/projection-painting-prototype/</guid>
       <description>Executive Summary The structure of the canvas, mixing colors right on the canvas, layer after layer and letting the coincidence help is what makes traditional painting so powerful. However, as a nerdophile person I often miss the undo button and the color wheel of the digital world.
  Luckily, I came across the processing movement turning code into art and vice versa. The perfect base to combine vivid richness of painted structure with the interactive and dynamic power of code.</description>
     </item>
     
     <item>
       <title>Like Converter</title>
-      <link>https://digitalitility.com/posts/like_converter/</link>
+      <link>https://digitalitility.com/posts/2014/04/like-converter/</link>
       <pubDate>Tue, 29 Apr 2014 12:27:30 +0100</pubDate>
       
-      <guid>https://digitalitility.com/posts/like_converter/</guid>
+      <guid>https://digitalitility.com/posts/2014/04/like-converter/</guid>
       <description>The Like Converter transforms likes earned for a Facebook posting into delicious candy. It is a reward system for social media managers and a source of motivation for your desk.
-  The thing itself is built (like the [Twetterhaeuschen] (https://digitalitility.com/posts/twetterhaeuschen/ )) on a raspberry pi, an arduino uno using node.js and firmata. The source code is on github: https://github.com/sektionschef/like_converter
+  The thing itself is built (like the [Twetterhaeuschen] (https://digitalitility.com/posts/2013/11/twetterh%C3%A4uschen/ )) on a raspberry pi, an arduino uno using node.js and firmata. The source code is on github: https://github.com/sektionschef/like_converter
     </description>
     </item>
     
     <item>
       <title>Die Dübitale Revolution</title>
-      <link>https://digitalitility.com/posts/d%C3%BCbitale_revolution/</link>
+      <link>https://digitalitility.com/posts/2014/03/die-d%C3%BCbitale-revolution/</link>
       <pubDate>Sun, 30 Mar 2014 12:27:30 +0100</pubDate>
       
-      <guid>https://digitalitility.com/posts/d%C3%BCbitale_revolution/</guid>
+      <guid>https://digitalitility.com/posts/2014/03/die-d%C3%BCbitale-revolution/</guid>
       <description>Bayrische Großvisionäre haben das Tor zu einer neuen Dimension aufgestoßen. Die &amp;ldquo;Dübitalanzeige&amp;rdquo; besteht aus einem Holzbrett, in das durch präzise Bohrungen einzelne Dübel von Hand variabel angeordnet werden können. Je nach Dübelsetzung kann so, eine gewisse geistige Flexibilität vorausgesetzt, eine kurze Botschaft encodiert werden, ohne ein einziges Watt zu verbrauchen.
     Die &amp;ldquo;Dübitalanzeige&amp;rdquo; ist der erste große Schritt Richtung dübitaler Ära. Ob das Pixel tatsächlich dem Düxel Platz machen werden muss, wird sich erst in den nächsten Jahren herauskristallisieren.</description>
     </item>
     
     <item>
       <title>Twetterhäuschen</title>
-      <link>https://digitalitility.com/posts/twetterhaeuschen/</link>
+      <link>https://digitalitility.com/posts/2013/11/twetterh%C3%A4uschen/</link>
       <pubDate>Wed, 20 Nov 2013 12:27:30 +0100</pubDate>
       
-      <guid>https://digitalitility.com/posts/twetterhaeuschen/</guid>
+      <guid>https://digitalitility.com/posts/2013/11/twetterh%C3%A4uschen/</guid>
       <description>The Twetterhäuschen is the world&amp;rsquo;s first Wetterhäuschen for visualizing the sentiment of a specific topic on twitter. It was built on a raspberry pi, a servo controlled by an arduino uno, using node.js in combination with socket.io. You can find the code on github to build your own: https://github.com/sektionschef/twetterhaeuschen
     Implementation  The Twetterhäuschen has its web form (index.html) to fill a brand or topic of interest The keyword is passed on to the server (app.</description>
     </item>
     
     <item>
       <title>Animation in the command line - ./animation.sh</title>
-      <link>https://digitalitility.com/posts/animation_sh/</link>
+      <link>https://digitalitility.com/posts/2012/01/animation-in-the-command-line-./animation.sh/</link>
       <pubDate>Sun, 29 Jan 2012 12:27:30 +0100</pubDate>
       
-      <guid>https://digitalitility.com/posts/animation_sh/</guid>
+      <guid>https://digitalitility.com/posts/2012/01/animation-in-the-command-line-./animation.sh/</guid>
       <description>Why After finding out how much one can do with ffmpeg&amp;hellip; I thought it would be the perfect tool for creating my abstract stop-motion animation I dreamed of for years. What I wanted to realize was simple: combining scenes of a series of high resolution photographs, including images of paintings and digitally edited material with various lengths, framerates exactly timed to a soundtrack.
 Ffmpeg is a powerful tool to convert audio and video files (among other things).</description>
     </item>
