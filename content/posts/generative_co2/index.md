@@ -10,7 +10,7 @@ tags:
 
 {{< figure src=thumbnail_detail.gif alt="Detail view of animation">}}
 
-The digital painting visualizes the **increasing CO² concentration** in the earth's atmosphere between 2012 and 2021. It's a generative piece of art which **never looks the same**.
+The digital painting visualizes the **increasing CO² concentration** in the earth's atmosphere between 2012 and 2021. It's a generative piece of art which **never looks the same**. 
 
 {{< youtube "https://youtu.be/TveLm4kC7hE" >}}
 
