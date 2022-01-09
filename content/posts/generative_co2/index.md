@@ -17,4 +17,4 @@ The digital painting visualizes the **increasing CO² concentration** in the ear
 * The artwork itself is here: https://sektionschef.github.io/generative_co2/
 * More information here -> https://medium.com/@sektionschef/co%C2%B2-emissions-in-digital-painting-3e979c2e6a04 
 * The code repo is here: https://github.com/sektionschef/generative_co2
-* the clean nft OBJKT is here: https://hicetnunc.art/objkt/624714
+* the clean nft OBJKT is here: https://hicetnunc.art/objkt/624714 
