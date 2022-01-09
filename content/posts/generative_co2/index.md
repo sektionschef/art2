@@ -12,7 +12,7 @@ tags:
 
 The digital painting visualizes the **increasing CO² concentration** in the earth's atmosphere between 2012 and 2021. It's a generative piece of art which **never looks the same**. 
 
-{{< youtube "https://youtu.be/TveLm4kC7hE" >}}
+{{< youtube TveLm4kC7hE >}}
 
 * The artwork itself is here: https://sektionschef.github.io/generative_co2/
 * More information here -> https://medium.com/@sektionschef/co%C2%B2-emissions-in-digital-painting-3e979c2e6a04 
