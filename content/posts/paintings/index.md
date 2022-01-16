@@ -8,7 +8,7 @@ tags:
   - untagged
 ---
 
-{{< figure src=nagano_ub.jpg title="Nagano - Acrylic on canvas, 160x100cm">}}
+{{< figure src=nagano_im_winter_20220116.jpg title="Nagano - Acrylic on canvas, 160x100cm">}}
 {{< figure src=P1020296.jpg title="Wühlmaus">}}
 {{< figure src=P1020294.jpg title="Skeleton">}}
 {{< figure src=P1020293.jpg title="Staro">}}
