@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 08 Jan 2022 17:01:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Feb 2022 17:01:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Busta Verde</title>
+      <link>https://digitalitility.com/posts/2022/02/busta-verde/</link>
+      <pubDate>Tue, 01 Feb 2022 17:01:30 +0100</pubDate>
+      
+      <guid>https://digitalitility.com/posts/2022/02/busta-verde/</guid>
+      <description> -- The digital painting is the little sister of the generative CO² canvas. It differs in variations of gravity, color and position of the elements and was sold on fxhash: https://www.fxhash.xyz/generative/8291
+  The code repo is here: https://github.com/sektionschef/hashy_bashy  </description>
+    </item>
+    
     <item>
       <title>CO² emissions in digital painting</title>
       <link>https://digitalitility.com/posts/2022/01/co-emissions-in-digital-painting/</link>
