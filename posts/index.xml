@@ -1,14 +1,36 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Art projects</title><link>https://digitalitility.com/posts/</link><description>Recent content in Posts on Art projects</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Tue, 01 Feb 2022 17:01:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Busta Verde</title><link>https://digitalitility.com/posts/2022/02/busta-verde/</link><pubDate>Tue, 01 Feb 2022 17:01:30 +0100</pubDate><guid>https://digitalitility.com/posts/2022/02/busta-verde/</guid><description> -- The digital painting is the little sister of the generative CO² canvas. It differs in variations of gravity, color and position of the elements and was sold on fxhash: https://www.fxhash.xyz/generative/8291
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Art projects</title><link>https://digitalitility.com/posts/</link><description>Recent content in Posts on Art projects</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Mon, 07 Feb 2022 17:01:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Alberto Tomba</title><link>https://digitalitility.com/posts/2022/02/alberto-tomba/</link><pubDate>Mon, 07 Feb 2022 17:01:30 +0100</pubDate><guid>https://digitalitility.com/posts/2022/02/alberto-tomba/</guid><description> -- The digital painting combines paint with physics, as generative piece of art. It differs in variations of gravity and explosion force and is listed on fxhash: https://www.fxhash.xyz/generative/8871
+The code repo is here: https://github.com/sektionschef/wash</description><content type="html"><![CDATA[<!-- <figure><img src="alberto_tomba_static.png"
+         alt="Detail view of animation"/>
+</figure>
+ -->
+<p>The digital painting combines paint with physics, as generative piece of art. It differs in variations of gravity and explosion force and is listed on fxhash: <a href="https://www.fxhash.xyz/generative/8871">https://www.fxhash.xyz/generative/8871</a></p>
+<div     style={background-color: #FFFFFF !important;}>
+<iframe 
+    title="Alberto Tomba"
+    width="750"
+    height="750"
+    frameborder="0"
+    cellspacing="0"
+src="https://gateway.fxhash2.xyz/ipfs/QmZWpmQxG2bTC4GLsJzVhh8PiaCjqb2uXHgxXGhXiSctNS/?fxhash=ooGabbd7DDkmzFbdpn6x51r1NJVjTc5keJVoZxCpgVzNEk53gRZ"></iframe>
+</div>
+<ul>
+<li>The code repo is here: <a href="https://github.com/sektionschef/wash">https://github.com/sektionschef/wash</a></li>
+</ul>
+]]></content></item><item><title>Busta Verde</title><link>https://digitalitility.com/posts/2022/02/busta-verde/</link><pubDate>Tue, 01 Feb 2022 17:01:30 +0100</pubDate><guid>https://digitalitility.com/posts/2022/02/busta-verde/</guid><description> -- The digital painting is the little sister of the generative CO² canvas. It differs in variations of gravity, color and position of the elements and was sold on fxhash: https://www.fxhash.xyz/generative/8291
 The code repo is here: https://github.com/sektionschef/hashy_bashy</description><content type="html"><![CDATA[<!-- <figure><img src="Busta%20Verde%20static.png"
          alt="Detail view of animation"/>
 </figure>
  -->
 <p>The digital painting is the little sister of the <a href="https://digitalitility.com/posts/2022/01/co-emissions-in-digital-painting/" title="generative CO² canvas">generative CO² canvas</a>. It differs in variations of gravity, color and position of the elements and was sold on fxhash: <a href="https://www.fxhash.xyz/generative/8291">https://www.fxhash.xyz/generative/8291</a></p>
+<div     style={background-color: #FFFFFF !important;}>
 <iframe 
     title="Busta Verde"
-    width="800"
-    height="800"
+    width="750"
+    height="750"
+    frameborder="0"
+    cellspacing="0"
 src="https://gateway.fxhash2.xyz/ipfs/QmfG7K9bUmAGxf9uAaRDeAJRBRqQrjDkJhNnz5xqi6HKwe/?fxhash=ooNmBX8abuPFDtM9P1xR5LiwHGUZxiWj6gxG7wfMJhfvoKJwbc4"></iframe>
+</div>
 <ul>
 <li>The code repo is here: <a href="https://github.com/sektionschef/hashy_bashy">https://github.com/sektionschef/hashy_bashy</a></li>
 </ul>
