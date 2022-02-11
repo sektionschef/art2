@@ -12,10 +12,14 @@ tags:
 
 The digital painting is the little sister of the [generative CO² canvas]({{< ref "posts/generative_co2/index.md" >}} "generative CO² canvas"). It differs in variations of gravity, color and position of the elements and was sold on fxhash: https://www.fxhash.xyz/generative/8291 
 
+<div     style={background-color: #FFFFFF !important;}>
 <iframe 
     title="Busta Verde"
-    width="800"
-    height="800"
+    width="750"
+    height="750"
+    frameborder="0"
+    cellspacing="0"
 src="https://gateway.fxhash2.xyz/ipfs/QmfG7K9bUmAGxf9uAaRDeAJRBRqQrjDkJhNnz5xqi6HKwe/?fxhash=ooNmBX8abuPFDtM9P1xR5LiwHGUZxiWj6gxG7wfMJhfvoKJwbc4"></iframe>
+</div>
 
 * The code repo is here: https://github.com/sektionschef/hashy_bashy
