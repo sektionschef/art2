@@ -7,7 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 01 Feb 2022 17:01:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Mar 2022 17:01:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raumstreicher</title>
+      <link>https://digitalitility.com/posts/2022/03/raumstreicher/</link>
+      <pubDate>Sat, 12 Mar 2022 17:01:30 +0100</pubDate>
+      
+      <guid>https://digitalitility.com/posts/2022/03/raumstreicher/</guid>
+      <description>&amp;ldquo;I paint energy, not the soul.&amp;rdquo; Ukranian artist Kazimir Malevich, 1924
+100% of primary and secondary sales are donated to Save the children (https://thegivingblock.com/donate/save-the-children/) one week after publication, supporting victims of the war against Ukraine.
+Raumstreicher divides space in boxes, randomly.
+  Shortcuts  &amp;rsquo;s&amp;rsquo; | export png image &amp;lsquo;c&amp;rsquo; | center the artwork &amp;lsquo;r&amp;rsquo; | reset the perspective scrolling | zoom in and zoom out left-clicking + dragging | rotate the camera right-clicking + dragging | pan the camera position  100% generative, created with p5.</description>
+    </item>
+    
+    <item>
+      <title>Landstreicher</title>
+      <link>https://digitalitility.com/posts/2022/02/landstreicher/</link>
+      <pubDate>Sat, 19 Feb 2022 17:01:30 +0100</pubDate>
+      
+      <guid>https://digitalitility.com/posts/2022/02/landstreicher/</guid>
+      <description>A couple of strokes wandering through the landscapes.
+The space is randomly cut in segments on both axis. Some of the resulting rectangles are randomly selected to be paired. A second layer with similar ingredients is placed on top.
+   stroke size is randomly chosen and gets distorted along the way spacing between the hatches is relative to the stroke size speed of the strokes is randomly chosen for each line stroke color is randomly distorted the background noise is randomly generated 12 palettes with 2 colors  100% generative, no pngs.</description>
+    </item>
+    
+    <item>
+      <title>Alberto Tomba</title>
+      <link>https://digitalitility.com/posts/2022/02/alberto-tomba/</link>
+      <pubDate>Mon, 07 Feb 2022 17:01:30 +0100</pubDate>
+      
+      <guid>https://digitalitility.com/posts/2022/02/alberto-tomba/</guid>
+      <description> -- The digital painting combines paint with physics, as generative piece of art. It differs in variations of gravity and explosion force and is listed on fxhash: https://www.fxhash.xyz/generative/8871
+   The code repo is here: https://github.com/sektionschef/wash  </description>
+    </item>
+    
     <item>
       <title>Busta Verde</title>
       <link>https://digitalitility.com/posts/2022/02/busta-verde/</link>
@@ -15,7 +48,7 @@
       
       <guid>https://digitalitility.com/posts/2022/02/busta-verde/</guid>
       <description> -- The digital painting is the little sister of the generative CO² canvas. It differs in variations of gravity, color and position of the elements and was sold on fxhash: https://www.fxhash.xyz/generative/8291
-  The code repo is here: https://github.com/sektionschef/hashy_bashy  </description>
+   The code repo is here: https://github.com/sektionschef/hashy_bashy  </description>
     </item>
     
     <item>

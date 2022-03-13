@@ -6,8 +6,106 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Tue, 01 Feb 2022 17:01:30 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 17:01:30 +0100</lastBuildDate>
         <atom:link href="https://digitalitility.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Raumstreicher</title>
+            <link>https://digitalitility.com/posts/2022/03/raumstreicher/</link>
+            <pubDate>Sat, 12 Mar 2022 17:01:30 +0100</pubDate>
+            
+            <guid>https://digitalitility.com/posts/2022/03/raumstreicher/</guid>
+            <description>&amp;ldquo;I paint energy, not the soul.&amp;rdquo; Ukranian artist Kazimir Malevich, 1924
+100% of primary and secondary sales are donated to Save the children (https://thegivingblock.com/donate/save-the-children/) one week after publication, supporting victims of the war against Ukraine.
+Raumstreicher divides space in boxes, randomly.
+  Shortcuts  &amp;rsquo;s&amp;rsquo; | export png image &amp;lsquo;c&amp;rsquo; | center the artwork &amp;lsquo;r&amp;rsquo; | reset the perspective scrolling | zoom in and zoom out left-clicking + dragging | rotate the camera right-clicking + dragging | pan the camera position  100% generative, created with p5.</description>
+            <content type="html"><![CDATA[<p>&ldquo;I paint energy, not the soul.&rdquo; Ukranian artist Kazimir Malevich, 1924</p>
+<p>100% of primary and secondary sales are donated to <code>Save the children</code> (<a href="https://thegivingblock.com/donate/save-the-children/">https://thegivingblock.com/donate/save-the-children/</a>) one week after publication, supporting victims of the war against Ukraine.</p>
+<p>Raumstreicher divides space in boxes, randomly.</p>
+<div     style={background-color: #FFFFFF !important;}>
+<iframe 
+    title="Raumstreicher"
+    width="750"
+    height="750"
+    frameborder="0"
+    cellspacing="0"
+src="https://ipfs.io/ipfs/QmS7TruifqcRF2C3aHpdT8u8yK88T1Ykq1Rbg8AUa4tTqa/?fxhash=ooEjmdwzMkHMtCwJi3J77mg8PndadZVbRpdD7gTtqwRvtwpRL8Q"></iframe>
+</div>
+<h2 id="shortcuts">Shortcuts</h2>
+<ul>
+<li>&rsquo;s&rsquo; | export png image</li>
+<li>&lsquo;c&rsquo; | center the artwork</li>
+<li>&lsquo;r&rsquo; | reset the perspective</li>
+<li>scrolling | zoom in and zoom out</li>
+<li>left-clicking + dragging | rotate the camera</li>
+<li>right-clicking + dragging | pan the camera position</li>
+</ul>
+<p>100% generative, created with p5.js</p>
+<p>The source code is published here: <a href="https://github.com/sektionschef/Raumstreicher">https://github.com/sektionschef/Raumstreicher</a>
+Published on fxhash: <a href="https://www.fxhash.xyz/generative/10630">https://www.fxhash.xyz/generative/10630</a></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Landstreicher</title>
+            <link>https://digitalitility.com/posts/2022/02/landstreicher/</link>
+            <pubDate>Sat, 19 Feb 2022 17:01:30 +0100</pubDate>
+            
+            <guid>https://digitalitility.com/posts/2022/02/landstreicher/</guid>
+            <description>A couple of strokes wandering through the landscapes.
+The space is randomly cut in segments on both axis. Some of the resulting rectangles are randomly selected to be paired. A second layer with similar ingredients is placed on top.
+   stroke size is randomly chosen and gets distorted along the way spacing between the hatches is relative to the stroke size speed of the strokes is randomly chosen for each line stroke color is randomly distorted the background noise is randomly generated 12 palettes with 2 colors  100% generative, no pngs.</description>
+            <content type="html"><![CDATA[<p>A couple of strokes wandering through the landscapes.</p>
+<p>The space is randomly cut in segments on both axis. Some of the resulting rectangles are randomly selected to be paired. A second layer with similar ingredients is placed on top.</p>
+<div     style={background-color: #FFFFFF !important;}>
+<iframe 
+    title="Landstreicher"
+    width="750"
+    height="750"
+    frameborder="0"
+    cellspacing="0"
+src="https://ipfs.io/ipfs/QmNNQiH7XdK41szDXTZNmmq3wXDUvxhXjdm3RtnxhXG4DP/?fxhash=ooyPfQGAAH74aLGJc7ms8jgHDpwSaWJ7jAKW4qsmgQnGsoXpyza"></iframe>
+</div>
+<ul>
+<li>stroke size is randomly chosen and gets distorted along the way</li>
+<li>spacing between the hatches is relative to the stroke size</li>
+<li>speed of the strokes is randomly chosen for each line</li>
+<li>stroke color is randomly distorted</li>
+<li>the background noise is randomly generated</li>
+<li>12 palettes with 2 colors</li>
+</ul>
+<p>100% generative, no pngs. The source code is published here: <a href="https://github.com/sektionschef/landstreicher">https://github.com/sektionschef/landstreicher</a></p>
+<p>published on fxhash: <a href="https://www.fxhash.xyz/generative/9606">https://www.fxhash.xyz/generative/9606</a></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Alberto Tomba</title>
+            <link>https://digitalitility.com/posts/2022/02/alberto-tomba/</link>
+            <pubDate>Mon, 07 Feb 2022 17:01:30 +0100</pubDate>
+            
+            <guid>https://digitalitility.com/posts/2022/02/alberto-tomba/</guid>
+            <description> -- The digital painting combines paint with physics, as generative piece of art. It differs in variations of gravity and explosion force and is listed on fxhash: https://www.fxhash.xyz/generative/8871
+   The code repo is here: https://github.com/sektionschef/wash  </description>
+            <content type="html"><![CDATA[<!-- <figure><img src="alberto_tomba_static.png"
+         alt="Detail view of animation"/>
+</figure>
+ -->
+<p>The digital painting combines paint with physics, as generative piece of art. It differs in variations of gravity and explosion force and is listed on fxhash: <a href="https://www.fxhash.xyz/generative/8871">https://www.fxhash.xyz/generative/8871</a></p>
+<div     style={background-color: #FFFFFF !important;}>
+<iframe 
+    title="Alberto Tomba"
+    width="750"
+    height="750"
+    frameborder="0"
+    cellspacing="0"
+src="https://gateway.fxhash2.xyz/ipfs/QmZWpmQxG2bTC4GLsJzVhh8PiaCjqb2uXHgxXGhXiSctNS/?fxhash=ooGabbd7DDkmzFbdpn6x51r1NJVjTc5keJVoZxCpgVzNEk53gRZ"></iframe>
+</div>
+<ul>
+<li>The code repo is here: <a href="https://github.com/sektionschef/wash">https://github.com/sektionschef/wash</a></li>
+</ul>
+]]></content>
+        </item>
         
         <item>
             <title>Busta Verde</title>
@@ -16,17 +114,21 @@
             
             <guid>https://digitalitility.com/posts/2022/02/busta-verde/</guid>
             <description> -- The digital painting is the little sister of the generative CO² canvas. It differs in variations of gravity, color and position of the elements and was sold on fxhash: https://www.fxhash.xyz/generative/8291
-  The code repo is here: https://github.com/sektionschef/hashy_bashy  </description>
+   The code repo is here: https://github.com/sektionschef/hashy_bashy  </description>
             <content type="html"><![CDATA[<!-- <figure><img src="Busta%20Verde%20static.png"
          alt="Detail view of animation"/>
 </figure>
  -->
 <p>The digital painting is the little sister of the <a href="https://digitalitility.com/posts/2022/01/co-emissions-in-digital-painting/" title="generative CO² canvas">generative CO² canvas</a>. It differs in variations of gravity, color and position of the elements and was sold on fxhash: <a href="https://www.fxhash.xyz/generative/8291">https://www.fxhash.xyz/generative/8291</a></p>
+<div     style={background-color: #FFFFFF !important;}>
 <iframe 
     title="Busta Verde"
-    width="800"
-    height="800"
+    width="750"
+    height="750"
+    frameborder="0"
+    cellspacing="0"
 src="https://gateway.fxhash2.xyz/ipfs/QmfG7K9bUmAGxf9uAaRDeAJRBRqQrjDkJhNnz5xqi6HKwe/?fxhash=ooNmBX8abuPFDtM9P1xR5LiwHGUZxiWj6gxG7wfMJhfvoKJwbc4"></iframe>
+</div>
 <ul>
 <li>The code repo is here: <a href="https://github.com/sektionschef/hashy_bashy">https://github.com/sektionschef/hashy_bashy</a></li>
 </ul>
@@ -222,7 +324,7 @@ src="https://gateway.fxhash2.xyz/ipfs/QmfG7K9bUmAGxf9uAaRDeAJRBRqQrjDkJhNnz5xqi6
 
 <h2 id="how-it-was-done">How it was done</h2>
 <p>I took the timesheets, which hold the exact date and time when a particular task was started and ended - about 51.000 eintries since 2011. When expanding the time entries for every minute ranging from the minute started and the minute ended the data grew to about 21 billion entries.</p>
-<p>For the real-world part of this project, I painted a canvas with 133 abstract polygons with some inspiration of good old <a href="http://en.wikipedia.org/wiki/Kazimir_Malevich">Kazimir Malevich</a>. The areas' outlines were transformed to a virtual clone in svg format. And then wrote an <a href="http://www.r-project.org/">R</a> script to calculate the area of each polygon and to normalize them.</p>
+<p>For the real-world part of this project, I painted a canvas with 133 abstract polygons with some inspiration of good old <a href="http://en.wikipedia.org/wiki/Kazimir_Malevich">Kazimir Malevich</a>. The areas&rsquo; outlines were transformed to a virtual clone in svg format. And then wrote an <a href="http://www.r-project.org/">R</a> script to calculate the area of each polygon and to normalize them.</p>
 <p>Finally, the areas of the canvas had to be chosen so that the sum of their areas best matches the proportion for each task category in each minute. This combinatorial optimization riddle is known as the <a href="http://en.wikipedia.org/wiki/Knapsack_problem">Knapsack problem</a> in literature and obviously there is no other solution than to test every single combination, brute force. In order to compensate the lack of supercomputers at home, I randomly created seven groups from all the polygons. This way the combinations were reduced to 2 million per minute and per category. It took 32 hours for my computer to come up with the optimal solution for presenting the ambuzzador&rsquo;s past in realtime. The maximal deviance between data and canvas is about 2% with a standard error of 0.087%.</p>
 <p>The projection painting was done <a href="http://digit.alitility.com/visualitility/projection-painting-prototype/" title="Projection Painting Prototype">again</a> in <a href="http://processing.org/">Processing</a> using keystone library. The whole project took about 3 months. The source code is publicly available on github: <a href="https://github.com/sektionschef/10yearsbuzz">https://github.com/sektionschef/10yearsbuzz</a></p>
 <figure><img src="P1070764.jpg"
@@ -536,13 +638,13 @@ Ffmpeg is a powerful tool to convert audio and video files (among other things).
 0001;abdeckungen;4;30;
 0002;radl;4;50;
 </code></pre><p>My first version script (you can find in the <a href="http://tutori.alitility.com/doku.php?id=ubuntu:animation_in_the_command_line#one_after_the_other_script" title="ubuntu:animation_in_the_command_line">appendix</a>) begins by asking the only parameter a scene name from the user. The input is then checked if it already exists or not, which determines the subsequent operations. If the input is <em>all</em> all scenes are rendered according to the parameters of the cutlist.</p>
-<p>The cutlist file is read for the needed parameters or if the scene is not yet existing these are entered directly to the terminal and written to the cutlist. For new scenes a directory is made, the frames transferred to this directory, resized to the wished size using imagemagick, renamed to include the scenes' rank and rendered. If the rank has changed the filename of all videos is renamed and the scene is rendered according to the new parameters.</p>
+<p>The cutlist file is read for the needed parameters or if the scene is not yet existing these are entered directly to the terminal and written to the cutlist. For new scenes a directory is made, the frames transferred to this directory, resized to the wished size using imagemagick, renamed to include the scenes&rsquo; rank and rendered. If the rank has changed the filename of all videos is renamed and the scene is rendered according to the new parameters.</p>
 <p>In the final block which is run in any case the filenames of all video outputs is checked against the cutlist.csv in order to remove obsolete files, which would mess up the <em>cat</em> command. Then all videos are merged by <em>cat</em> in the sequence of the rank and the soundtrack is added by ffmpeg. Que bello!</p>
 <h2 id="picture-in-picture-animation">Picture in Picture Animation</h2>
 <p>Soon after finishing my first script and celebrating my success I realized that the end result became a victim of the worst enemy art films have to face - boredom. The scenes were cut one after the other and the proper mojo was missing. What I actually wanted was displaying several scenes at once (picture in picture) in order to emphasize a relationship among them. In <a href="http://www.imagemagick.org/script/index.php" title="http://www.imagemagick.org/script/index.php">imagemagick</a> I found a way of realizing what I wanted using layers. The basic command for this is:</p>
 <pre tabindex="0"><code>for i in {1..5}
 do
-convert -size 1440x1080 xc:black &quot;a_*$i.jpg&quot; -geometry 700x525+383+6 -composite &quot;b_*$i.jpg&quot; -geometry 700x525+13+546 -composite &quot;c_*$i.jpg&quot; -geometry 700x525+728+546 -composite &quot;output_`printf &quot;%04d&quot; $i`.jpg&quot;
+convert -size 1440x1080 xc:black &#34;a_*$i.jpg&#34; -geometry 700x525+383+6 -composite &#34;b_*$i.jpg&#34; -geometry 700x525+13+546 -composite &#34;c_*$i.jpg&#34; -geometry 700x525+728+546 -composite &#34;output_`printf &#34;%04d&#34; $i`.jpg&#34;
 done
 </code></pre><p>I started all over again, this time letting imagemagick render the frames by arranging several pictures into one. The frames need to be processed individually before I can render a scene. As a consequence every single frame of the final video is rendered in imagemagick and then processed by ffmpeg. The scenes are layers on a 1440×1080 canvas in black color. The output is a frame in the format ffmpeg is able to use. Having each frame rendered takes quite some time! Still, the quality is amazing.</p>
 <p>On the basis of this command I came up with a new workflow consisting of 3 separate scripts:</p>
@@ -585,99 +687,99 @@ done
 <h3 id="preview">Preview</h3>
 <p>Gimp owns an animation preview function (filters &gt; animation &gt; playback) but I don&rsquo;t really like it. My images have a higher resolution and must be rescaled before viewing the animation and changing the framerate is a pain in the ass. I wrote a script which does the same thing only a bit more convenient. At the same time, it is the first step before importing a scene in my project.</p>
 <p>The framerate is set in the terminal as $1 otherwise a default value of 5 is used. The other variables for this little script is the image size and the bitrate of the preview video. After the images have been exported from gimp they are moved from the home directory to the preview directory, resized and renamed. If no images are in the home directory the script processes those of the preview directory so I can experiment with different framerates quickly. The preview directory is emptied if new images have been exported to the home directory. The video itself is created by the basic ffmpeg command for these situations. That&rsquo;s it basically!</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#75715e">#! /bin/bash
-</span><span style="color:#75715e"></span>
-FRAMERATE<span style="color:#f92672">=</span>$1
-<span style="color:#75715e"># can be set as part of the command</span>
-
-BITRATE<span style="color:#f92672">=</span>10000k
-LENGTH<span style="color:#f92672">=</span><span style="color:#ae81ff">100</span>
-
-PREVIEW_DIRECTORY<span style="color:#f92672">=</span>06_preview
-SIZE<span style="color:#f92672">=</span>x1080
-
-<span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">&#34;</span>$FRAMERATE<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">]</span>
-<span style="color:#66d9ef">then</span>
-   FRAMERATE<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;5&#34;</span>
-<span style="color:#66d9ef">fi</span>
-<span style="color:#75715e"># sets a default value for framerate</span>
-
-<span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">&#34;`ls ~ | grep &#34;</span>_*.jpg<span style="color:#e6db74">&#34;`&#34;</span> <span style="color:#f92672">]</span>
-
-<span style="color:#66d9ef">then</span>
-echo <span style="color:#e6db74">&#34;+++++++++ already exists ++++++&#34;</span>
-
-<span style="color:#66d9ef">else</span>
-<span style="color:#75715e">#clean house</span>
-rm -f $PREVIEW_DIRECTORY/*.jpg
-
-echo <span style="color:#e6db74">&#34;+++++++++ Copy frames to preview directory ++++++++++&#34;</span>
-mv ~/*.jpg $PREVIEW_DIRECTORY
-
-echo <span style="color:#e6db74">&#34;+++++++++ Resize frames ++++++++++&#34;</span>
-mogrify -resize $SIZE $PREVIEW_DIRECTORY/frame_*.jpg
-
-<span style="color:#66d9ef">fi</span>
-
-echo <span style="color:#e6db74">&#34;+++++++++++++ Render </span>$SCENE<span style="color:#e6db74"> ++++++++++++&#34;</span>
-ffmpeg -y -loop_input -r $FRAMERATE -f image2 -i <span style="color:#e6db74">&#34;</span>$PREVIEW_DIRECTORY<span style="color:#e6db74">/frame_%04d.jpg&#34;</span> -vframes $LENGTH -b $BITRATE -r <span style="color:#ae81ff">25</span> preview.avi
-
-exit
-</code></pre></div><h2 id="importing-new-scene-in-project">Importing new scene in project</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e">#! /bin/bash
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span>FRAMERATE<span style="color:#f92672">=</span>$1
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># can be set as part of the command</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>BITRATE<span style="color:#f92672">=</span>10000k
+</span></span><span style="display:flex;"><span>LENGTH<span style="color:#f92672">=</span><span style="color:#ae81ff">100</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>PREVIEW_DIRECTORY<span style="color:#f92672">=</span>06_preview
+</span></span><span style="display:flex;"><span>SIZE<span style="color:#f92672">=</span>x1080
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">&#34;</span>$FRAMERATE<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">]</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>   FRAMERATE<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;5&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># sets a default value for framerate</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">&#34;`ls ~ | grep &#34;</span>_*.jpg<span style="color:#e6db74">&#34;`&#34;</span> <span style="color:#f92672">]</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;+++++++++ already exists ++++++&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#clean house</span>
+</span></span><span style="display:flex;"><span>rm -f $PREVIEW_DIRECTORY/*.jpg
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;+++++++++ Copy frames to preview directory ++++++++++&#34;</span>
+</span></span><span style="display:flex;"><span>mv ~/*.jpg $PREVIEW_DIRECTORY
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;+++++++++ Resize frames ++++++++++&#34;</span>
+</span></span><span style="display:flex;"><span>mogrify -resize $SIZE $PREVIEW_DIRECTORY/frame_*.jpg
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;+++++++++++++ Render </span>$SCENE<span style="color:#e6db74"> ++++++++++++&#34;</span>
+</span></span><span style="display:flex;"><span>ffmpeg -y -loop_input -r $FRAMERATE -f image2 -i <span style="color:#e6db74">&#34;</span>$PREVIEW_DIRECTORY<span style="color:#e6db74">/frame_%04d.jpg&#34;</span> -vframes $LENGTH -b $BITRATE -r <span style="color:#ae81ff">25</span> preview.avi
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>exit
+</span></span></code></pre></div><h2 id="importing-new-scene-in-project">Importing new scene in project</h2>
 <p>In case I liked the preview, it is included in the cutlist and therefore part of the project. The following script accomplishes this task without any woes. It asks for the details and parameters in the terminal and writes them into a new line of the cutlist. Before that the contents of the cutlist are shown in order to have some sort of orientation where to put it. For security reasons, the script also checks if the scene&rsquo;s name is already existing. Additionally, a new directory (named after the scene name) is created, the images are moved there and are also renamed properly by including the scene name.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#75715e">#! /bin/bash
-</span><span style="color:#75715e"></span>
-<span style="color:#75715e">###########################################################</span>
-CUTLIST<span style="color:#f92672">=</span>cutlist_hobo.csv
-PREVIEW_DIRECTORY<span style="color:#f92672">=</span>06_preview
-
-<span style="color:#75715e">###########################################################</span>
-
-echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-echo <span style="color:#e6db74">&#34;Please enter the SCENE&#39;s name:&#34;</span>
-echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-read INPUT_SCENE
-
-<span style="color:#75715e"># check if input scene is unique</span>
-<span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">&#34;`grep &#34;</span>;<span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span>;<span style="color:#e6db74">&#34; </span>$CUTLIST<span style="color:#e6db74">`&#34;</span> <span style="color:#f92672">]</span>
-
-<span style="color:#66d9ef">then</span>
-
-cat $CUTLIST
-
-echo +++++++++ <span style="color:#e6db74">&#34;Define parameters&#34;</span> ++++++++++
-echo <span style="color:#e6db74">&#34;Please enter its FRANK:&#34;</span>
-read INPUT_FRANK
-echo <span style="color:#e6db74">&#34;Please enter the framerate:&#34;</span>
-read INPUT_FRAMERATE
-echo <span style="color:#e6db74">&#34;Please enter the last frame&#39;s number:&#34;</span>
-read INPUT_LENGTH
-echo <span style="color:#e6db74">&#34;Please enter the PIP parameters (wxh+w_o+h_o):&#34;</span>
-read INPUT_PIP
-
-echo +++++++++ <span style="color:#e6db74">&#34;Create directory </span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> ++++++++++
-mkdir -p 02_scenes/$INPUT_SCENE
-
-echo +++++++++ <span style="color:#e6db74">&#34;Copy frames to newly created directory&#34;</span> ++++++++++
-mv $PREVIEW_DIRECTORY/*.jpg 02_scenes/$INPUT_SCENE
-
-echo +++++++++++++ <span style="color:#e6db74">&#34;Rename by adding the scene&#39;s name&#34;</span> ++++++++++++
-<span style="color:#66d9ef">for</span> FILE in 02_scenes/$INPUT_SCENE/frame_*.jpg ;
-<span style="color:#66d9ef">do</span>
-NEWFILE<span style="color:#f92672">=</span><span style="color:#e6db74">`</span>echo $FILE | sed <span style="color:#e6db74">&#34;s/frame/</span>$INPUT_SCENE<span style="color:#e6db74">\_frame/g&#34;</span><span style="color:#e6db74">`</span> ;
-mv <span style="color:#e6db74">&#34;</span>$FILE<span style="color:#e6db74">&#34;</span> $NEWFILE ;
-<span style="color:#66d9ef">done</span>
-
-echo +++++++++++++ <span style="color:#e6db74">&#34;Write variables to cutlist&#34;</span> ++++++++++++
-echo <span style="color:#e6db74">&#34;</span>$INPUT_FRANK<span style="color:#e6db74">;</span>$INPUT_SCENE<span style="color:#e6db74">;</span>$INPUT_FRAMERATE<span style="color:#e6db74">;</span>$INPUT_LENGTH<span style="color:#e6db74">;</span>$INPUT_PIP<span style="color:#e6db74">;&#34;</span> &gt;&gt; $CUTLIST
-
-<span style="color:#66d9ef">else</span>
-read -p <span style="color:#e6db74">&#34;+++++++++++++ Name of scene is already existing ++++++++++++&#34;</span>
-
-<span style="color:#66d9ef">fi</span>
-
-exit
-</code></pre></div><h2 id="script-for-rendering-the-pip-video">Script for rendering the PIP video</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e">#! /bin/bash
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">###########################################################</span>
+</span></span><span style="display:flex;"><span>CUTLIST<span style="color:#f92672">=</span>cutlist_hobo.csv
+</span></span><span style="display:flex;"><span>PREVIEW_DIRECTORY<span style="color:#f92672">=</span>06_preview
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">###########################################################</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;Please enter the SCENE&#39;s name:&#34;</span>
+</span></span><span style="display:flex;"><span>echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+</span></span><span style="display:flex;"><span>read INPUT_SCENE
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># check if input scene is unique</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">&#34;`grep &#34;</span>;<span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span>;<span style="color:#e6db74">&#34; </span>$CUTLIST<span style="color:#e6db74">`&#34;</span> <span style="color:#f92672">]</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>cat $CUTLIST
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++ <span style="color:#e6db74">&#34;Define parameters&#34;</span> ++++++++++
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;Please enter its FRANK:&#34;</span>
+</span></span><span style="display:flex;"><span>read INPUT_FRANK
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;Please enter the framerate:&#34;</span>
+</span></span><span style="display:flex;"><span>read INPUT_FRAMERATE
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;Please enter the last frame&#39;s number:&#34;</span>
+</span></span><span style="display:flex;"><span>read INPUT_LENGTH
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;Please enter the PIP parameters (wxh+w_o+h_o):&#34;</span>
+</span></span><span style="display:flex;"><span>read INPUT_PIP
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++ <span style="color:#e6db74">&#34;Create directory </span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> ++++++++++
+</span></span><span style="display:flex;"><span>mkdir -p 02_scenes/$INPUT_SCENE
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++ <span style="color:#e6db74">&#34;Copy frames to newly created directory&#34;</span> ++++++++++
+</span></span><span style="display:flex;"><span>mv $PREVIEW_DIRECTORY/*.jpg 02_scenes/$INPUT_SCENE
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++++++ <span style="color:#e6db74">&#34;Rename by adding the scene&#39;s name&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> FILE in 02_scenes/$INPUT_SCENE/frame_*.jpg ;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">do</span>
+</span></span><span style="display:flex;"><span>NEWFILE<span style="color:#f92672">=</span><span style="color:#e6db74">`</span>echo $FILE | sed <span style="color:#e6db74">&#34;s/frame/</span>$INPUT_SCENE<span style="color:#e6db74">\_frame/g&#34;</span><span style="color:#e6db74">`</span> ;
+</span></span><span style="display:flex;"><span>mv <span style="color:#e6db74">&#34;</span>$FILE<span style="color:#e6db74">&#34;</span> $NEWFILE ;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">done</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++++++ <span style="color:#e6db74">&#34;Write variables to cutlist&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;</span>$INPUT_FRANK<span style="color:#e6db74">;</span>$INPUT_SCENE<span style="color:#e6db74">;</span>$INPUT_FRAMERATE<span style="color:#e6db74">;</span>$INPUT_LENGTH<span style="color:#e6db74">;</span>$INPUT_PIP<span style="color:#e6db74">;&#34;</span> &gt;&gt; $CUTLIST
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>read -p <span style="color:#e6db74">&#34;+++++++++++++ Name of scene is already existing ++++++++++++&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>exit
+</span></span></code></pre></div><h2 id="script-for-rendering-the-pip-video">Script for rendering the PIP video</h2>
 <h3 id="render-framerate-and-length">Render framerate and length</h3>
 <p>The first part covers the conversion of my images in frames for the video, i.e. the images are brought to the correct framerate and length. Because of arranging the scenes frame-by-frame, I have to do this by myself and cannot simply tell ffmpeg to deal with it like in the first script. But let&rsquo;s start with one thing after the other.</p>
 <p>First, the variables are defined. It is possible to define a frame range when running the script in the terminal, in which the script is processed. For instance, frame 500 to 1000. The default value is frame 1 to frame 7270 which is approximately the end of the soundtrack. The overall framerate I chose is 25 seconds per frame following the PAL standard. The canvas size is 1920×1080 and the bitrate for the final movie is also defined by a variable. Once the video is finished I might render it with a higher bitrate.</p>
@@ -712,7 +814,7 @@ with r = 5
          alt="animation_ball_slow" width="100%"/>
 </figure>
 </p>
-<p>Now, the problem arises that the copy command of the inner loop has to address the correct filenames of the images A-D. For the first frames A, for the next couple of frames B and so on. No wildcards can be used. (otherwise the error notification of <em>directory file not existing</em> shows up). The filenames of the images are in the form of 0001,0002&hellip; Therefore, a frame counter is needed which provides the correct number in the images' filenames. This counter has to be defined in the outer loop, because here the image is selected. I&rsquo;ll use the example from before with r = 10 frames per second.</p>
+<p>Now, the problem arises that the copy command of the inner loop has to address the correct filenames of the images A-D. For the first frames A, for the next couple of frames B and so on. No wildcards can be used. (otherwise the error notification of <em>directory file not existing</em> shows up). The filenames of the images are in the form of 0001,0002&hellip; Therefore, a frame counter is needed which provides the correct number in the images&rsquo; filenames. This counter has to be defined in the outer loop, because here the image is selected. I&rsquo;ll use the example from before with r = 10 frames per second.</p>
 <p>The length_boost counter, with the increment of 25/10, overall framerate divided by desired framerate, can to rearranged by 0_25/10, 1_25/10, 2_25/10,&hellip; n_25/10. My solution was then to divide the actual length_boost by (25/r + 1), which provides a series of consecutive numbers 1,2,3,..n. This variable can be used to address the images by their filename. Unfortunately, this is not the end of the story. There is the problem that those frame numbers exceeding the number of images (A,B,C,D) are not existing, the numbers &gt;4. When the last image D or 0004 was used the process should start from the beginning, image A or 0001. The 9th frame should be sourced from picture A.</p>
 <div>
   <table>
@@ -743,510 +845,510 @@ with r = 5
 <p>The PIP script is using cut (combined with <em>sed &lsquo;1d&rsquo;</em> for dropping first row) instead of csvtool which I used in my first script. Basically, it provides the same task for me without installing an additional package.</p>
 <p>Some of the names I use in my script sound stupid&hellip; I just named it to something that came to my mind ( the name westling for instance originates from the Swedish royals, who married when I was writing this script). But there are many comments for clarifying everything.</p>
 <h3 id="the-script">The script</h3>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#75715e">#! /bin/bash
-</span><span style="color:#75715e"></span>
-<span style="color:#75715e">##################### Variables ###########################</span>
-START_FRAME<span style="color:#f92672">=</span>$1
-END_FRAME<span style="color:#f92672">=</span>$2
-OVERALL_ASPECT_RATIO<span style="color:#f92672">=</span>1920x1080
-OVERALL_FRAMERATE<span style="color:#f92672">=</span><span style="color:#ae81ff">25</span>
-<span style="color:#75715e"># important for calculating the number of needed frames of the individual framerate</span>
-
-<span style="color:#75715e"># default values for length</span>
-<span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">&#34;</span>$START_FRAME<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">]</span>
-<span style="color:#66d9ef">then</span>
-   START_FRAME<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;1&#34;</span>
-<span style="color:#66d9ef">fi</span>
-<span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">&#34;</span>$END_FRAME<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">]</span>
-<span style="color:#66d9ef">then</span>
-   END_FRAME<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;7150&#34;</span>
-<span style="color:#66d9ef">fi</span>
-
-<span style="color:#75715e">#directories and files</span>
-CUTLIST<span style="color:#f92672">=</span>cutlist_hobo.csv
-WESTLING<span style="color:#f92672">=</span>03_westling
-TEMP<span style="color:#f92672">=</span>04_temp
-
-<span style="color:#75715e">###################################################</span>
-
-echo <span style="color:#e6db74">&#34;##################### Render Framerate and Length ########################&#34;</span>
-
-<span style="color:#75715e"># clean the house</span>
-rm -f $WESTLING/*.jpg
-
-<span style="color:#75715e">#### Loop for scene name reading all necessary parameters in cutlist ####</span>
-<span style="color:#66d9ef">for</span> SCENE_NAME in <span style="color:#e6db74">`</span>sed <span style="color:#e6db74">&#39;1d&#39;</span> $CUTLIST | cut -d <span style="color:#e6db74">&#39;;&#39;</span> -f <span style="color:#ae81ff">2</span> -<span style="color:#e6db74">`</span>
-<span style="color:#75715e"># sed &#39;1d&#39; eliminates the first row of column headers, cut reads the columns using the delimiter &#34;;&#34;</span>
-<span style="color:#66d9ef">do</span>
-
-<span style="color:#75715e"># the; around the scene name prevents confusion of strings</span>
-FRANK <span style="color:#f92672">()</span>
-<span style="color:#f92672">{</span>
-grep <span style="color:#e6db74">&#34;;</span>$SCENE_NAME<span style="color:#e6db74">;&#34;</span> $CUTLIST | cut -d <span style="color:#e6db74">&#39;;&#39;</span> -f <span style="color:#ae81ff">1</span> -
-<span style="color:#f92672">}</span>
-LENGTH <span style="color:#f92672">()</span>
-<span style="color:#f92672">{</span>
-echo <span style="color:#66d9ef">$((</span> <span style="color:#e6db74">`</span>grep <span style="color:#e6db74">&#34;;</span>$SCENE_NAME<span style="color:#e6db74">;&#34;</span> $CUTLIST | cut -d <span style="color:#e6db74">&#39;;&#39;</span> -f <span style="color:#ae81ff">4</span> -<span style="color:#e6db74">`</span> <span style="color:#f92672">-</span> <span style="color:#e6db74">`</span>FRANK<span style="color:#e6db74">`</span> <span style="color:#66d9ef">))</span>
-<span style="color:#f92672">}</span>
-<span style="color:#75715e"># length should be a multiple of original_frames and framerate!</span>
-<span style="color:#75715e"># length is now in absolute frame numbers of the final video</span>
-FRAMERATE <span style="color:#f92672">()</span>
-<span style="color:#f92672">{</span>
-grep <span style="color:#e6db74">&#34;;</span>$SCENE_NAME<span style="color:#e6db74">;&#34;</span> $CUTLIST | cut -d <span style="color:#e6db74">&#39;;&#39;</span> -f <span style="color:#ae81ff">3</span> -
-<span style="color:#f92672">}</span>
-SCENE_PIP_PER_FRAME <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> grep <span style="color:#e6db74">&#34;;</span>$SCENE_NAME_PER_FRAME<span style="color:#e6db74">;&#34;</span> $CUTLIST | cut -d <span style="color:#e6db74">&#39;;&#39;</span> -f 5; <span style="color:#f92672">}</span>
-<span style="color:#75715e"># this function matches the scenename from the filename with the one in the cutlist and reads the pip parameter accordingly.</span>
-ORIGINAL_FRAMES<span style="color:#f92672">()</span>
-<span style="color:#f92672">{</span>
-ls 02_scenes/<span style="color:#e6db74">&#34;</span>$SCENE_NAME<span style="color:#e6db74">&#34;</span>/<span style="color:#e6db74">&#34;</span>$SCENE_NAME<span style="color:#e6db74">&#34;</span>_frame_*.jpg | wc -w <span style="color:#75715e">#no idea why -l does not work!!!</span>
-<span style="color:#f92672">}</span>
-<span style="color:#75715e"># counts the number of original frames of the scene</span>
-
-<span style="color:#75715e"># if the scene is not in the defined frame range, its loop is skipped</span>
-<span style="color:#66d9ef">if</span> <span style="color:#f92672">((</span><span style="color:#e6db74">`</span>FRANK<span style="color:#e6db74">`</span> &lt; <span style="color:#e6db74">&#34;</span>$START_FRAME<span style="color:#e6db74">&#34;</span><span style="color:#f92672">))</span>
-    <span style="color:#66d9ef">then</span>
-    <span style="color:#66d9ef">continue</span>
-<span style="color:#66d9ef">fi</span>
-
-<span style="color:#66d9ef">if</span> <span style="color:#f92672">((</span><span style="color:#e6db74">`</span>FRANK<span style="color:#e6db74">`</span> &gt; <span style="color:#e6db74">&#34;</span>$END_FRAME<span style="color:#e6db74">&#34;</span><span style="color:#f92672">))</span>
-    <span style="color:#66d9ef">then</span>
-    break
-<span style="color:#66d9ef">fi</span>
-
-<span style="color:#75715e">#echo parameters for debugging</span>
-echo <span style="color:#e6db74">&#34;++++ Scene Name: &#34;</span>$SCENE_NAME<span style="color:#e6db74">&#34; ++++&#34;</span>
-echo <span style="color:#e6db74">&#34;Frank: `FRANK`&#34;</span>
-echo <span style="color:#e6db74">&#34;Length: `LENGTH`&#34;</span>
-echo <span style="color:#e6db74">&#34;Framerate: `FRAMERATE`&#34;</span>
-echo <span style="color:#e6db74">&#34;Original Frames: `ORIGINAL_FRAMES`&#34;</span>
-echo <span style="color:#e6db74">&#34;-------------------------------------------------------&#34;</span>
-
-<span style="color:#75715e">#### first loop - Length Boost ####</span>
-<span style="color:#66d9ef">for</span> <span style="color:#f92672">((</span>LENGTH_BOOST <span style="color:#f92672">=</span> 0;LENGTH_BOOST &lt;<span style="color:#f92672">=</span> <span style="color:#66d9ef">$((</span><span style="color:#e6db74">`</span>LENGTH<span style="color:#e6db74">`</span> <span style="color:#f92672">-</span> <span style="color:#ae81ff">1</span><span style="color:#66d9ef">))</span>;LENGTH_BOOST <span style="color:#f92672">=</span> LENGTH_BOOST + <span style="color:#66d9ef">$((</span>$OVERALL_FRAMERATE<span style="color:#f92672">/</span><span style="color:#e6db74">`</span>FRAMERATE<span style="color:#e6db74">`</span><span style="color:#66d9ef">))</span><span style="color:#f92672">))</span> <span style="color:#66d9ef">do</span>
-<span style="color:#75715e"># &#34;0&#34; because added to the framerate_boost loop .. length of scene .. increment is derived</span>
-<span style="color:#75715e"># length minus one because it starts from 0</span>
-
-COUNTER<span style="color:#f92672">=</span><span style="color:#66d9ef">$((</span>$LENGTH_BOOST <span style="color:#f92672">/</span> <span style="color:#f92672">(</span>$OVERALL_FRAMERATE <span style="color:#f92672">/</span> <span style="color:#e6db74">`</span>FRAMERATE<span style="color:#e6db74">`</span><span style="color:#f92672">)+</span><span style="color:#ae81ff">1</span><span style="color:#66d9ef">))</span>
-<span style="color:#75715e"># counts which frame is copied, important for the cp command</span>
-<span style="color:#75715e"># does not restart</span>
-<span style="color:#75715e"># no idea why brackets are necessary!!</span>
-
-COUNTER_RESTART<span style="color:#f92672">=</span><span style="color:#66d9ef">$((</span>$COUNTER<span style="color:#f92672">%</span><span style="color:#e6db74">`</span>ORIGINAL_FRAMES<span style="color:#e6db74">`</span><span style="color:#66d9ef">))</span>
-<span style="color:#75715e"># accomplishes the restart with the remainder</span>
-
-<span style="color:#75715e">#### second loop - Framerate Boost ####</span>
-<span style="color:#66d9ef">for</span> <span style="color:#f92672">((</span>FRAMERATE_BOOST <span style="color:#f92672">=</span> 1;FRAMERATE_BOOST &lt;<span style="color:#f92672">=</span> <span style="color:#66d9ef">$((</span>$OVERALL_FRAMERATE<span style="color:#f92672">/</span><span style="color:#e6db74">`</span>FRAMERATE<span style="color:#e6db74">`</span><span style="color:#66d9ef">))</span>;FRAMERATE_BOOST++<span style="color:#f92672">))</span> <span style="color:#66d9ef">do</span>
-
-<span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> $COUNTER_RESTART <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span> <span style="color:#f92672">]</span>; <span style="color:#66d9ef">then</span>
-cp 02_scenes/$SCENE_NAME/<span style="color:#e6db74">${</span>SCENE_NAME<span style="color:#e6db74">}</span>_*0<span style="color:#e6db74">`</span>ORIGINAL_FRAMES<span style="color:#e6db74">`</span>.jpg $WESTLING/<span style="color:#e6db74">${</span>SCENE_NAME<span style="color:#e6db74">}</span>_<span style="color:#66d9ef">$((</span>$LENGTH_BOOST<span style="color:#f92672">+</span>$FRAMERATE_BOOST<span style="color:#f92672">+</span><span style="color:#e6db74">`</span>FRANK<span style="color:#e6db74">`</span><span style="color:#f92672">-</span><span style="color:#ae81ff">1</span><span style="color:#66d9ef">))</span>.jpg
-<span style="color:#66d9ef">else</span>
-cp 02_scenes/$SCENE_NAME/<span style="color:#e6db74">${</span>SCENE_NAME<span style="color:#e6db74">}</span>_*0<span style="color:#e6db74">${</span>COUNTER_RESTART<span style="color:#e6db74">}</span>.jpg $WESTLING/<span style="color:#e6db74">${</span>SCENE_NAME<span style="color:#e6db74">}</span>_<span style="color:#66d9ef">$((</span>$LENGTH_BOOST<span style="color:#f92672">+</span>$FRAMERATE_BOOST<span style="color:#f92672">+</span><span style="color:#e6db74">`</span>FRANK<span style="color:#e6db74">`</span><span style="color:#f92672">-</span><span style="color:#ae81ff">1</span><span style="color:#66d9ef">))</span>.jpg
-<span style="color:#66d9ef">fi</span>
-<span style="color:#75715e"># the 0 of the cp command after the wildcard is risky, but not more than 2 digits</span>
-<span style="color:#75715e"># additionally to the length und framerate boost the actual position (framenumber), i called it frank, of the final video is added, the final position is written in the filename for the next stage.</span>
-
-<span style="color:#66d9ef">done</span> <span style="color:#75715e"># end FRAMERATE_BOOST</span>
-<span style="color:#66d9ef">done</span> <span style="color:#75715e"># end LENGTH_BOOST</span>
-
-<span style="color:#66d9ef">done</span> <span style="color:#75715e"># end loop SCENE_NAME</span>
-
-echo <span style="color:#e6db74">&#34;########################### Render PIP Frames ##############################&#34;</span>
-<span style="color:#75715e"># find scenename and then read pip parameters for each frame</span>
-
-<span style="color:#75715e"># clean the house</span>
-rm -f $TEMP/*.txt <span style="color:#75715e"># -f prevents errors of already empty directories</span>
-rm -f $TEMP/*.jpg
-
-<span style="color:#66d9ef">for</span> <span style="color:#f92672">((</span>i<span style="color:#f92672">=</span>$START_FRAME;i&lt;<span style="color:#f92672">=</span>$END_FRAME;i++<span style="color:#f92672">))</span>
-<span style="color:#66d9ef">do</span>
-echo -n <span style="color:#e6db74">&#34;&#34;</span> &gt;&gt; <span style="color:#e6db74">&#34;</span>$TEMP<span style="color:#e6db74">/temp_</span><span style="color:#e6db74">${</span>i<span style="color:#e6db74">}</span><span style="color:#e6db74">.txt&#34;</span>
-<span style="color:#75715e"># if frame is missing a scene, just leave it out</span>
-echo <span style="color:#e6db74">&#34;frame number: </span>$i<span style="color:#e6db74"> until </span>$END_FRAME<span style="color:#e6db74">&#34;</span>
-
-<span style="color:#66d9ef">for</span> SCENE_NAME_PER_FRAME in <span style="color:#e6db74">`</span>ls $WESTLING | grep <span style="color:#e6db74">&#34;.*_</span>$i<span style="color:#e6db74">.jpg&#34;</span> | cut -d <span style="color:#e6db74">&#39;_&#39;</span> -f 1<span style="color:#e6db74">`</span>
-<span style="color:#66d9ef">do</span>
-<span style="color:#75715e"># loop for all frames of the final video and the second loop for all scene names, which already have rendered frames. scenename is read from the filename.</span>
-
-echo -n <span style="color:#e6db74">&#34;</span>$WESTLING<span style="color:#e6db74">/</span><span style="color:#e6db74">${</span>SCENE_NAME_PER_FRAME<span style="color:#e6db74">}</span><span style="color:#e6db74">_</span><span style="color:#e6db74">${</span>i<span style="color:#e6db74">}</span><span style="color:#e6db74">.jpg -geometry `SCENE_PIP_PER_FRAME` -composite &#34;</span> &gt;&gt; <span style="color:#e6db74">&#34;</span>$TEMP<span style="color:#e6db74">/temp_</span><span style="color:#e6db74">${</span>i<span style="color:#e6db74">}</span><span style="color:#e6db74">.txt&#34;</span>
-<span style="color:#75715e"># the whole thing is put in a temp file for each frame; correctly formatted for the imagemagick command</span>
-<span style="color:#75715e"># the -n tells echo not to use a new line parameter!!</span>
-
-<span style="color:#66d9ef">done</span> <span style="color:#75715e"># end scene_name_pip_frame</span>
-
-convert -type TrueColor -size $OVERALL_ASPECT_RATIO xc:black <span style="color:#e6db74">`</span>cat <span style="color:#e6db74">&#34;</span>$TEMP<span style="color:#e6db74">/temp_</span><span style="color:#e6db74">${</span>i<span style="color:#e6db74">}</span><span style="color:#e6db74">.txt&#34;</span><span style="color:#e6db74">`</span> <span style="color:#e6db74">&#34;</span>$TEMP<span style="color:#e6db74">/output_`printf &#34;</span>%04d<span style="color:#e6db74">&#34; </span><span style="color:#66d9ef">$((</span> $i <span style="color:#f92672">-</span> $START_FRAME <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span> <span style="color:#66d9ef">))</span><span style="color:#e6db74">`.jpg&#34;</span>
-<span style="color:#75715e"># cat reads the temporary file and completes the command inside the loop. echo would just return the filename</span>
-<span style="color:#75715e"># the usage of printf is necessary for ffmpeg in the next step</span>
-<span style="color:#75715e"># type Truecolor explicitly needed, otherwise first black frame is saved in grayscale turning the whole video grayscale</span>
-<span style="color:#75715e"># the term $(( $i - $START_FRAME + 1 )) is needed to always start counting from 0001 (the way ffmpeg requires it) even if the first frame is &gt;1</span>
-
-<span style="color:#66d9ef">done</span> <span style="color:#75715e"># end frames</span>
-
-echo <span style="color:#e6db74">&#34;################ Render Video ######################&#34;</span>
-
-DELAY_FROM_START_FRAME <span style="color:#f92672">()</span>
-<span style="color:#f92672">{</span>
-printf <span style="color:#e6db74">&#34;00:%02d:%02d.%03d\n&#34;</span> <span style="color:#66d9ef">$((</span>$START_FRAME<span style="color:#f92672">/</span>$OVERALL_FRAMERATE<span style="color:#f92672">/</span><span style="color:#ae81ff">60</span><span style="color:#66d9ef">))</span> <span style="color:#66d9ef">$((</span>$START_FRAME<span style="color:#f92672">%(</span>$OVERALL_FRAMERATE<span style="color:#f92672">*</span><span style="color:#ae81ff">60</span><span style="color:#f92672">)/</span>$OVERALL_FRAMERATE<span style="color:#66d9ef">))</span> <span style="color:#66d9ef">$((</span>$START_FRAME<span style="color:#f92672">%(</span>$OVERALL_FRAMERATE<span style="color:#f92672">*</span><span style="color:#ae81ff">60</span><span style="color:#f92672">)%</span>$OVERALL_FRAMERATE<span style="color:#f92672">*</span><span style="color:#ae81ff">1000</span><span style="color:#f92672">/</span>$OVERALL_FRAMERATE<span style="color:#66d9ef">))</span>
-<span style="color:#f92672">}</span>
-<span style="color:#75715e"># brings the start_frame in the format mm:ss.xxx, this is needed for the audio</span>
-<span style="color:#75715e"># 5/2=2 but 5%2=1, gives the remainder</span>
-<span style="color:#75715e"># printf &#34;%02d:%02d.%03d\n&#34; $(($f/25/60)) $(($f%(25*60)/25)) $(($f%(25*60)%25*40))</span>
-
-<span style="color:#75715e"># easy mpeg2 version</span>
-<span style="color:#75715e">#ffmpeg -y -f image2 -i &#34;$TEMP/output_%04d.jpg&#34; -vframes $(($END_FRAME-$START_FRAME)) -r $OVERALL_FRAMERATE -b 10000k -ss `DELAY_FROM_START_FRAME` -i &#34;shellac_mouthpiece.wav&#34; -acodec copy &#34;animation.avi&#34;</span>
-
-<span style="color:#75715e"># HD .mp4 version</span>
-ffmpeg -y -f image2 -i <span style="color:#e6db74">&#34;</span>$TEMP<span style="color:#e6db74">/output_%04d.jpg&#34;</span> -ss <span style="color:#e6db74">`</span>DELAY_FROM_START_FRAME<span style="color:#e6db74">`</span> -i <span style="color:#e6db74">&#34;shellac_mouthpiece.wav&#34;</span> -vframes <span style="color:#66d9ef">$((</span>$END_FRAME<span style="color:#f92672">-</span>$START_FRAME<span style="color:#66d9ef">))</span> -vcodec libx264 -vpre slow -crf <span style="color:#ae81ff">22</span> -r $OVERALL_FRAMERATE -threads <span style="color:#ae81ff">0</span> -acodec libfaac -ab 320k -ar <span style="color:#ae81ff">44100</span> -ac <span style="color:#ae81ff">2</span> <span style="color:#e6db74">&#34;animation.mp4&#34;</span>
-
-<span style="color:#75715e"># -ss 00:00:002 start at (before the input file!) and -t 00:00:001 length</span>
-<span style="color:#75715e"># -loop_input not needed</span>
-
-exit
-</code></pre></div><h2 id="appendix">Appendix</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e">#! /bin/bash
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">##################### Variables ###########################</span>
+</span></span><span style="display:flex;"><span>START_FRAME<span style="color:#f92672">=</span>$1
+</span></span><span style="display:flex;"><span>END_FRAME<span style="color:#f92672">=</span>$2
+</span></span><span style="display:flex;"><span>OVERALL_ASPECT_RATIO<span style="color:#f92672">=</span>1920x1080
+</span></span><span style="display:flex;"><span>OVERALL_FRAMERATE<span style="color:#f92672">=</span><span style="color:#ae81ff">25</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># important for calculating the number of needed frames of the individual framerate</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># default values for length</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">&#34;</span>$START_FRAME<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">]</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>   START_FRAME<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;1&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">&#34;</span>$END_FRAME<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">]</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>   END_FRAME<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;7150&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#directories and files</span>
+</span></span><span style="display:flex;"><span>CUTLIST<span style="color:#f92672">=</span>cutlist_hobo.csv
+</span></span><span style="display:flex;"><span>WESTLING<span style="color:#f92672">=</span>03_westling
+</span></span><span style="display:flex;"><span>TEMP<span style="color:#f92672">=</span>04_temp
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">###################################################</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;##################### Render Framerate and Length ########################&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># clean the house</span>
+</span></span><span style="display:flex;"><span>rm -f $WESTLING/*.jpg
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#### Loop for scene name reading all necessary parameters in cutlist ####</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> SCENE_NAME in <span style="color:#e6db74">`</span>sed <span style="color:#e6db74">&#39;1d&#39;</span> $CUTLIST | cut -d <span style="color:#e6db74">&#39;;&#39;</span> -f <span style="color:#ae81ff">2</span> -<span style="color:#e6db74">`</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># sed &#39;1d&#39; eliminates the first row of column headers, cut reads the columns using the delimiter &#34;;&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">do</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># the; around the scene name prevents confusion of strings</span>
+</span></span><span style="display:flex;"><span>FRANK <span style="color:#f92672">()</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>grep <span style="color:#e6db74">&#34;;</span>$SCENE_NAME<span style="color:#e6db74">;&#34;</span> $CUTLIST | cut -d <span style="color:#e6db74">&#39;;&#39;</span> -f <span style="color:#ae81ff">1</span> -
+</span></span><span style="display:flex;"><span><span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>LENGTH <span style="color:#f92672">()</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#66d9ef">$((</span> <span style="color:#e6db74">`</span>grep <span style="color:#e6db74">&#34;;</span>$SCENE_NAME<span style="color:#e6db74">;&#34;</span> $CUTLIST | cut -d <span style="color:#e6db74">&#39;;&#39;</span> -f <span style="color:#ae81ff">4</span> -<span style="color:#e6db74">`</span> <span style="color:#f92672">-</span> <span style="color:#e6db74">`</span>FRANK<span style="color:#e6db74">`</span> <span style="color:#66d9ef">))</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># length should be a multiple of original_frames and framerate!</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># length is now in absolute frame numbers of the final video</span>
+</span></span><span style="display:flex;"><span>FRAMERATE <span style="color:#f92672">()</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>grep <span style="color:#e6db74">&#34;;</span>$SCENE_NAME<span style="color:#e6db74">;&#34;</span> $CUTLIST | cut -d <span style="color:#e6db74">&#39;;&#39;</span> -f <span style="color:#ae81ff">3</span> -
+</span></span><span style="display:flex;"><span><span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>SCENE_PIP_PER_FRAME <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> grep <span style="color:#e6db74">&#34;;</span>$SCENE_NAME_PER_FRAME<span style="color:#e6db74">;&#34;</span> $CUTLIST | cut -d <span style="color:#e6db74">&#39;;&#39;</span> -f 5; <span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># this function matches the scenename from the filename with the one in the cutlist and reads the pip parameter accordingly.</span>
+</span></span><span style="display:flex;"><span>ORIGINAL_FRAMES<span style="color:#f92672">()</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>ls 02_scenes/<span style="color:#e6db74">&#34;</span>$SCENE_NAME<span style="color:#e6db74">&#34;</span>/<span style="color:#e6db74">&#34;</span>$SCENE_NAME<span style="color:#e6db74">&#34;</span>_frame_*.jpg | wc -w <span style="color:#75715e">#no idea why -l does not work!!!</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># counts the number of original frames of the scene</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># if the scene is not in the defined frame range, its loop is skipped</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">((</span><span style="color:#e6db74">`</span>FRANK<span style="color:#e6db74">`</span> &lt; <span style="color:#e6db74">&#34;</span>$START_FRAME<span style="color:#e6db74">&#34;</span><span style="color:#f92672">))</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">continue</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">((</span><span style="color:#e6db74">`</span>FRANK<span style="color:#e6db74">`</span> &gt; <span style="color:#e6db74">&#34;</span>$END_FRAME<span style="color:#e6db74">&#34;</span><span style="color:#f92672">))</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>    break
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#echo parameters for debugging</span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;++++ Scene Name: &#34;</span>$SCENE_NAME<span style="color:#e6db74">&#34; ++++&#34;</span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;Frank: `FRANK`&#34;</span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;Length: `LENGTH`&#34;</span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;Framerate: `FRAMERATE`&#34;</span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;Original Frames: `ORIGINAL_FRAMES`&#34;</span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;-------------------------------------------------------&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#### first loop - Length Boost ####</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> <span style="color:#f92672">((</span>LENGTH_BOOST <span style="color:#f92672">=</span> 0;LENGTH_BOOST &lt;<span style="color:#f92672">=</span> <span style="color:#66d9ef">$((</span><span style="color:#e6db74">`</span>LENGTH<span style="color:#e6db74">`</span> <span style="color:#f92672">-</span> <span style="color:#ae81ff">1</span><span style="color:#66d9ef">))</span>;LENGTH_BOOST <span style="color:#f92672">=</span> LENGTH_BOOST + <span style="color:#66d9ef">$((</span>$OVERALL_FRAMERATE<span style="color:#f92672">/</span><span style="color:#e6db74">`</span>FRAMERATE<span style="color:#e6db74">`</span><span style="color:#66d9ef">))</span><span style="color:#f92672">))</span> <span style="color:#66d9ef">do</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># &#34;0&#34; because added to the framerate_boost loop .. length of scene .. increment is derived</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># length minus one because it starts from 0</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>COUNTER<span style="color:#f92672">=</span><span style="color:#66d9ef">$((</span>$LENGTH_BOOST <span style="color:#f92672">/</span> <span style="color:#f92672">(</span>$OVERALL_FRAMERATE <span style="color:#f92672">/</span> <span style="color:#e6db74">`</span>FRAMERATE<span style="color:#e6db74">`</span><span style="color:#f92672">)+</span><span style="color:#ae81ff">1</span><span style="color:#66d9ef">))</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># counts which frame is copied, important for the cp command</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># does not restart</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># no idea why brackets are necessary!!</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>COUNTER_RESTART<span style="color:#f92672">=</span><span style="color:#66d9ef">$((</span>$COUNTER<span style="color:#f92672">%</span><span style="color:#e6db74">`</span>ORIGINAL_FRAMES<span style="color:#e6db74">`</span><span style="color:#66d9ef">))</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># accomplishes the restart with the remainder</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#### second loop - Framerate Boost ####</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> <span style="color:#f92672">((</span>FRAMERATE_BOOST <span style="color:#f92672">=</span> 1;FRAMERATE_BOOST &lt;<span style="color:#f92672">=</span> <span style="color:#66d9ef">$((</span>$OVERALL_FRAMERATE<span style="color:#f92672">/</span><span style="color:#e6db74">`</span>FRAMERATE<span style="color:#e6db74">`</span><span style="color:#66d9ef">))</span>;FRAMERATE_BOOST++<span style="color:#f92672">))</span> <span style="color:#66d9ef">do</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> $COUNTER_RESTART <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span> <span style="color:#f92672">]</span>; <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>cp 02_scenes/$SCENE_NAME/<span style="color:#e6db74">${</span>SCENE_NAME<span style="color:#e6db74">}</span>_*0<span style="color:#e6db74">`</span>ORIGINAL_FRAMES<span style="color:#e6db74">`</span>.jpg $WESTLING/<span style="color:#e6db74">${</span>SCENE_NAME<span style="color:#e6db74">}</span>_<span style="color:#66d9ef">$((</span>$LENGTH_BOOST<span style="color:#f92672">+</span>$FRAMERATE_BOOST<span style="color:#f92672">+</span><span style="color:#e6db74">`</span>FRANK<span style="color:#e6db74">`</span><span style="color:#f92672">-</span><span style="color:#ae81ff">1</span><span style="color:#66d9ef">))</span>.jpg
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>cp 02_scenes/$SCENE_NAME/<span style="color:#e6db74">${</span>SCENE_NAME<span style="color:#e6db74">}</span>_*0<span style="color:#e6db74">${</span>COUNTER_RESTART<span style="color:#e6db74">}</span>.jpg $WESTLING/<span style="color:#e6db74">${</span>SCENE_NAME<span style="color:#e6db74">}</span>_<span style="color:#66d9ef">$((</span>$LENGTH_BOOST<span style="color:#f92672">+</span>$FRAMERATE_BOOST<span style="color:#f92672">+</span><span style="color:#e6db74">`</span>FRANK<span style="color:#e6db74">`</span><span style="color:#f92672">-</span><span style="color:#ae81ff">1</span><span style="color:#66d9ef">))</span>.jpg
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># the 0 of the cp command after the wildcard is risky, but not more than 2 digits</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># additionally to the length und framerate boost the actual position (framenumber), i called it frank, of the final video is added, the final position is written in the filename for the next stage.</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">done</span> <span style="color:#75715e"># end FRAMERATE_BOOST</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">done</span> <span style="color:#75715e"># end LENGTH_BOOST</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">done</span> <span style="color:#75715e"># end loop SCENE_NAME</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;########################### Render PIP Frames ##############################&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># find scenename and then read pip parameters for each frame</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># clean the house</span>
+</span></span><span style="display:flex;"><span>rm -f $TEMP/*.txt <span style="color:#75715e"># -f prevents errors of already empty directories</span>
+</span></span><span style="display:flex;"><span>rm -f $TEMP/*.jpg
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> <span style="color:#f92672">((</span>i<span style="color:#f92672">=</span>$START_FRAME;i&lt;<span style="color:#f92672">=</span>$END_FRAME;i++<span style="color:#f92672">))</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">do</span>
+</span></span><span style="display:flex;"><span>echo -n <span style="color:#e6db74">&#34;&#34;</span> &gt;&gt; <span style="color:#e6db74">&#34;</span>$TEMP<span style="color:#e6db74">/temp_</span><span style="color:#e6db74">${</span>i<span style="color:#e6db74">}</span><span style="color:#e6db74">.txt&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># if frame is missing a scene, just leave it out</span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;frame number: </span>$i<span style="color:#e6db74"> until </span>$END_FRAME<span style="color:#e6db74">&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> SCENE_NAME_PER_FRAME in <span style="color:#e6db74">`</span>ls $WESTLING | grep <span style="color:#e6db74">&#34;.*_</span>$i<span style="color:#e6db74">.jpg&#34;</span> | cut -d <span style="color:#e6db74">&#39;_&#39;</span> -f 1<span style="color:#e6db74">`</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">do</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># loop for all frames of the final video and the second loop for all scene names, which already have rendered frames. scenename is read from the filename.</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo -n <span style="color:#e6db74">&#34;</span>$WESTLING<span style="color:#e6db74">/</span><span style="color:#e6db74">${</span>SCENE_NAME_PER_FRAME<span style="color:#e6db74">}</span><span style="color:#e6db74">_</span><span style="color:#e6db74">${</span>i<span style="color:#e6db74">}</span><span style="color:#e6db74">.jpg -geometry `SCENE_PIP_PER_FRAME` -composite &#34;</span> &gt;&gt; <span style="color:#e6db74">&#34;</span>$TEMP<span style="color:#e6db74">/temp_</span><span style="color:#e6db74">${</span>i<span style="color:#e6db74">}</span><span style="color:#e6db74">.txt&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># the whole thing is put in a temp file for each frame; correctly formatted for the imagemagick command</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># the -n tells echo not to use a new line parameter!!</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">done</span> <span style="color:#75715e"># end scene_name_pip_frame</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>convert -type TrueColor -size $OVERALL_ASPECT_RATIO xc:black <span style="color:#e6db74">`</span>cat <span style="color:#e6db74">&#34;</span>$TEMP<span style="color:#e6db74">/temp_</span><span style="color:#e6db74">${</span>i<span style="color:#e6db74">}</span><span style="color:#e6db74">.txt&#34;</span><span style="color:#e6db74">`</span> <span style="color:#e6db74">&#34;</span>$TEMP<span style="color:#e6db74">/output_`printf &#34;</span>%04d<span style="color:#e6db74">&#34; </span><span style="color:#66d9ef">$((</span> $i <span style="color:#f92672">-</span> $START_FRAME <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span> <span style="color:#66d9ef">))</span><span style="color:#e6db74">`.jpg&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># cat reads the temporary file and completes the command inside the loop. echo would just return the filename</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># the usage of printf is necessary for ffmpeg in the next step</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># type Truecolor explicitly needed, otherwise first black frame is saved in grayscale turning the whole video grayscale</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># the term $(( $i - $START_FRAME + 1 )) is needed to always start counting from 0001 (the way ffmpeg requires it) even if the first frame is &gt;1</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">done</span> <span style="color:#75715e"># end frames</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;################ Render Video ######################&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>DELAY_FROM_START_FRAME <span style="color:#f92672">()</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>printf <span style="color:#e6db74">&#34;00:%02d:%02d.%03d\n&#34;</span> <span style="color:#66d9ef">$((</span>$START_FRAME<span style="color:#f92672">/</span>$OVERALL_FRAMERATE<span style="color:#f92672">/</span><span style="color:#ae81ff">60</span><span style="color:#66d9ef">))</span> <span style="color:#66d9ef">$((</span>$START_FRAME<span style="color:#f92672">%(</span>$OVERALL_FRAMERATE<span style="color:#f92672">*</span><span style="color:#ae81ff">60</span><span style="color:#f92672">)/</span>$OVERALL_FRAMERATE<span style="color:#66d9ef">))</span> <span style="color:#66d9ef">$((</span>$START_FRAME<span style="color:#f92672">%(</span>$OVERALL_FRAMERATE<span style="color:#f92672">*</span><span style="color:#ae81ff">60</span><span style="color:#f92672">)%</span>$OVERALL_FRAMERATE<span style="color:#f92672">*</span><span style="color:#ae81ff">1000</span><span style="color:#f92672">/</span>$OVERALL_FRAMERATE<span style="color:#66d9ef">))</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># brings the start_frame in the format mm:ss.xxx, this is needed for the audio</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># 5/2=2 but 5%2=1, gives the remainder</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># printf &#34;%02d:%02d.%03d\n&#34; $(($f/25/60)) $(($f%(25*60)/25)) $(($f%(25*60)%25*40))</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># easy mpeg2 version</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#ffmpeg -y -f image2 -i &#34;$TEMP/output_%04d.jpg&#34; -vframes $(($END_FRAME-$START_FRAME)) -r $OVERALL_FRAMERATE -b 10000k -ss `DELAY_FROM_START_FRAME` -i &#34;shellac_mouthpiece.wav&#34; -acodec copy &#34;animation.avi&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># HD .mp4 version</span>
+</span></span><span style="display:flex;"><span>ffmpeg -y -f image2 -i <span style="color:#e6db74">&#34;</span>$TEMP<span style="color:#e6db74">/output_%04d.jpg&#34;</span> -ss <span style="color:#e6db74">`</span>DELAY_FROM_START_FRAME<span style="color:#e6db74">`</span> -i <span style="color:#e6db74">&#34;shellac_mouthpiece.wav&#34;</span> -vframes <span style="color:#66d9ef">$((</span>$END_FRAME<span style="color:#f92672">-</span>$START_FRAME<span style="color:#66d9ef">))</span> -vcodec libx264 -vpre slow -crf <span style="color:#ae81ff">22</span> -r $OVERALL_FRAMERATE -threads <span style="color:#ae81ff">0</span> -acodec libfaac -ab 320k -ar <span style="color:#ae81ff">44100</span> -ac <span style="color:#ae81ff">2</span> <span style="color:#e6db74">&#34;animation.mp4&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># -ss 00:00:002 start at (before the input file!) and -t 00:00:001 length</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># -loop_input not needed</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>exit
+</span></span></code></pre></div><h2 id="appendix">Appendix</h2>
 <p>ONE AFTER THE OTHER SCRIPT</p>
 <p>It is the first I wrote, so please be careful. Corrections or optimizations are welcome. The programs used are: csvtool, imagemagick, ffmpeg.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#75715e">#! /bin/bash
-</span><span style="color:#75715e"></span>
-<span style="color:#75715e"># variabels</span>
-BITRATE<span style="color:#f92672">=</span>600k
-HEIGHT<span style="color:#f92672">=</span>x1080
-<span style="color:#75715e"># sets the absolute height</span>
-FRAMERATE_END<span style="color:#f92672">=</span><span style="color:#ae81ff">24</span>
-echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-echo <span style="color:#e6db74">&#34;Please enter the SCENE&#39;s name or render all videos at once by typing all:&#34;</span>
-echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-read INPUT_SCENE
-
-<span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> $INPUT_SCENE <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;all&#34;</span> <span style="color:#f92672">]</span>
-<span style="color:#75715e">################################################## BLOCK 01 #############################################################</span>
-   <span style="color:#66d9ef">then</span>
-   echo +++++++++++++ <span style="color:#e6db74">&#34;All scenes are processed&#34;</span> ++++++++++++
-   echo +++++++++++++ <span style="color:#e6db74">&#34;Reading parameters&#34;</span> ++++++++++++
-   <span style="color:#66d9ef">for</span> ALL_SCENES in <span style="color:#e6db74">`</span>csvtool drop <span style="color:#ae81ff">1</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">2</span> -<span style="color:#e6db74">`</span>;
-   <span style="color:#66d9ef">do</span>
-   RANK_ALL <span style="color:#f92672">()</span>
-   <span style="color:#f92672">{</span>
-   grep <span style="color:#e6db74">&#34;</span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">1</span> -
-   <span style="color:#f92672">}</span>
-   FRAMERATE_ALL <span style="color:#f92672">()</span>
-   <span style="color:#f92672">{</span>
-   grep <span style="color:#e6db74">&#34;</span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">3</span> -
-   <span style="color:#f92672">}</span>
-   LENGTH_ALL <span style="color:#f92672">()</span>
-   <span style="color:#f92672">{</span>
-   grep <span style="color:#e6db74">&#34;</span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">4</span> -
-   <span style="color:#f92672">}</span>
-   echo <span style="color:#e6db74">&#34;scene = </span>$ALL_SCENES<span style="color:#e6db74">&#34;</span>
-   echo <span style="color:#e6db74">&#34;rank = `RANK_ALL`&#34;</span>
-   echo <span style="color:#e6db74">&#34;framerate = `FRAMERATE_ALL`&#34;</span>
-   echo <span style="color:#e6db74">&#34;length = `LENGTH_ALL`&#34;</span>
-   <span style="color:#75715e"># warning about too many arguments, because finding lots of files?? but it works</span>
-   blod <span style="color:#f92672">()</span>
-   <span style="color:#f92672">{</span>
-   find ./02_scenes/$ALL_SCENES -name <span style="color:#e6db74">`</span>RANK_ALL<span style="color:#e6db74">`</span>_<span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span>*
-   <span style="color:#f92672">}</span>
-   <span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">`</span>blod<span style="color:#e6db74">`</span> <span style="color:#f92672">]</span>
-   <span style="color:#75715e"># if the rank is not the same with the one in the cutlist it has to be updated</span>
-     <span style="color:#66d9ef">then</span>
-     echo +++++++++++++ <span style="color:#e6db74">&#34;Rename </span>$ALL_SCENES<span style="color:#e6db74"> by updating its name and rank&#34;</span> ++++++++++++
-     <span style="color:#66d9ef">for</span> FILE in 02_scenes/$ALL_SCENES/*frame*.jpg ;
-        <span style="color:#66d9ef">do</span>
-        NEWFILE <span style="color:#f92672">()</span>
-        <span style="color:#f92672">{</span>
-        echo $FILE | sed <span style="color:#e6db74">&#34;s/</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">\/.*_.*_frame/</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">\/`RANK_ALL`\_</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">\_frame/g&#34;</span>
-        <span style="color:#f92672">}</span>
-        mv <span style="color:#e6db74">&#34;</span>$FILE<span style="color:#e6db74">&#34;</span> <span style="color:#e6db74">`</span>NEWFILE<span style="color:#e6db74">`</span> ;
-        <span style="color:#66d9ef">done</span>
-
-  <span style="color:#75715e">#paths need to be preserved! wildcards with .* - no idea why!</span>
-  <span style="color:#75715e">#frame_* instead of more general *.jpgs because there are also the original photos in the directory</span>
-   <span style="color:#66d9ef">fi</span>
-
-   echo +++++++++++++ <span style="color:#e6db74">&#34;Render scene </span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> ++++++++++++
-   ffmpeg -y -loop_input -f image2 -r <span style="color:#e6db74">`</span>FRAMERATE_ALL<span style="color:#e6db74">`</span> -i <span style="color:#e6db74">&#34;02_scenes/</span>$ALL_SCENES<span style="color:#e6db74">/`RANK_ALL`_</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">_frame_%04d.jpg&#34;</span> -b $BITRATE -r $FRAMERATE_END -vframes <span style="color:#e6db74">`</span>LENGTH_ALL<span style="color:#e6db74">`</span> <span style="color:#e6db74">&#34;03_output/`RANK_ALL`_</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">_output.avi&#34;</span>
-   <span style="color:#66d9ef">done</span>
-   <span style="color:#75715e"># {} are necessary to preserve the following underscore</span>
-   <span style="color:#75715e"># -r framerate needs to be set before the input parameter</span>
-   <span style="color:#75715e"># the framerate of the output is necessary to keep the framerate differences of the scenes</span>
-
-   <span style="color:#66d9ef">else</span>
-     <span style="color:#75715e"># if scene not in cutlist; ask for parameters, copy frames and write to cutlist</span>
-   <span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">&#34;`grep &#34;</span>;<span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span>;<span style="color:#e6db74">&#34; cutlist.csv`&#34;</span> <span style="color:#f92672">]</span>
-   <span style="color:#75715e">################################################## BLOCK 02 #############################################################</span>
-   <span style="color:#75715e"># semicolon prevents the matching of incomplete (parts of) scene names for instance &#34;bdeckunge&#34; instead of &#34;abdeckungen&#34;</span>
-   <span style="color:#75715e"># for condition (-z (string is null) -n (string is not null))</span>
-      <span style="color:#66d9ef">then</span>
-      echo +++++++++++++ <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74"> is not existing ... creation initialized&#34;</span> ++++++++++++
-
-      echo +++++++++++++ <span style="color:#e6db74">&#34;Have you cut the frames of </span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74"> to 4:3 aspect ratio?&#34;</span> ++++++++++++
-      read -p <span style="color:#e6db74">&#34;Of course I did!&#34;</span>
-
-      echo +++++++++ <span style="color:#e6db74">&#34;Define parameters&#34;</span> ++++++++++
-      echo <span style="color:#e6db74">&#34;Please enter its RANK (4 digits):&#34;</span>
-      read INPUT_RANK
-      echo <span style="color:#e6db74">&#34;Please enter the framerate:&#34;</span>
-      read INPUT_FRAMERATE
-      echo <span style="color:#e6db74">&#34;Please enter the length in number of frames:&#34;</span>
-      read INPUT_LENGTH
-
-      echo +++++++++ <span style="color:#e6db74">&#34;Create directory for scene&#34;</span> ++++++++++
-      mkdir -p 02_scenes/$INPUT_SCENE
-      <span style="color:#75715e"># if directory is already existing, no error is given due to the -p</span>
-
-      echo +++++++++ <span style="color:#e6db74">&#34;Copy frames to newly created directory&#34;</span> ++++++++++
-      <span style="color:#75715e"># should be 4:3</span>
-      mv ~/*.jpg 02_scenes/$INPUT_SCENE
-
-      echo +++++++++ <span style="color:#e6db74">&#34;Resize frames&#34;</span> ++++++++++
-      mogrify -resize $HEIGHT 02_scenes/$INPUT_SCENE/frame_*.jpg
-      <span style="color:#75715e"># only frames, to prevent original photos;</span>
-      <span style="color:#75715e"># imagemagick is used for this</span>
-
-      echo +++++++++++++ <span style="color:#e6db74">&#34;Rename by adding the scene&#39;s name and rank&#34;</span> ++++++++++++
-      <span style="color:#75715e"># if the name is not congruent with the entries of the cutlist; rank is necessary for the order of the cat command later on</span>
-      <span style="color:#75715e"># only frames, to prevent original photos</span>
-      <span style="color:#66d9ef">for</span> FILE in 02_scenes/$INPUT_SCENE/frame_*.jpg ;
-      <span style="color:#66d9ef">do</span>
-      NEWFILE<span style="color:#f92672">=</span><span style="color:#e6db74">`</span>echo $FILE | sed <span style="color:#e6db74">&#34;s/frame/</span>$INPUT_RANK<span style="color:#e6db74">\_</span>$INPUT_SCENE<span style="color:#e6db74">\_frame/g&#34;</span><span style="color:#e6db74">`</span> ;
-      mv <span style="color:#e6db74">&#34;</span>$FILE<span style="color:#e6db74">&#34;</span> $NEWFILE ;
-      <span style="color:#66d9ef">done</span>
-
-      echo +++++++++++++ <span style="color:#e6db74">&#34;Render </span>$SCENE<span style="color:#e6db74">&#34;</span> ++++++++++++
-      ffmpeg -loop_input -f image2 -r $INPUT_FRAMERATE -i <span style="color:#e6db74">&#34;02_scenes/</span>$INPUT_SCENE<span style="color:#e6db74">/</span><span style="color:#e6db74">${</span>INPUT_RANK<span style="color:#e6db74">}</span><span style="color:#e6db74">_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_frame_%04d.jpg&#34;</span> -b $BITRATE -r $FRAMERATE_END -vframes $INPUT_LENGTH <span style="color:#e6db74">&#34;03_output/</span><span style="color:#e6db74">${</span>INPUT_RANK<span style="color:#e6db74">}</span><span style="color:#e6db74">_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_output.avi&#34;</span>
-      <span style="color:#75715e"># {} are necessary to preserve the following underscore</span>
-      <span style="color:#75715e"># no overwrite (-y) needed</span>
-      <span style="color:#75715e"># the framerate of the output is necessary to keep the framerate differences of the scenes</span>
-
-      echo +++++++++++++ <span style="color:#e6db74">&#34;Write variables to cutlist.csv&#34;</span> ++++++++++++
-      echo <span style="color:#e6db74">&#34;</span>$INPUT_RANK<span style="color:#e6db74">;</span>$INPUT_SCENE<span style="color:#e6db74">;</span>$INPUT_FRAMERATE<span style="color:#e6db74">;</span>$INPUT_LENGTH<span style="color:#e6db74">;&#34;</span> &gt;&gt; cutlist.csv
-      read -p <span style="color:#e6db74">&#34;Done!&#34;</span>
-      <span style="color:#75715e"># as a last step after everything was successful to prevent errors in the cutlist</span>
-
-    <span style="color:#75715e"># if scene already in the cutlist</span>
-    <span style="color:#66d9ef">else</span>
-    <span style="color:#75715e">################################################## BLOCK 03 #############################################################</span>
-    echo +++++++++++++ <span style="color:#e6db74">&#34;</span>$INPUT_SCENE<span style="color:#e6db74"> is already existing&#34;</span> ++++++++++++
-    echo +++++++++++++ <span style="color:#e6db74">&#34;Read defined parameters of </span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> ++++++++++++
-    <span style="color:#75715e"># Define Functions RANK, FRAMERATE, LENGTH by reading cutlist.csv</span>
-    RANK <span style="color:#f92672">()</span>
-    <span style="color:#f92672">{</span>
-    grep <span style="color:#e6db74">&#34;</span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">1</span> -
-    <span style="color:#f92672">}</span>
-    FRAMERATE <span style="color:#f92672">()</span>
-    <span style="color:#f92672">{</span>
-    grep <span style="color:#e6db74">&#34;</span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">3</span> -
-    <span style="color:#f92672">}</span>
-    LENGTH <span style="color:#f92672">()</span>
-    <span style="color:#f92672">{</span>
-    grep <span style="color:#e6db74">&#34;</span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">4</span> -
-    <span style="color:#f92672">}</span>
-    echo <span style="color:#e6db74">&#34;scene = </span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span>
-    echo <span style="color:#e6db74">&#34;rank = `RANK`&#34;</span>
-    echo <span style="color:#e6db74">&#34;framerate = `FRAMERATE`&#34;</span>
-    echo <span style="color:#e6db74">&#34;length = `LENGTH`&#34;</span>
-    echo +++++++++++++ <span style="color:#e6db74">&#34; The rank of </span>$INPUT_SCENE<span style="color:#e6db74"> changed ... renaming &#34;</span> ++++++++++++
-
-    <span style="color:#75715e"># warning about too many arguments, because finding lots of files?? but it works</span>
-    blod <span style="color:#f92672">()</span>
-    <span style="color:#f92672">{</span>
-    find ./02_scenes/$INPUT_SCENE -name <span style="color:#e6db74">`</span>RANK<span style="color:#e6db74">`</span>_<span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span>*
-    <span style="color:#f92672">}</span>
-    <span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">`</span>blod<span style="color:#e6db74">`</span> <span style="color:#f92672">]</span>
-    <span style="color:#75715e"># if the rank is not matching the one of the cutlist, it needs to be changed</span>
-     <span style="color:#66d9ef">then</span>
-     echo +++++++++++++ <span style="color:#e6db74">&#34;Rename </span>$INPUT_SCENE<span style="color:#e6db74"> by updating its name and rank&#34;</span> ++++++++++++
-     <span style="color:#66d9ef">for</span> FILE in 02_scenes/$INPUT_SCENE/*frame*.jpg ;
-        <span style="color:#66d9ef">do</span>
-        NEWFILE <span style="color:#f92672">()</span>
-        <span style="color:#f92672">{</span>
-        echo $FILE | sed <span style="color:#e6db74">&#34;s/</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">\/.*_.*_frame/</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">\/`RANK`\_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">\_frame/g&#34;</span>
-        <span style="color:#f92672">}</span>
-        mv <span style="color:#e6db74">&#34;</span>$FILE<span style="color:#e6db74">&#34;</span> <span style="color:#e6db74">`</span>NEWFILE<span style="color:#e6db74">`</span> ;
-        <span style="color:#66d9ef">done</span>
-    <span style="color:#66d9ef">fi</span>
-    echo +++++++++++++ <span style="color:#e6db74">&#34;Render </span>$SCENE<span style="color:#e6db74">&#34;</span> ++++++++++++
-    ffmpeg -loop_input -f image2 -r <span style="color:#e6db74">`</span>FRAMERATE<span style="color:#e6db74">`</span> -i <span style="color:#e6db74">&#34;02_scenes/</span>$INPUT_SCENE<span style="color:#e6db74">/`RANK`_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_frame_%04d.jpg&#34;</span> -b $BITRATE -r $FRAMERATE_END -vframes <span style="color:#e6db74">`</span>LENGTH<span style="color:#e6db74">`</span> <span style="color:#e6db74">&#34;03_output/`RANK`_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_output.avi&#34;</span>
-    <span style="color:#75715e"># {} are necessary to preserve the following underscore</span>
-    <span style="color:#75715e"># the framerate of the output is necessary to keep the framerate differences of the scenes</span>
-    <span style="color:#66d9ef">fi</span>
-<span style="color:#66d9ef">fi</span>
-
-<span style="color:#75715e">################################################## FINAL BLOCK #############################################################</span>
-
-echo +++++++++ <span style="color:#e6db74">&#34;Remove expired output videos&#34;</span> ++++++++++
-<span style="color:#75715e"># remove expired output videos, otherwise cat adds them to the final file</span>
-<span style="color:#66d9ef">for</span> I in 03_output/*_output.avi
-    <span style="color:#66d9ef">do</span>
-    temp<span style="color:#f92672">=</span><span style="color:#e6db74">`</span>echo <span style="color:#e6db74">&#34;</span>$I<span style="color:#e6db74">&#34;</span> | cut -c 11- | cut -d <span style="color:#e6db74">&#39;_&#39;</span> -f 1-2 | sed  <span style="color:#e6db74">&#34;s/_/;/g&#34;</span><span style="color:#e6db74">`</span>
-    <span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">`</span>grep $temp cutlist.csv<span style="color:#e6db74">`</span> <span style="color:#f92672">]</span>
-        <span style="color:#66d9ef">then</span>
-        echo delete $I ???
-        rm -i $I
-    <span style="color:#66d9ef">fi</span>
-<span style="color:#66d9ef">done</span>
-<span style="color:#75715e"># the ls gives the path, cut removes the same path on the 11th digit and passes on the rest, cut separates the output at the &#39;_&#39; sign (recognizes fields) and provides the first two fields, sed is substitutes the &#39;_&#39; with a semicolon as used in the cutlist, and finally this string is looked up in the cutlist</span>
-
-echo +++++++++ <span style="color:#e6db74">&#34;Merge all videos&#34;</span> ++++++++++
-cat 03_output/*output.avi &gt; 03_output/output_video.avi
-<span style="color:#75715e"># the rank must be correct for the sequence of the scenes</span>
-
-echo +++++++++++ <span style="color:#e6db74">&#34;Add sound&#34;</span> +++++++++++
-ffmpeg -y -shortest -i 03_output/output_video.avi -vcodec copy  -b $BITRATE -r $FRAMERATE_END -i 03_output/output_sound.mp3 -acodec copy <span style="color:#e6db74">&#34;invent_a_fire.avi&#34;</span>
-<span style="color:#75715e"># should be a formality, the shortest input ends the the file</span>
-exit
-</code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#75715e"># ! /bin/bash</span>
-
-<span style="color:#75715e"># variabels</span>
-
-BITRATE<span style="color:#f92672">=</span>600k HEIGHT<span style="color:#f92672">=</span>x1080
-
-<span style="color:#75715e"># sets the absolute height</span>
-
-FRAMERATE_END<span style="color:#f92672">=</span><span style="color:#ae81ff">24</span> echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ echo <span style="color:#e6db74">&#34;Please enter the SCENE&#39;s name or render all videos at once by typing all:&#34;</span> echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ read INPUT_SCENE
-
-<span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> $INPUT_SCENE <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;all&#34;</span> <span style="color:#f92672">]</span>
-
-<span style="color:#75715e">## ############################################ BLOCK 01</span>
-
-<span style="color:#66d9ef">then</span> echo +++++++++++++ <span style="color:#e6db74">&#34;All scenes are processed&#34;</span> ++++++++++++ echo +++++++++++++ <span style="color:#e6db74">&#34;Reading parameters&#34;</span> ++++++++++++ <span style="color:#66d9ef">for</span> ALL_SCENES in <span style="color:#e6db74">`</span>csvtool drop <span style="color:#ae81ff">1</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">2</span> -<span style="color:#e6db74">`</span>; <span style="color:#66d9ef">do</span> RANK_ALL <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> grep <span style="color:#e6db74">&#34;</span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">1</span> - <span style="color:#f92672">}</span> FRAMERATE_ALL <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> grep <span style="color:#e6db74">&#34;</span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">3</span> - <span style="color:#f92672">}</span> LENGTH_ALL <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> grep <span style="color:#e6db74">&#34;</span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">4</span> - <span style="color:#f92672">}</span> echo <span style="color:#e6db74">&#34;scene = </span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> echo <span style="color:#e6db74">&#34;rank = `RANK_ALL`&#34;</span> echo <span style="color:#e6db74">&#34;framerate = `FRAMERATE_ALL`&#34;</span> echo <span style="color:#e6db74">&#34;length = `LENGTH_ALL`&#34;</span>
-
-<span style="color:#75715e"># warning about too many arguments, because finding lots of files?? but it works</span>
-
-blod <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> find ./02_scenes/$ALL_SCENES -name <span style="color:#e6db74">`</span>RANK_ALL<span style="color:#e6db74">`</span>_<span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span>* <span style="color:#f92672">}</span> <span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">`</span>blod<span style="color:#e6db74">`</span> <span style="color:#f92672">]</span>
-
-<span style="color:#75715e"># if the rank is not the same with the one in the cutlist it has to be updated</span>
-
-<span style="color:#66d9ef">then</span> echo +++++++++++++ <span style="color:#e6db74">&#34;Rename </span>$ALL_SCENES<span style="color:#e6db74"> by updating its name and rank&#34;</span> ++++++++++++ <span style="color:#66d9ef">for</span> FILE in 02_scenes/$ALL_SCENES/_frame_.jpg ; <span style="color:#66d9ef">do</span> NEWFILE <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> echo $FILE | sed <span style="color:#e6db74">&#34;s/</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">\/.*_.*_frame/</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">\/`RANK_ALL`\_</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">_frame/g&#34;</span> <span style="color:#f92672">}</span> mv <span style="color:#e6db74">&#34;</span>$FILE<span style="color:#e6db74">&#34;</span> <span style="color:#e6db74">`</span>NEWFILE<span style="color:#e6db74">`</span> ; <span style="color:#66d9ef">done</span>
-
-
-<span style="color:#75715e"># paths need to be preserved! wildcards with .* - no idea why!</span>
-
-<span style="color:#75715e"># frame __instead of more general_ .jpgs because there are also the original photos in the directory</span>
-
-<span style="color:#66d9ef">fi</span>
-
-echo +++++++++++++ <span style="color:#e6db74">&#34;Render scene </span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> ++++++++++++ ffmpeg -y -loop_input -f image2 -r <span style="color:#e6db74">`</span>FRAMERATE_ALL<span style="color:#e6db74">`</span> -i <span style="color:#e6db74">&#34;02_scenes/</span>$ALL_SCENES<span style="color:#e6db74">/`RANK_ALL`_</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">_frame_%04d.jpg&#34;</span> -b $BITRATE -r $FRAMERATE_END -vframes <span style="color:#e6db74">`</span>LENGTH_ALL<span style="color:#e6db74">`</span> <span style="color:#e6db74">&#34;03_output/`RANK_ALL`_</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">_output.avi&#34;</span> <span style="color:#66d9ef">done</span>
-
-<span style="color:#75715e"># {} are necessary to preserve the following underscore</span>
-
-<span style="color:#75715e"># -r framerate needs to be set before the input parameter</span>
-
-<span style="color:#75715e"># the framerate of the output is necessary to keep the framerate differences of the scenes</span>
-
-<span style="color:#66d9ef">else</span>
-
-<span style="color:#75715e"># if scene not in cutlist; ask for parameters, copy frames and write to cutlist</span>
-
-<span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">&#34;`grep &#34;</span>;<span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span>;<span style="color:#e6db74">&#34; cutlist.csv`&#34;</span> <span style="color:#f92672">]</span>
-
-<span style="color:#75715e">## ############################################ BLOCK 02</span>
-
-<span style="color:#75715e"># semicolon prevents the matching of incomplete (parts of) scene names for instance &#34;bdeckunge&#34; instead of &#34;abdeckungen&#34;</span>
-
-<span style="color:#75715e"># for condition (-z (string is null) -n (string is not null))</span>
-
-<span style="color:#66d9ef">then</span> echo +++++++++++++ <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74"> is not existing ... creation initialized&#34;</span> ++++++++++++
-
-echo +++++++++++++ <span style="color:#e6db74">&#34;Have you cut the frames of </span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74"> to 4:3 aspect ratio?&#34;</span> ++++++++++++ read -p <span style="color:#e6db74">&#34;Of course I did!&#34;</span>
-
-echo +++++++++ <span style="color:#e6db74">&#34;Define parameters&#34;</span> ++++++++++ echo <span style="color:#e6db74">&#34;Please enter its RANK (4 digits):&#34;</span> read INPUT_RANK echo <span style="color:#e6db74">&#34;Please enter the framerate:&#34;</span> read INPUT_FRAMERATE echo <span style="color:#e6db74">&#34;Please enter the length in number of frames:&#34;</span> read INPUT_LENGTH
-
-echo +++++++++ <span style="color:#e6db74">&#34;Create directory for scene&#34;</span> ++++++++++ mkdir -p 02_scenes/$INPUT_SCENE
-
-
-<span style="color:#75715e"># if directory is already existing, no error is given due to the -p</span>
-
-echo +++++++++ <span style="color:#e6db74">&#34;Copy frames to newly created directory&#34;</span> ++++++++++
-
-<span style="color:#75715e"># should be 4:3</span>
-mv ~/*.jpg 02_scenes/$INPUT_SCENE
-
-echo +++++++++ <span style="color:#e6db74">&#34;Resize frames&#34;</span> ++++++++++ mogrify -resize $HEIGHT 02_scenes/$INPUT_SCENE/frame_*.jpg
-
-
-<span style="color:#75715e"># only frames, to prevent original photos;</span>
-
-<span style="color:#75715e"># imagemagick is used for this</span>
-
-echo +++++++++++++ <span style="color:#e6db74">&#34;Rename by adding the scene&#39;s name and rank&#34;</span> ++++++++++++
-
-<span style="color:#75715e"># if the name is not congruent with the entries of the cutlist; rank is necessary for the order of the cat command later on</span>
-
-<span style="color:#75715e"># only frames, to prevent original photos</span>
-
-<span style="color:#66d9ef">for</span> FILE in 02_scenes/$INPUT_SCENE/frame_*.jpg ; <span style="color:#66d9ef">do</span> NEWFILE<span style="color:#f92672">=</span><span style="color:#e6db74">`</span>echo $FILE | sed <span style="color:#e6db74">&#34;s/frame/</span>$INPUT_RANK<span style="color:#e6db74">\_</span>$INPUT_SCENE<span style="color:#e6db74">\_frame/g&#34;</span><span style="color:#e6db74">`</span> ; mv <span style="color:#e6db74">&#34;</span>$FILE<span style="color:#e6db74">&#34;</span> $NEWFILE ; <span style="color:#66d9ef">done</span>
-
-echo +++++++++++++ <span style="color:#e6db74">&#34;Render </span>$SCENE<span style="color:#e6db74">&#34;</span> ++++++++++++ ffmpeg -loop_input -f image2 -r $INPUT_FRAMERATE -i <span style="color:#e6db74">&#34;02_scenes/</span>$INPUT_SCENE<span style="color:#e6db74">/</span><span style="color:#e6db74">${</span>INPUT_RANK<span style="color:#e6db74">}</span><span style="color:#e6db74">_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_frame_%04d.jpg&#34;</span> -b $BITRATE -r $FRAMERATE_END -vframes $INPUT_LENGTH <span style="color:#e6db74">&#34;03_output/</span><span style="color:#e6db74">${</span>INPUT_RANK<span style="color:#e6db74">}</span><span style="color:#e6db74">_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_output.avi&#34;</span>
-
-<span style="color:#75715e"># {} are necessary to preserve the following underscore</span>
-
-<span style="color:#75715e"># no overwrite (-y) needed</span>
-
-<span style="color:#75715e"># the framerate of the output is necessary to keep the framerate differences of the scenes</span>
-
-echo +++++++++++++ <span style="color:#e6db74">&#34;Write variables to cutlist.csv&#34;</span> ++++++++++++ echo <span style="color:#e6db74">&#34;</span>$INPUT_RANK<span style="color:#e6db74">;</span>$INPUT_SCENE<span style="color:#e6db74">;</span>$INPUT_FRAMERATE<span style="color:#e6db74">;</span>$INPUT_LENGTH<span style="color:#e6db74">;&#34;</span> &gt;&gt; cutlist.csv read -p <span style="color:#e6db74">&#34;Done!&#34;</span>
-
-<span style="color:#75715e"># as a last step after everything was successful to prevent errors in the cutlist</span>
-
-<span style="color:#75715e"># if scene already in the cutlist</span>
-
-<span style="color:#66d9ef">else</span>
-
-<span style="color:#75715e">## ############################################ BLOCK 03</span>
-
-echo +++++++++++++ <span style="color:#e6db74">&#34;</span>$INPUT_SCENE<span style="color:#e6db74"> is already existing&#34;</span> ++++++++++++ echo +++++++++++++ <span style="color:#e6db74">&#34;Read defined parameters of </span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> ++++++++++++
-
-
-<span style="color:#75715e"># Define Functions RANK, FRAMERATE, LENGTH by reading cutlist.csv</span>
-
-RANK <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> grep <span style="color:#e6db74">&#34;</span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">1</span> - <span style="color:#f92672">}</span> FRAMERATE <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> grep <span style="color:#e6db74">&#34;</span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">3</span> - <span style="color:#f92672">}</span> LENGTH <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> grep <span style="color:#e6db74">&#34;</span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">4</span> - <span style="color:#f92672">}</span> echo <span style="color:#e6db74">&#34;scene = </span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> echo <span style="color:#e6db74">&#34;rank = `RANK`&#34;</span> echo <span style="color:#e6db74">&#34;framerate = `FRAMERATE`&#34;</span> echo <span style="color:#e6db74">&#34;length = `LENGTH`&#34;</span> echo +++++++++++++ <span style="color:#e6db74">&#34; The rank of </span>$INPUT_SCENE<span style="color:#e6db74"> changed ... renaming &#34;</span> ++++++++++++
-
-
-
-<span style="color:#75715e"># warning about too many arguments, because finding lots of files?? but it works</span>
-
-
-blod <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> find ./02_scenes/$INPUT_SCENE -name <span style="color:#e6db74">`</span>RANK<span style="color:#e6db74">`</span>_<span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span>* <span style="color:#f92672">}</span> <span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">`</span>blod<span style="color:#e6db74">`</span> <span style="color:#f92672">]</span>
-
-
-
-<span style="color:#75715e"># if the rank is not matching the one of the cutlist, it needs to be changed</span>
-
-
-<span style="color:#66d9ef">then</span> echo +++++++++++++ <span style="color:#e6db74">&#34;Rename </span>$INPUT_SCENE<span style="color:#e6db74"> by updating its name and rank&#34;</span> ++++++++++++ <span style="color:#66d9ef">for</span> FILE in 02_scenes/$INPUT_SCENE/_frame_.jpg ; <span style="color:#66d9ef">do</span> NEWFILE <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> echo $FILE | sed <span style="color:#e6db74">&#34;s/</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">\/.*_.*_frame/</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">\/`RANK`\_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_frame/g&#34;</span> <span style="color:#f92672">}</span> mv <span style="color:#e6db74">&#34;</span>$FILE<span style="color:#e6db74">&#34;</span> <span style="color:#e6db74">`</span>NEWFILE<span style="color:#e6db74">`</span> ; <span style="color:#66d9ef">done</span> <span style="color:#66d9ef">fi</span> echo +++++++++++++ <span style="color:#e6db74">&#34;Render </span>$SCENE<span style="color:#e6db74">&#34;</span> ++++++++++++ ffmpeg -loop_input -f image2 -r <span style="color:#e6db74">`</span>FRAMERATE<span style="color:#e6db74">`</span> -i <span style="color:#e6db74">&#34;02_scenes/</span>$INPUT_SCENE<span style="color:#e6db74">/`RANK`_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_frame_%04d.jpg&#34;</span> -b $BITRATE -r $FRAMERATE_END -vframes <span style="color:#e6db74">`</span>LENGTH<span style="color:#e6db74">`</span> <span style="color:#e6db74">&#34;03_output/`RANK`_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_output.avi&#34;</span>
-
-
-
-<span style="color:#75715e"># {} are necessary to preserve the following underscore</span>
-
-<span style="color:#75715e"># the framerate of the output is necessary to keep the framerate differences of the scenes</span>
-
-
-<span style="color:#66d9ef">fi</span>
-
-
-
-<span style="color:#66d9ef">fi</span>
-
-<span style="color:#75715e">## ############################################ FINAL BLOCK</span>
-
-echo +++++++++ <span style="color:#e6db74">&#34;Remove expired output videos&#34;</span> ++++++++++
-
-<span style="color:#75715e"># remove expired output videos, otherwise cat adds them to the final file</span>
-
-<span style="color:#66d9ef">for</span> I in 03_output/*_output.avi <span style="color:#66d9ef">do</span> temp<span style="color:#f92672">=</span><span style="color:#e6db74">`</span>echo <span style="color:#e6db74">&#34;</span>$I<span style="color:#e6db74">&#34;</span> | cut -c 11- | cut -d <span style="color:#e6db74">&#39;_&#39;</span> -f 1-2 | sed <span style="color:#e6db74">&#34;s/_/;/g&#34;</span><span style="color:#e6db74">`</span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z<span style="color:#e6db74">`</span>grep $temp cutlist.csv<span style="color:#e6db74">`</span> <span style="color:#f92672">]</span> <span style="color:#66d9ef">then</span> echo delete $I ??? rm -i $I <span style="color:#66d9ef">fi</span> <span style="color:#66d9ef">done</span>
-
-<span style="color:#75715e"># the ls gives the path, cut removes the same path on the 11th digit and passes on the rest, cut separates the output at the &#39;_&#39; sign (recognizes fields) and provides the first two fields, sed is substitutes the &#39;_&#39; with a semicolon as used in the cutlist, and finally this string is looked up in the cutlist</span>
-
-echo +++++++++ <span style="color:#e6db74">&#34;Merge all videos&#34;</span> ++++++++++ cat 03_output/*output.avi &gt; 03_output/output_video.avi
-
-<span style="color:#75715e"># the rank must be correct for the sequence of the scenes</span>
-
-echo +++++++++++ <span style="color:#e6db74">&#34;Add sound&#34;</span> +++++++++++ ffmpeg -y -shortest -i 03_output/output_video.avi -vcodec copy -b $BITRATE -r $FRAMERATE_END -i 03_output/output_sound.mp3 -acodec copy <span style="color:#e6db74">&#34;invent_a_fire.avi&#34;</span>
-
-<span style="color:#75715e"># should be a formality, the shortest input ends the the file</span>
-
-exit
-</code></pre></div>]]></content>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e">#! /bin/bash
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># variabels</span>
+</span></span><span style="display:flex;"><span>BITRATE<span style="color:#f92672">=</span>600k
+</span></span><span style="display:flex;"><span>HEIGHT<span style="color:#f92672">=</span>x1080
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># sets the absolute height</span>
+</span></span><span style="display:flex;"><span>FRAMERATE_END<span style="color:#f92672">=</span><span style="color:#ae81ff">24</span>
+</span></span><span style="display:flex;"><span>echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;Please enter the SCENE&#39;s name or render all videos at once by typing all:&#34;</span>
+</span></span><span style="display:flex;"><span>echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+</span></span><span style="display:flex;"><span>read INPUT_SCENE
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> $INPUT_SCENE <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;all&#34;</span> <span style="color:#f92672">]</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">################################################## BLOCK 01 #############################################################</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>   echo +++++++++++++ <span style="color:#e6db74">&#34;All scenes are processed&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>   echo +++++++++++++ <span style="color:#e6db74">&#34;Reading parameters&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>   <span style="color:#66d9ef">for</span> ALL_SCENES in <span style="color:#e6db74">`</span>csvtool drop <span style="color:#ae81ff">1</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">2</span> -<span style="color:#e6db74">`</span>;
+</span></span><span style="display:flex;"><span>   <span style="color:#66d9ef">do</span>
+</span></span><span style="display:flex;"><span>   RANK_ALL <span style="color:#f92672">()</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>   grep <span style="color:#e6db74">&#34;</span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">1</span> -
+</span></span><span style="display:flex;"><span>   <span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>   FRAMERATE_ALL <span style="color:#f92672">()</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>   grep <span style="color:#e6db74">&#34;</span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">3</span> -
+</span></span><span style="display:flex;"><span>   <span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>   LENGTH_ALL <span style="color:#f92672">()</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>   grep <span style="color:#e6db74">&#34;</span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">4</span> -
+</span></span><span style="display:flex;"><span>   <span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>   echo <span style="color:#e6db74">&#34;scene = </span>$ALL_SCENES<span style="color:#e6db74">&#34;</span>
+</span></span><span style="display:flex;"><span>   echo <span style="color:#e6db74">&#34;rank = `RANK_ALL`&#34;</span>
+</span></span><span style="display:flex;"><span>   echo <span style="color:#e6db74">&#34;framerate = `FRAMERATE_ALL`&#34;</span>
+</span></span><span style="display:flex;"><span>   echo <span style="color:#e6db74">&#34;length = `LENGTH_ALL`&#34;</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#75715e"># warning about too many arguments, because finding lots of files?? but it works</span>
+</span></span><span style="display:flex;"><span>   blod <span style="color:#f92672">()</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>   find ./02_scenes/$ALL_SCENES -name <span style="color:#e6db74">`</span>RANK_ALL<span style="color:#e6db74">`</span>_<span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span>*
+</span></span><span style="display:flex;"><span>   <span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">`</span>blod<span style="color:#e6db74">`</span> <span style="color:#f92672">]</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#75715e"># if the rank is not the same with the one in the cutlist it has to be updated</span>
+</span></span><span style="display:flex;"><span>     <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>     echo +++++++++++++ <span style="color:#e6db74">&#34;Rename </span>$ALL_SCENES<span style="color:#e6db74"> by updating its name and rank&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>     <span style="color:#66d9ef">for</span> FILE in 02_scenes/$ALL_SCENES/*frame*.jpg ;
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">do</span>
+</span></span><span style="display:flex;"><span>        NEWFILE <span style="color:#f92672">()</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>        echo $FILE | sed <span style="color:#e6db74">&#34;s/</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">\/.*_.*_frame/</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">\/`RANK_ALL`\_</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">\_frame/g&#34;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>        mv <span style="color:#e6db74">&#34;</span>$FILE<span style="color:#e6db74">&#34;</span> <span style="color:#e6db74">`</span>NEWFILE<span style="color:#e6db74">`</span> ;
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">done</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">#paths need to be preserved! wildcards with .* - no idea why!</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">#frame_* instead of more general *.jpgs because there are also the original photos in the directory</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>   echo +++++++++++++ <span style="color:#e6db74">&#34;Render scene </span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>   ffmpeg -y -loop_input -f image2 -r <span style="color:#e6db74">`</span>FRAMERATE_ALL<span style="color:#e6db74">`</span> -i <span style="color:#e6db74">&#34;02_scenes/</span>$ALL_SCENES<span style="color:#e6db74">/`RANK_ALL`_</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">_frame_%04d.jpg&#34;</span> -b $BITRATE -r $FRAMERATE_END -vframes <span style="color:#e6db74">`</span>LENGTH_ALL<span style="color:#e6db74">`</span> <span style="color:#e6db74">&#34;03_output/`RANK_ALL`_</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">_output.avi&#34;</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#66d9ef">done</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#75715e"># {} are necessary to preserve the following underscore</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#75715e"># -r framerate needs to be set before the input parameter</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#75715e"># the framerate of the output is necessary to keep the framerate differences of the scenes</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>   <span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>     <span style="color:#75715e"># if scene not in cutlist; ask for parameters, copy frames and write to cutlist</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">&#34;`grep &#34;</span>;<span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span>;<span style="color:#e6db74">&#34; cutlist.csv`&#34;</span> <span style="color:#f92672">]</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#75715e">################################################## BLOCK 02 #############################################################</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#75715e"># semicolon prevents the matching of incomplete (parts of) scene names for instance &#34;bdeckunge&#34; instead of &#34;abdeckungen&#34;</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#75715e"># for condition (-z (string is null) -n (string is not null))</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>      echo +++++++++++++ <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74"> is not existing ... creation initialized&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      echo +++++++++++++ <span style="color:#e6db74">&#34;Have you cut the frames of </span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74"> to 4:3 aspect ratio?&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>      read -p <span style="color:#e6db74">&#34;Of course I did!&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      echo +++++++++ <span style="color:#e6db74">&#34;Define parameters&#34;</span> ++++++++++
+</span></span><span style="display:flex;"><span>      echo <span style="color:#e6db74">&#34;Please enter its RANK (4 digits):&#34;</span>
+</span></span><span style="display:flex;"><span>      read INPUT_RANK
+</span></span><span style="display:flex;"><span>      echo <span style="color:#e6db74">&#34;Please enter the framerate:&#34;</span>
+</span></span><span style="display:flex;"><span>      read INPUT_FRAMERATE
+</span></span><span style="display:flex;"><span>      echo <span style="color:#e6db74">&#34;Please enter the length in number of frames:&#34;</span>
+</span></span><span style="display:flex;"><span>      read INPUT_LENGTH
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      echo +++++++++ <span style="color:#e6db74">&#34;Create directory for scene&#34;</span> ++++++++++
+</span></span><span style="display:flex;"><span>      mkdir -p 02_scenes/$INPUT_SCENE
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e"># if directory is already existing, no error is given due to the -p</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      echo +++++++++ <span style="color:#e6db74">&#34;Copy frames to newly created directory&#34;</span> ++++++++++
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e"># should be 4:3</span>
+</span></span><span style="display:flex;"><span>      mv ~/*.jpg 02_scenes/$INPUT_SCENE
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      echo +++++++++ <span style="color:#e6db74">&#34;Resize frames&#34;</span> ++++++++++
+</span></span><span style="display:flex;"><span>      mogrify -resize $HEIGHT 02_scenes/$INPUT_SCENE/frame_*.jpg
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e"># only frames, to prevent original photos;</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e"># imagemagick is used for this</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      echo +++++++++++++ <span style="color:#e6db74">&#34;Rename by adding the scene&#39;s name and rank&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e"># if the name is not congruent with the entries of the cutlist; rank is necessary for the order of the cat command later on</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e"># only frames, to prevent original photos</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">for</span> FILE in 02_scenes/$INPUT_SCENE/frame_*.jpg ;
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">do</span>
+</span></span><span style="display:flex;"><span>      NEWFILE<span style="color:#f92672">=</span><span style="color:#e6db74">`</span>echo $FILE | sed <span style="color:#e6db74">&#34;s/frame/</span>$INPUT_RANK<span style="color:#e6db74">\_</span>$INPUT_SCENE<span style="color:#e6db74">\_frame/g&#34;</span><span style="color:#e6db74">`</span> ;
+</span></span><span style="display:flex;"><span>      mv <span style="color:#e6db74">&#34;</span>$FILE<span style="color:#e6db74">&#34;</span> $NEWFILE ;
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">done</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      echo +++++++++++++ <span style="color:#e6db74">&#34;Render </span>$SCENE<span style="color:#e6db74">&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>      ffmpeg -loop_input -f image2 -r $INPUT_FRAMERATE -i <span style="color:#e6db74">&#34;02_scenes/</span>$INPUT_SCENE<span style="color:#e6db74">/</span><span style="color:#e6db74">${</span>INPUT_RANK<span style="color:#e6db74">}</span><span style="color:#e6db74">_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_frame_%04d.jpg&#34;</span> -b $BITRATE -r $FRAMERATE_END -vframes $INPUT_LENGTH <span style="color:#e6db74">&#34;03_output/</span><span style="color:#e6db74">${</span>INPUT_RANK<span style="color:#e6db74">}</span><span style="color:#e6db74">_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_output.avi&#34;</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e"># {} are necessary to preserve the following underscore</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e"># no overwrite (-y) needed</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e"># the framerate of the output is necessary to keep the framerate differences of the scenes</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      echo +++++++++++++ <span style="color:#e6db74">&#34;Write variables to cutlist.csv&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>      echo <span style="color:#e6db74">&#34;</span>$INPUT_RANK<span style="color:#e6db74">;</span>$INPUT_SCENE<span style="color:#e6db74">;</span>$INPUT_FRAMERATE<span style="color:#e6db74">;</span>$INPUT_LENGTH<span style="color:#e6db74">;&#34;</span> &gt;&gt; cutlist.csv
+</span></span><span style="display:flex;"><span>      read -p <span style="color:#e6db74">&#34;Done!&#34;</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e"># as a last step after everything was successful to prevent errors in the cutlist</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># if scene already in the cutlist</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">################################################## BLOCK 03 #############################################################</span>
+</span></span><span style="display:flex;"><span>    echo +++++++++++++ <span style="color:#e6db74">&#34;</span>$INPUT_SCENE<span style="color:#e6db74"> is already existing&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>    echo +++++++++++++ <span style="color:#e6db74">&#34;Read defined parameters of </span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># Define Functions RANK, FRAMERATE, LENGTH by reading cutlist.csv</span>
+</span></span><span style="display:flex;"><span>    RANK <span style="color:#f92672">()</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>    grep <span style="color:#e6db74">&#34;</span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">1</span> -
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>    FRAMERATE <span style="color:#f92672">()</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>    grep <span style="color:#e6db74">&#34;</span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">3</span> -
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>    LENGTH <span style="color:#f92672">()</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>    grep <span style="color:#e6db74">&#34;</span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">4</span> -
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;scene = </span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;rank = `RANK`&#34;</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;framerate = `FRAMERATE`&#34;</span>
+</span></span><span style="display:flex;"><span>    echo <span style="color:#e6db74">&#34;length = `LENGTH`&#34;</span>
+</span></span><span style="display:flex;"><span>    echo +++++++++++++ <span style="color:#e6db74">&#34; The rank of </span>$INPUT_SCENE<span style="color:#e6db74"> changed ... renaming &#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># warning about too many arguments, because finding lots of files?? but it works</span>
+</span></span><span style="display:flex;"><span>    blod <span style="color:#f92672">()</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>    find ./02_scenes/$INPUT_SCENE -name <span style="color:#e6db74">`</span>RANK<span style="color:#e6db74">`</span>_<span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span>*
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">`</span>blod<span style="color:#e6db74">`</span> <span style="color:#f92672">]</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># if the rank is not matching the one of the cutlist, it needs to be changed</span>
+</span></span><span style="display:flex;"><span>     <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>     echo +++++++++++++ <span style="color:#e6db74">&#34;Rename </span>$INPUT_SCENE<span style="color:#e6db74"> by updating its name and rank&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>     <span style="color:#66d9ef">for</span> FILE in 02_scenes/$INPUT_SCENE/*frame*.jpg ;
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">do</span>
+</span></span><span style="display:flex;"><span>        NEWFILE <span style="color:#f92672">()</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">{</span>
+</span></span><span style="display:flex;"><span>        echo $FILE | sed <span style="color:#e6db74">&#34;s/</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">\/.*_.*_frame/</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">\/`RANK`\_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">\_frame/g&#34;</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>        mv <span style="color:#e6db74">&#34;</span>$FILE<span style="color:#e6db74">&#34;</span> <span style="color:#e6db74">`</span>NEWFILE<span style="color:#e6db74">`</span> ;
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">done</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>    echo +++++++++++++ <span style="color:#e6db74">&#34;Render </span>$SCENE<span style="color:#e6db74">&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>    ffmpeg -loop_input -f image2 -r <span style="color:#e6db74">`</span>FRAMERATE<span style="color:#e6db74">`</span> -i <span style="color:#e6db74">&#34;02_scenes/</span>$INPUT_SCENE<span style="color:#e6db74">/`RANK`_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_frame_%04d.jpg&#34;</span> -b $BITRATE -r $FRAMERATE_END -vframes <span style="color:#e6db74">`</span>LENGTH<span style="color:#e6db74">`</span> <span style="color:#e6db74">&#34;03_output/`RANK`_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_output.avi&#34;</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># {} are necessary to preserve the following underscore</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e"># the framerate of the output is necessary to keep the framerate differences of the scenes</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">################################################## FINAL BLOCK #############################################################</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++ <span style="color:#e6db74">&#34;Remove expired output videos&#34;</span> ++++++++++
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># remove expired output videos, otherwise cat adds them to the final file</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> I in 03_output/*_output.avi
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">do</span>
+</span></span><span style="display:flex;"><span>    temp<span style="color:#f92672">=</span><span style="color:#e6db74">`</span>echo <span style="color:#e6db74">&#34;</span>$I<span style="color:#e6db74">&#34;</span> | cut -c 11- | cut -d <span style="color:#e6db74">&#39;_&#39;</span> -f 1-2 | sed  <span style="color:#e6db74">&#34;s/_/;/g&#34;</span><span style="color:#e6db74">`</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">`</span>grep $temp cutlist.csv<span style="color:#e6db74">`</span> <span style="color:#f92672">]</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>        echo delete $I ???
+</span></span><span style="display:flex;"><span>        rm -i $I
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">done</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># the ls gives the path, cut removes the same path on the 11th digit and passes on the rest, cut separates the output at the &#39;_&#39; sign (recognizes fields) and provides the first two fields, sed is substitutes the &#39;_&#39; with a semicolon as used in the cutlist, and finally this string is looked up in the cutlist</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++ <span style="color:#e6db74">&#34;Merge all videos&#34;</span> ++++++++++
+</span></span><span style="display:flex;"><span>cat 03_output/*output.avi &gt; 03_output/output_video.avi
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># the rank must be correct for the sequence of the scenes</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++++ <span style="color:#e6db74">&#34;Add sound&#34;</span> +++++++++++
+</span></span><span style="display:flex;"><span>ffmpeg -y -shortest -i 03_output/output_video.avi -vcodec copy  -b $BITRATE -r $FRAMERATE_END -i 03_output/output_sound.mp3 -acodec copy <span style="color:#e6db74">&#34;invent_a_fire.avi&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># should be a formality, the shortest input ends the the file</span>
+</span></span><span style="display:flex;"><span>exit
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e"># ! /bin/bash</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># variabels</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>BITRATE<span style="color:#f92672">=</span>600k HEIGHT<span style="color:#f92672">=</span>x1080
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># sets the absolute height</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>FRAMERATE_END<span style="color:#f92672">=</span><span style="color:#ae81ff">24</span> echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ echo <span style="color:#e6db74">&#34;Please enter the SCENE&#39;s name or render all videos at once by typing all:&#34;</span> echo ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ read INPUT_SCENE
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> $INPUT_SCENE <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;all&#34;</span> <span style="color:#f92672">]</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">## ############################################ BLOCK 01</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">then</span> echo +++++++++++++ <span style="color:#e6db74">&#34;All scenes are processed&#34;</span> ++++++++++++ echo +++++++++++++ <span style="color:#e6db74">&#34;Reading parameters&#34;</span> ++++++++++++ <span style="color:#66d9ef">for</span> ALL_SCENES in <span style="color:#e6db74">`</span>csvtool drop <span style="color:#ae81ff">1</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">2</span> -<span style="color:#e6db74">`</span>; <span style="color:#66d9ef">do</span> RANK_ALL <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> grep <span style="color:#e6db74">&#34;</span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">1</span> - <span style="color:#f92672">}</span> FRAMERATE_ALL <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> grep <span style="color:#e6db74">&#34;</span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">3</span> - <span style="color:#f92672">}</span> LENGTH_ALL <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> grep <span style="color:#e6db74">&#34;</span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">4</span> - <span style="color:#f92672">}</span> echo <span style="color:#e6db74">&#34;scene = </span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> echo <span style="color:#e6db74">&#34;rank = `RANK_ALL`&#34;</span> echo <span style="color:#e6db74">&#34;framerate = `FRAMERATE_ALL`&#34;</span> echo <span style="color:#e6db74">&#34;length = `LENGTH_ALL`&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># warning about too many arguments, because finding lots of files?? but it works</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>blod <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> find ./02_scenes/$ALL_SCENES -name <span style="color:#e6db74">`</span>RANK_ALL<span style="color:#e6db74">`</span>_<span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span>* <span style="color:#f92672">}</span> <span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">`</span>blod<span style="color:#e6db74">`</span> <span style="color:#f92672">]</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># if the rank is not the same with the one in the cutlist it has to be updated</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">then</span> echo +++++++++++++ <span style="color:#e6db74">&#34;Rename </span>$ALL_SCENES<span style="color:#e6db74"> by updating its name and rank&#34;</span> ++++++++++++ <span style="color:#66d9ef">for</span> FILE in 02_scenes/$ALL_SCENES/_frame_.jpg ; <span style="color:#66d9ef">do</span> NEWFILE <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> echo $FILE | sed <span style="color:#e6db74">&#34;s/</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">\/.*_.*_frame/</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">\/`RANK_ALL`\_</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">_frame/g&#34;</span> <span style="color:#f92672">}</span> mv <span style="color:#e6db74">&#34;</span>$FILE<span style="color:#e6db74">&#34;</span> <span style="color:#e6db74">`</span>NEWFILE<span style="color:#e6db74">`</span> ; <span style="color:#66d9ef">done</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># paths need to be preserved! wildcards with .* - no idea why!</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># frame __instead of more general_ .jpgs because there are also the original photos in the directory</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++++++ <span style="color:#e6db74">&#34;Render scene </span>$ALL_SCENES<span style="color:#e6db74">&#34;</span> ++++++++++++ ffmpeg -y -loop_input -f image2 -r <span style="color:#e6db74">`</span>FRAMERATE_ALL<span style="color:#e6db74">`</span> -i <span style="color:#e6db74">&#34;02_scenes/</span>$ALL_SCENES<span style="color:#e6db74">/`RANK_ALL`_</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">_frame_%04d.jpg&#34;</span> -b $BITRATE -r $FRAMERATE_END -vframes <span style="color:#e6db74">`</span>LENGTH_ALL<span style="color:#e6db74">`</span> <span style="color:#e6db74">&#34;03_output/`RANK_ALL`_</span><span style="color:#e6db74">${</span>ALL_SCENES<span style="color:#e6db74">}</span><span style="color:#e6db74">_output.avi&#34;</span> <span style="color:#66d9ef">done</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># {} are necessary to preserve the following underscore</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># -r framerate needs to be set before the input parameter</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># the framerate of the output is necessary to keep the framerate differences of the scenes</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># if scene not in cutlist; ask for parameters, copy frames and write to cutlist</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">&#34;`grep &#34;</span>;<span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span>;<span style="color:#e6db74">&#34; cutlist.csv`&#34;</span> <span style="color:#f92672">]</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">## ############################################ BLOCK 02</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># semicolon prevents the matching of incomplete (parts of) scene names for instance &#34;bdeckunge&#34; instead of &#34;abdeckungen&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># for condition (-z (string is null) -n (string is not null))</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">then</span> echo +++++++++++++ <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74"> is not existing ... creation initialized&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++++++ <span style="color:#e6db74">&#34;Have you cut the frames of </span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74"> to 4:3 aspect ratio?&#34;</span> ++++++++++++ read -p <span style="color:#e6db74">&#34;Of course I did!&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++ <span style="color:#e6db74">&#34;Define parameters&#34;</span> ++++++++++ echo <span style="color:#e6db74">&#34;Please enter its RANK (4 digits):&#34;</span> read INPUT_RANK echo <span style="color:#e6db74">&#34;Please enter the framerate:&#34;</span> read INPUT_FRAMERATE echo <span style="color:#e6db74">&#34;Please enter the length in number of frames:&#34;</span> read INPUT_LENGTH
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++ <span style="color:#e6db74">&#34;Create directory for scene&#34;</span> ++++++++++ mkdir -p 02_scenes/$INPUT_SCENE
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># if directory is already existing, no error is given due to the -p</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++ <span style="color:#e6db74">&#34;Copy frames to newly created directory&#34;</span> ++++++++++
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># should be 4:3</span>
+</span></span><span style="display:flex;"><span>mv ~/*.jpg 02_scenes/$INPUT_SCENE
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++ <span style="color:#e6db74">&#34;Resize frames&#34;</span> ++++++++++ mogrify -resize $HEIGHT 02_scenes/$INPUT_SCENE/frame_*.jpg
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># only frames, to prevent original photos;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># imagemagick is used for this</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++++++ <span style="color:#e6db74">&#34;Rename by adding the scene&#39;s name and rank&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># if the name is not congruent with the entries of the cutlist; rank is necessary for the order of the cat command later on</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># only frames, to prevent original photos</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> FILE in 02_scenes/$INPUT_SCENE/frame_*.jpg ; <span style="color:#66d9ef">do</span> NEWFILE<span style="color:#f92672">=</span><span style="color:#e6db74">`</span>echo $FILE | sed <span style="color:#e6db74">&#34;s/frame/</span>$INPUT_RANK<span style="color:#e6db74">\_</span>$INPUT_SCENE<span style="color:#e6db74">\_frame/g&#34;</span><span style="color:#e6db74">`</span> ; mv <span style="color:#e6db74">&#34;</span>$FILE<span style="color:#e6db74">&#34;</span> $NEWFILE ; <span style="color:#66d9ef">done</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++++++ <span style="color:#e6db74">&#34;Render </span>$SCENE<span style="color:#e6db74">&#34;</span> ++++++++++++ ffmpeg -loop_input -f image2 -r $INPUT_FRAMERATE -i <span style="color:#e6db74">&#34;02_scenes/</span>$INPUT_SCENE<span style="color:#e6db74">/</span><span style="color:#e6db74">${</span>INPUT_RANK<span style="color:#e6db74">}</span><span style="color:#e6db74">_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_frame_%04d.jpg&#34;</span> -b $BITRATE -r $FRAMERATE_END -vframes $INPUT_LENGTH <span style="color:#e6db74">&#34;03_output/</span><span style="color:#e6db74">${</span>INPUT_RANK<span style="color:#e6db74">}</span><span style="color:#e6db74">_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_output.avi&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># {} are necessary to preserve the following underscore</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># no overwrite (-y) needed</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># the framerate of the output is necessary to keep the framerate differences of the scenes</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++++++ <span style="color:#e6db74">&#34;Write variables to cutlist.csv&#34;</span> ++++++++++++ echo <span style="color:#e6db74">&#34;</span>$INPUT_RANK<span style="color:#e6db74">;</span>$INPUT_SCENE<span style="color:#e6db74">;</span>$INPUT_FRAMERATE<span style="color:#e6db74">;</span>$INPUT_LENGTH<span style="color:#e6db74">;&#34;</span> &gt;&gt; cutlist.csv read -p <span style="color:#e6db74">&#34;Done!&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># as a last step after everything was successful to prevent errors in the cutlist</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># if scene already in the cutlist</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">## ############################################ BLOCK 03</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++++++ <span style="color:#e6db74">&#34;</span>$INPUT_SCENE<span style="color:#e6db74"> is already existing&#34;</span> ++++++++++++ echo +++++++++++++ <span style="color:#e6db74">&#34;Read defined parameters of </span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Define Functions RANK, FRAMERATE, LENGTH by reading cutlist.csv</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>RANK <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> grep <span style="color:#e6db74">&#34;</span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">1</span> - <span style="color:#f92672">}</span> FRAMERATE <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> grep <span style="color:#e6db74">&#34;</span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">3</span> - <span style="color:#f92672">}</span> LENGTH <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> grep <span style="color:#e6db74">&#34;</span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> cutlist.csv | csvtool -t <span style="color:#e6db74">&#39;;&#39;</span> col <span style="color:#ae81ff">4</span> - <span style="color:#f92672">}</span> echo <span style="color:#e6db74">&#34;scene = </span>$INPUT_SCENE<span style="color:#e6db74">&#34;</span> echo <span style="color:#e6db74">&#34;rank = `RANK`&#34;</span> echo <span style="color:#e6db74">&#34;framerate = `FRAMERATE`&#34;</span> echo <span style="color:#e6db74">&#34;length = `LENGTH`&#34;</span> echo +++++++++++++ <span style="color:#e6db74">&#34; The rank of </span>$INPUT_SCENE<span style="color:#e6db74"> changed ... renaming &#34;</span> ++++++++++++
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># warning about too many arguments, because finding lots of files?? but it works</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>blod <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> find ./02_scenes/$INPUT_SCENE -name <span style="color:#e6db74">`</span>RANK<span style="color:#e6db74">`</span>_<span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span>* <span style="color:#f92672">}</span> <span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z <span style="color:#e6db74">`</span>blod<span style="color:#e6db74">`</span> <span style="color:#f92672">]</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># if the rank is not matching the one of the cutlist, it needs to be changed</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">then</span> echo +++++++++++++ <span style="color:#e6db74">&#34;Rename </span>$INPUT_SCENE<span style="color:#e6db74"> by updating its name and rank&#34;</span> ++++++++++++ <span style="color:#66d9ef">for</span> FILE in 02_scenes/$INPUT_SCENE/_frame_.jpg ; <span style="color:#66d9ef">do</span> NEWFILE <span style="color:#f92672">()</span> <span style="color:#f92672">{</span> echo $FILE | sed <span style="color:#e6db74">&#34;s/</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">\/.*_.*_frame/</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">\/`RANK`\_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_frame/g&#34;</span> <span style="color:#f92672">}</span> mv <span style="color:#e6db74">&#34;</span>$FILE<span style="color:#e6db74">&#34;</span> <span style="color:#e6db74">`</span>NEWFILE<span style="color:#e6db74">`</span> ; <span style="color:#66d9ef">done</span> <span style="color:#66d9ef">fi</span> echo +++++++++++++ <span style="color:#e6db74">&#34;Render </span>$SCENE<span style="color:#e6db74">&#34;</span> ++++++++++++ ffmpeg -loop_input -f image2 -r <span style="color:#e6db74">`</span>FRAMERATE<span style="color:#e6db74">`</span> -i <span style="color:#e6db74">&#34;02_scenes/</span>$INPUT_SCENE<span style="color:#e6db74">/`RANK`_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_frame_%04d.jpg&#34;</span> -b $BITRATE -r $FRAMERATE_END -vframes <span style="color:#e6db74">`</span>LENGTH<span style="color:#e6db74">`</span> <span style="color:#e6db74">&#34;03_output/`RANK`_</span><span style="color:#e6db74">${</span>INPUT_SCENE<span style="color:#e6db74">}</span><span style="color:#e6db74">_output.avi&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># {} are necessary to preserve the following underscore</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># the framerate of the output is necessary to keep the framerate differences of the scenes</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">## ############################################ FINAL BLOCK</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++ <span style="color:#e6db74">&#34;Remove expired output videos&#34;</span> ++++++++++
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># remove expired output videos, otherwise cat adds them to the final file</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> I in 03_output/*_output.avi <span style="color:#66d9ef">do</span> temp<span style="color:#f92672">=</span><span style="color:#e6db74">`</span>echo <span style="color:#e6db74">&#34;</span>$I<span style="color:#e6db74">&#34;</span> | cut -c 11- | cut -d <span style="color:#e6db74">&#39;_&#39;</span> -f 1-2 | sed <span style="color:#e6db74">&#34;s/_/;/g&#34;</span><span style="color:#e6db74">`</span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[</span> -z<span style="color:#e6db74">`</span>grep $temp cutlist.csv<span style="color:#e6db74">`</span> <span style="color:#f92672">]</span> <span style="color:#66d9ef">then</span> echo delete $I ??? rm -i $I <span style="color:#66d9ef">fi</span> <span style="color:#66d9ef">done</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># the ls gives the path, cut removes the same path on the 11th digit and passes on the rest, cut separates the output at the &#39;_&#39; sign (recognizes fields) and provides the first two fields, sed is substitutes the &#39;_&#39; with a semicolon as used in the cutlist, and finally this string is looked up in the cutlist</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++ <span style="color:#e6db74">&#34;Merge all videos&#34;</span> ++++++++++ cat 03_output/*output.avi &gt; 03_output/output_video.avi
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># the rank must be correct for the sequence of the scenes</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>echo +++++++++++ <span style="color:#e6db74">&#34;Add sound&#34;</span> +++++++++++ ffmpeg -y -shortest -i 03_output/output_video.avi -vcodec copy -b $BITRATE -r $FRAMERATE_END -i 03_output/output_sound.mp3 -acodec copy <span style="color:#e6db74">&#34;invent_a_fire.avi&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># should be a formality, the shortest input ends the the file</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>exit
+</span></span></code></pre></div>]]></content>
         </item>
         
     </channel>
