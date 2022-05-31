@@ -79,10 +79,16 @@ enableThemeToggle = true
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
+  [menu]
   [[menu.main]]
     identifier = "portfolio"
     name       = "Portfolio"
     url        = "posts"
+
+  [[menu.main]]
+    identifier = "donation"
+    name       = "Donation"
+    url        = "donation/"
   
 [markup]
 [markup.goldmark]
