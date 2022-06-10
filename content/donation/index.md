@@ -14,3 +14,4 @@ via [The Giving Block](https://thegivingblock.com/donate/save-the-children/). I 
 The following transactions have already been made:
 * **102 ꜩ**, Mar 13 2022 - [transaction details](https://tzkt.io/ooif4BbuvT4T9VLQssVerq9hzE8VsFL1pvCmF74wT8Cbyv39NCy)
 * **24 ꜩ**, Mar 20 2022 - [transaction details](https://tzkt.io/oorX3uCcJuCywuCuoWGasDx3rASbBF1SMzj5aLdwnTrSeYrm8N4)
+* **135 ꜩ** , Jun 10 2022 - [transaction details](https://tzkt.io/ooGXBxex6a7YYGkD8B8ffjKHoCpXMtX8uvgCyrribuKpXYUKrH1)
