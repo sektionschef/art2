@@ -7,7 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 12 Mar 2022 17:01:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jul 2022 17:01:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Duftaufzug</title>
+      <link>https://digitalitility.com/posts/2022/07/duftaufzug/</link>
+      <pubDate>Mon, 11 Jul 2022 17:01:30 +0100</pubDate>
+      
+      <guid>https://digitalitility.com/posts/2022/07/duftaufzug/</guid>
+      <description>Format: 4000x4000px, .png image. Created with p5.js, 100% generative, no pngs.
+Every earned Tezo, primary and secondary, earned from this project towards the NGO Save the Children https://thegivingblock.com/donate/save-the-children/. The donation is done after about 30 days and listed here.
+The source code is published here: https://github.com/sektionschef/Duftaufzug
+Published on fxhash: https://www.fxhash.xyz/generative/16174
+  </description>
+    </item>
+    
+    <item>
+      <title>Snorre</title>
+      <link>https://digitalitility.com/posts/2022/05/snorre/</link>
+      <pubDate>Tue, 31 May 2022 17:01:30 +0100</pubDate>
+      
+      <guid>https://digitalitility.com/posts/2022/05/snorre/</guid>
+      <description>Snorre features intersectangles. On two layers rectangles intersect with each other and give birth to new colorful areas.
+Format: 4000x4000px, .png image.
+Every earned Tezo, primary and secondary, earned from this project towards the NGO Save the Children https://thegivingblock.com/donate/save-the-children/. The donation is done after about 30 days and listed here.
+Created with p5.js, 100% generative, no pngs
+The source code is published here: https://github.com/sektionschef/Snorre
+Published on fxhash: https://www.fxhash.xyz/generative/13907
+  </description>
+    </item>
+    
     <item>
       <title>Raumstreicher</title>
       <link>https://digitalitility.com/posts/2022/03/raumstreicher/</link>
@@ -15,9 +43,9 @@
       
       <guid>https://digitalitility.com/posts/2022/03/raumstreicher/</guid>
       <description>&amp;ldquo;I paint energy, not the soul.&amp;rdquo; Ukranian artist Kazimir Malevich, 1924
-100% of primary and secondary sales are donated to Save the children (https://thegivingblock.com/donate/save-the-children/) one week after publication, supporting victims of the war against Ukraine.
+100% of primary and secondary sales are donated to Save the children (https://thegivingblock.com/donate/save-the-children/) one week after publication, supporting victims of the war against Ukraine. All donations listed here.
 Raumstreicher divides space in boxes, randomly.
-  Shortcuts  &amp;rsquo;s&amp;rsquo; | export png image &amp;lsquo;c&amp;rsquo; | center the artwork &amp;lsquo;r&amp;rsquo; | reset the perspective scrolling | zoom in and zoom out left-clicking + dragging | rotate the camera right-clicking + dragging | pan the camera position  100% generative, created with p5.</description>
+  Shortcuts  &amp;rsquo;s&#39; | export png image &amp;lsquo;c&amp;rsquo; | center the artwork &amp;lsquo;r&amp;rsquo; | reset the perspective scrolling | zoom in and zoom out left-clicking + dragging | rotate the camera right-clicking + dragging | pan the camera position  100% generative, created with p5.</description>
     </item>
     
     <item>
@@ -59,6 +87,17 @@ The space is randomly cut in segments on both axis. Some of the resulting rectan
       <guid>https://digitalitility.com/posts/2022/01/co-emissions-in-digital-painting/</guid>
       <description> The digital painting visualizes the increasing CO² concentration in the earth&amp;rsquo;s atmosphere between 2012 and 2021. It&amp;rsquo;s a generative piece of art which never looks the same.
    The artwork itself is here: https://sektionschef.github.io/generative_co2/ More information here -&amp;gt; https://medium.com/@sektionschef/co%C2%B2-emissions-in-digital-painting-3e979c2e6a04 The code repo is here: https://github.com/sektionschef/generative_co2 the clean nft OBJKT is here: https://hicetnunc.art/objkt/624714  </description>
+    </item>
+    
+    <item>
+      <title>Donation</title>
+      <link>https://digitalitility.com/donation/</link>
+      <pubDate>Mon, 31 May 2021 12:27:30 +0100</pubDate>
+      
+      <guid>https://digitalitility.com/donation/</guid>
+      <description>I will donate every earned tezos from my art projects to the NGO Save the children via The Giving Block. I will keep a kind of safety level of 111 ꜩ in my wallet. Everything above it will be donated.
+The following transactions have already been made:
+ 102 ꜩ (275 €) , Mar 13 2022 - transaction details 24 ꜩ (72 €), Mar 20 2022 - transaction details 135 ꜩ (216 €), Jun 10 2022 - transaction details 349 ꜩ (590 €), Jul 18 2022 - transaction details  </description>
     </item>
     
     <item>

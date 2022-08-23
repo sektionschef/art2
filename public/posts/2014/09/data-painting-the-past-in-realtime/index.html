@@ -131,7 +131,7 @@ if (!doNotTrack) {
         <span class="header__right">
             
                 <nav class="menu">
-    <ul class="menu__inner"><li><a href="/posts">Portfolio</a></li>
+    <ul class="menu__inner"><li><a href="/donation/">Donation</a></li><li><a href="/posts">Portfolio</a></li>
     </ul>
 </nav>
 
@@ -192,7 +192,7 @@ if (!doNotTrack) {
 
 <h2 id="how-it-was-done">How it was done</h2>
 <p>I took the timesheets, which hold the exact date and time when a particular task was started and ended - about 51.000 eintries since 2011. When expanding the time entries for every minute ranging from the minute started and the minute ended the data grew to about 21 billion entries.</p>
-<p>For the real-world part of this project, I painted a canvas with 133 abstract polygons with some inspiration of good old <a href="http://en.wikipedia.org/wiki/Kazimir_Malevich">Kazimir Malevich</a>. The areas&rsquo; outlines were transformed to a virtual clone in svg format. And then wrote an <a href="http://www.r-project.org/">R</a> script to calculate the area of each polygon and to normalize them.</p>
+<p>For the real-world part of this project, I painted a canvas with 133 abstract polygons with some inspiration of good old <a href="http://en.wikipedia.org/wiki/Kazimir_Malevich">Kazimir Malevich</a>. The areas' outlines were transformed to a virtual clone in svg format. And then wrote an <a href="http://www.r-project.org/">R</a> script to calculate the area of each polygon and to normalize them.</p>
 <p>Finally, the areas of the canvas had to be chosen so that the sum of their areas best matches the proportion for each task category in each minute. This combinatorial optimization riddle is known as the <a href="http://en.wikipedia.org/wiki/Knapsack_problem">Knapsack problem</a> in literature and obviously there is no other solution than to test every single combination, brute force. In order to compensate the lack of supercomputers at home, I randomly created seven groups from all the polygons. This way the combinations were reduced to 2 million per minute and per category. It took 32 hours for my computer to come up with the optimal solution for presenting the ambuzzador&rsquo;s past in realtime. The maximal deviance between data and canvas is about 2% with a standard error of 0.087%.</p>
 <p>The projection painting was done <a href="http://digit.alitility.com/visualitility/projection-painting-prototype/" title="Projection Painting Prototype">again</a> in <a href="http://processing.org/">Processing</a> using keystone library. The whole project took about 3 months. The source code is publicly available on github: <a href="https://github.com/sektionschef/10yearsbuzz">https://github.com/sektionschef/10yearsbuzz</a></p>
 <figure><img src="P1070764.jpg"
@@ -416,7 +416,7 @@ if (!doNotTrack) {
 
 
 
-<script type="text/javascript" src="/bundle.min.2d3d449fc0ff117f00ac91342a8f76cd5b710411d7a0254dbe75da3234d2f685d6a0c44cff60c414e90b6a149da8e4032c713c25e4e6838e2e3918dc0ad2e81c.js" integrity="sha512-LT1En8D/EX8ArJE0Ko92zVtxBBHXoCVNvnXaMjTS9oXWoMRM/2DEFOkLahSdqOQDLHE8JeTmg44uORjcCtLoHA=="></script>
+<script type="text/javascript" src="/bundle.min.599099f1f14b78b657d524b28e10e0c5098e7cd46e9c7aed73d577068a276c3ff1bb234cbf29cb313333e83cf411727b43157c91ce5b809e2ffc81664614608e.js" integrity="sha512-WZCZ8fFLeLZX1SSyjhDgxQmOfNRunHrtc9V3BoonbD/xuyNMvynLMTMz6Dz0EXJ7QxV8kc5bgJ4v/IFmRhRgjg=="></script>
 
 
 
