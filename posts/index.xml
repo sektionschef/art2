@@ -1,11 +1,28 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Art projects</title><link>https://digitalitility.com/posts/</link><description>Recent content in Posts on Art projects</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Tue, 31 May 2022 17:01:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Snorre</title><link>https://digitalitility.com/posts/2022/05/snorre/</link><pubDate>Tue, 31 May 2022 17:01:30 +0100</pubDate><guid>https://digitalitility.com/posts/2022/05/snorre/</guid><description>Snorre features intersectangles. On two layers rectangles intersect with each other and give birth to new colorful areas.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Art projects</title><link>https://digitalitility.com/posts/</link><description>Recent content in Posts on Art projects</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Mon, 11 Jul 2022 17:01:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Duftaufzug</title><link>https://digitalitility.com/posts/2022/07/duftaufzug/</link><pubDate>Mon, 11 Jul 2022 17:01:30 +0100</pubDate><guid>https://digitalitility.com/posts/2022/07/duftaufzug/</guid><description>Format: 4000x4000px, .png image. Created with p5.js, 100% generative, no pngs.
+Every earned Tezo, primary and secondary, earned from this project towards the NGO Save the Children https://thegivingblock.com/donate/save-the-children/. The donation is done after about 30 days and listed here.
+The source code is published here: https://github.com/sektionschef/Duftaufzug
+Published on fxhash: https://www.fxhash.xyz/generative/16174</description><content type="html"><![CDATA[<p>Format: 4000x4000px, .png image.
+Created with p5.js, 100% generative, no pngs.</p>
+<p>Every earned Tezo, primary and secondary, earned from this project towards the NGO Save the Children <a href="https://thegivingblock.com/donate/save-the-children/">https://thegivingblock.com/donate/save-the-children/</a>. The donation is done after about 30 days and listed <a href="https://digitalitility.com/donation/" title="Donation">here</a>.</p>
+<p>The source code is published here: <a href="https://github.com/sektionschef/Duftaufzug">https://github.com/sektionschef/Duftaufzug</a></p>
+<p>Published on fxhash: <a href="https://www.fxhash.xyz/generative/16174">https://www.fxhash.xyz/generative/16174</a></p>
+<div     style={background-color: #FFFFFF !important;}>
+<iframe 
+    title="Duftaufzug"
+    width="750"
+    height="750"
+    frameborder="0"
+    cellspacing="0"
+src="https://gateway.fxhash2.xyz/ipfs/QmPjbXEiBzDJQxa5yZqiRcaQnYi7WpZ7FrTmZAUMHuBtv1/?fxhash=ooXXc5uETPqDABNrN5V7sxchtJevWhpjeRWK3JUfzzRcEyyr2qA"></iframe>
+</div>
+]]></content></item><item><title>Snorre</title><link>https://digitalitility.com/posts/2022/05/snorre/</link><pubDate>Tue, 31 May 2022 17:01:30 +0100</pubDate><guid>https://digitalitility.com/posts/2022/05/snorre/</guid><description>Snorre features intersectangles. On two layers rectangles intersect with each other and give birth to new colorful areas.
 Format: 4000x4000px, .png image.
-Every earned Tezo, primary and secondary, earned from this project towards the NGO Save the Children https://thegivingblock.com/donate/save-the-children/. The donation is done after about 30 days.
+Every earned Tezo, primary and secondary, earned from this project towards the NGO Save the Children https://thegivingblock.com/donate/save-the-children/. The donation is done after about 30 days and listed here.
 Created with p5.js, 100% generative, no pngs
 The source code is published here: https://github.com/sektionschef/Snorre
 Published on fxhash: https://www.fxhash.xyz/generative/13907</description><content type="html"><![CDATA[<p>Snorre features intersectangles. On two layers rectangles intersect with each other and give birth to new colorful areas.</p>
 <p>Format: 4000x4000px, .png image.</p>
-<p>Every earned Tezo, primary and secondary, earned from this project towards the NGO Save the Children <a href="https://thegivingblock.com/donate/save-the-children/">https://thegivingblock.com/donate/save-the-children/</a>. The donation is done after about 30 days.</p>
+<p>Every earned Tezo, primary and secondary, earned from this project towards the NGO Save the Children <a href="https://thegivingblock.com/donate/save-the-children/">https://thegivingblock.com/donate/save-the-children/</a>. The donation is done after about 30 days and listed <a href="https://digitalitility.com/donation/" title="Donation">here</a>.</p>
 <p>Created with p5.js, 100% generative, no pngs</p>
 <p>The source code is published here: <a href="https://github.com/sektionschef/Snorre">https://github.com/sektionschef/Snorre</a></p>
 <p>Published on fxhash: <a href="https://www.fxhash.xyz/generative/13907">https://www.fxhash.xyz/generative/13907</a></p>
@@ -19,10 +36,10 @@ Published on fxhash: https://www.fxhash.xyz/generative/13907</description><conte
 src="https://gateway.fxhash2.xyz/ipfs/QmaXa9z1kiXo97VHseTCzRFZ2sHN6tAQFm1NoKNHdGYZkk/?fxhash=oo1WA5VhNH1W3wwMuUbWrmSt1Mz7F2dVeYdWMvyGCJnUhnKeMps"></iframe>
 </div>
 ]]></content></item><item><title>Raumstreicher</title><link>https://digitalitility.com/posts/2022/03/raumstreicher/</link><pubDate>Sat, 12 Mar 2022 17:01:30 +0100</pubDate><guid>https://digitalitility.com/posts/2022/03/raumstreicher/</guid><description>&amp;ldquo;I paint energy, not the soul.&amp;rdquo; Ukranian artist Kazimir Malevich, 1924
-100% of primary and secondary sales are donated to Save the children (https://thegivingblock.com/donate/save-the-children/) one week after publication, supporting victims of the war against Ukraine.
+100% of primary and secondary sales are donated to Save the children (https://thegivingblock.com/donate/save-the-children/) one week after publication, supporting victims of the war against Ukraine. All donations listed here.
 Raumstreicher divides space in boxes, randomly.
 Shortcuts &amp;rsquo;s&amp;rsquo; | export png image &amp;lsquo;c&amp;rsquo; | center the artwork &amp;lsquo;r&amp;rsquo; | reset the perspective scrolling | zoom in and zoom out left-clicking + dragging | rotate the camera right-clicking + dragging | pan the camera position 100% generative, created with p5.</description><content type="html"><![CDATA[<p>&ldquo;I paint energy, not the soul.&rdquo; Ukranian artist Kazimir Malevich, 1924</p>
-<p>100% of primary and secondary sales are donated to <code>Save the children</code> (<a href="https://thegivingblock.com/donate/save-the-children/">https://thegivingblock.com/donate/save-the-children/</a>) one week after publication, supporting victims of the war against Ukraine.</p>
+<p>100% of primary and secondary sales are donated to <code>Save the children</code> (<a href="https://thegivingblock.com/donate/save-the-children/">https://thegivingblock.com/donate/save-the-children/</a>) one week after publication, supporting victims of the war against Ukraine. All donations listed <a href="https://digitalitility.com/donation/" title="Donation">here</a>.</p>
 <p>Raumstreicher divides space in boxes, randomly.</p>
 <div     style={background-color: #FFFFFF !important;}>
 <iframe 
