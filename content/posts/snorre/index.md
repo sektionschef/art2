@@ -12,7 +12,7 @@ Snorre features intersectangles. On two layers rectangles intersect with each ot
 
 Format: 4000x4000px, .png image.
 
-Every earned Tezo, primary and secondary, earned from this project towards the NGO Save the Children https://thegivingblock.com/donate/save-the-children/. The donation is done after about 30 days.
+Every earned Tezo, primary and secondary, earned from this project towards the NGO Save the Children https://thegivingblock.com/donate/save-the-children/. The donation is done after about 30 days and listed [here]({{< ref "donation/index.md" >}} "Donation").
 
 Created with p5.js, 100% generative, no pngs
 

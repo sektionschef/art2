@@ -10,7 +10,7 @@ tags:
 
 "I paint energy, not the soul." Ukranian artist Kazimir Malevich, 1924
 
-100% of primary and secondary sales are donated to `Save the children` (https://thegivingblock.com/donate/save-the-children/) one week after publication, supporting victims of the war against Ukraine.
+100% of primary and secondary sales are donated to `Save the children` (https://thegivingblock.com/donate/save-the-children/) one week after publication, supporting victims of the war against Ukraine. All donations listed [here]({{< ref "donation/index.md" >}} "Donation").
 
 Raumstreicher divides space in boxes, randomly.
 
