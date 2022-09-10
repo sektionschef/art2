@@ -16,3 +16,4 @@ The following transactions have already been made:
 * **24 ꜩ** (**72 €**), Mar 20 2022 - [transaction details](https://tzkt.io/oorX3uCcJuCywuCuoWGasDx3rASbBF1SMzj5aLdwnTrSeYrm8N4)
 * **135 ꜩ** (**216 €**), Jun 10 2022 - [transaction details](https://tzkt.io/ooGXBxex6a7YYGkD8B8ffjKHoCpXMtX8uvgCyrribuKpXYUKrH1) 
 * **349 ꜩ** (**590 €**), Jul 18 2022 - [transaction details](https://tzkt.io/opWC7ZzeNeKd7U2GoRU1cCgK6UcLAyz5Lj8cwokEUhYH9B1KTNK)
+* **62 ꜩ** (**100 €**), Sep 10 2022 - [transaction details](https://tzkt.io/ooinXSzwX6KNbefhUECTc8W3x9MEQXSAeLv8DysSoxYgwTeqQus) 
