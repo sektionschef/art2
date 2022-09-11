@@ -6,8 +6,36 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Mon, 11 Jul 2022 17:01:30 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 17:01:30 +0100</lastBuildDate>
         <atom:link href="https://digitalitility.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Medusa</title>
+            <link>https://digitalitility.com/posts/2022/07/medusa/</link>
+            <pubDate>Sun, 31 Jul 2022 17:01:30 +0100</pubDate>
+            
+            <guid>https://digitalitility.com/posts/2022/07/medusa/</guid>
+            <description>“Nunc, o fortissime, fare, precor, Perseu, quanta virtute quibusque artibus abstuleris crinita draconibus ora!” - Ovid, Metamorphoses Book IV 769 &amp;ldquo;Perseus, I beg you to tell us by what prowess and by what arts you carried off that head with snakes for hair.&amp;quot;
+Medusa is built in 3D with p5.js using physics of oimo.js.
+The source code is published here: https://github.com/sektionschef/Medusa
+Published on fxhash: https://www.fxhash.xyz/generative/18775
+  </description>
+            <content type="html"><![CDATA[<p><em>“Nunc, o fortissime, fare, precor, Perseu, quanta virtute quibusque artibus abstuleris crinita draconibus ora!”</em> - Ovid, Metamorphoses Book IV 769
+<em>&ldquo;Perseus, I beg you to tell us by what prowess and by what arts you carried off that head with snakes for hair.&quot;</em></p>
+<p>Medusa is built in 3D with p5.js using physics of oimo.js.</p>
+<p>The source code is published here: <a href="https://github.com/sektionschef/Medusa">https://github.com/sektionschef/Medusa</a></p>
+<p>Published on fxhash: <a href="https://www.fxhash.xyz/generative/18775">https://www.fxhash.xyz/generative/18775</a></p>
+<div     style={background-color: #FFFFFF !important;}>
+<iframe 
+    title="Medusa"
+    width="750"
+    height="750"
+    frameborder="0"
+    cellspacing="0"
+src="https://gateway.fxhash2.xyz/ipfs/QmRAVaFSrZRoG9nVDLnqcWC2FyxEhD9ovgdmFHNMk9k8a6/?fxhash=oofHCL17K1Tk8C5aBhKUTTHE7Ddba9ku1VG9adAqqw4voH2s8Kq"></iframe>
+</div>
+]]></content>
+        </item>
         
         <item>
             <title>Duftaufzug</title>

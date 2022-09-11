@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 11 Jul 2022 17:01:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jul 2022 17:01:30 +0100</lastBuildDate><atom:link href="https://digitalitility.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medusa</title>
+      <link>https://digitalitility.com/posts/2022/07/medusa/</link>
+      <pubDate>Sun, 31 Jul 2022 17:01:30 +0100</pubDate>
+      
+      <guid>https://digitalitility.com/posts/2022/07/medusa/</guid>
+      <description>“Nunc, o fortissime, fare, precor, Perseu, quanta virtute quibusque artibus abstuleris crinita draconibus ora!” - Ovid, Metamorphoses Book IV 769 &amp;ldquo;Perseus, I beg you to tell us by what prowess and by what arts you carried off that head with snakes for hair.&amp;quot;
+Medusa is built in 3D with p5.js using physics of oimo.js.
+The source code is published here: https://github.com/sektionschef/Medusa
+Published on fxhash: https://www.fxhash.xyz/generative/18775
+  </description>
+    </item>
+    
     <item>
       <title>Duftaufzug</title>
       <link>https://digitalitility.com/posts/2022/07/duftaufzug/</link>
@@ -97,7 +110,7 @@ The space is randomly cut in segments on both axis. Some of the resulting rectan
       <guid>https://digitalitility.com/donation/</guid>
       <description>I will donate every earned tezos from my art projects to the NGO Save the children via The Giving Block. I will keep a kind of safety level of 111 ꜩ in my wallet. Everything above it will be donated.
 The following transactions have already been made:
- 102 ꜩ (275 €) , Mar 13 2022 - transaction details 24 ꜩ (72 €), Mar 20 2022 - transaction details 135 ꜩ (216 €), Jun 10 2022 - transaction details 349 ꜩ (590 €), Jul 18 2022 - transaction details  </description>
+ 102 ꜩ (275 €) , Mar 13 2022 - transaction details 24 ꜩ (72 €), Mar 20 2022 - transaction details 135 ꜩ (216 €), Jun 10 2022 - transaction details 349 ꜩ (590 €), Jul 18 2022 - transaction details 62 ꜩ (100 €), Sep 10 2022 - transaction details  </description>
     </item>
     
     <item>
