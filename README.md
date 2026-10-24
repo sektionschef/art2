@@ -1,10 +1,5 @@
-# Art portfolio
+# digitalitility.com
 
-built on Hugo. based on repo: art and the wordpress blog.
+Static landing page "digitalitility, the edge of web", served from `landing/` via GitHub Pages.
 
-
-check the example config.toml: themes/hello-friend-ng/exampleSite/config.toml 
-
-
-locally: `hugo server -b localhost`
-build: `hugo`
+The former Hugo art portfolio was retired after fxhash went offline. Its posts and images remain in `content/`, the portrait in `static/`. The full Hugo setup is in the git history before this change.

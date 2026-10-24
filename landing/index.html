@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Digitalitility</title>
+  <meta name="description" content="digitalitility, the edge of web">
+  <style>
+    :root {
+      --bg: #fafafa;
+      --fg: #111;
+      --muted: #777;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #111;
+        --fg: #eee;
+        --muted: #888;
+      }
+    }
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 16px;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: clamp(2rem, 8vw, 4.5rem);
+      font-weight: 400;
+      letter-spacing: -0.02em;
+    }
+    p {
+      margin: 0.75rem 0 0;
+      color: var(--muted);
+      font-size: clamp(1rem, 3vw, 1.4rem);
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>digitalitility</h1>
+    <p>the edge of web</p>
+  </main>
+</body>
+</html>
